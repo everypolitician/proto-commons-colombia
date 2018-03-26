@@ -1,2 +1,46 @@
-[]
-
+[
+  {
+    "comment": "Chamber of Representatives of Colombia",
+    "house_item_id": "Q1571756",
+    "position_item_id": "Q18960607",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Senate of Colombia",
+    "house_item_id": "Q2398781",
+    "position_item_id": "Q19254253",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Departmental Assembly of Antioquia",
+    "house_item_id": "Q18170765",
+    "position_item_id": "Q47525522",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Departmental Assembly of Valle del Cauca",
+    "house_item_id": "Q5260098",
+    "position_item_id": "Q47525024",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
+]
