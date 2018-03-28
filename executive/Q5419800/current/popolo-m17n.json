@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Camilo Torres Tenorio",
-        "lang:en_US": "Camilo Torres Tenorio"
-      },
-      "id": "Q2836330",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2836330"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:es_LA": "Juan Manuel Santos",
         "lang:en_US": "Juan Manuel Santos"
       },
@@ -85,22 +69,6 @@
 
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q2836330-49A0A99D-EC78-4B47-B16F-6D7C2D6EA94F",
-      "person_id": "Q2836330",
-      "organization_id": "Q5419800",
-      "area_id": "Q739",
-      "role_superclass_code": "Q853475",
-      "role_superclass": {
-        "lang:es_LA": "Presidente de Colombia",
-        "lang:en_US": "President of Colombia"
-      },
-      "role_code": "Q853475",
-      "role": {
-        "lang:es_LA": "Presidente de Colombia",
-        "lang:en_US": "President of Colombia"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09",
       "person_id": "Q57311",
