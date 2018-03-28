@@ -1,0 +1,141 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Camilo Torres Tenorio",
+        "lang:en_US": "Camilo Torres Tenorio"
+      },
+      "id": "Q2836330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2836330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Manuel Santos",
+        "lang:en_US": "Juan Manuel Santos"
+      },
+      "id": "Q57311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57311"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JMSantos.Presidente"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Poder Ejecutivo en Colombia",
+        "lang:en_US": "Executive Branch of Colombia"
+      },
+      "id": "Q5419800",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5419800"
+        }
+      ],
+      "area_id": "Q739"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2836330-49A0A99D-EC78-4B47-B16F-6D7C2D6EA94F",
+      "person_id": "Q2836330",
+      "organization_id": "Q5419800",
+      "area_id": "Q739",
+      "role_superclass_code": "Q853475",
+      "role_superclass": {
+        "lang:es_LA": "Presidente de Colombia",
+        "lang:en_US": "President of Colombia"
+      },
+      "role_code": "Q853475",
+      "role": {
+        "lang:es_LA": "Presidente de Colombia",
+        "lang:en_US": "President of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09",
+      "person_id": "Q57311",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q5419800",
+      "area_id": "Q739",
+      "start_date": "2010-08-07",
+      "role_superclass_code": "Q853475",
+      "role_superclass": {
+        "lang:es_LA": "Presidente de Colombia",
+        "lang:en_US": "President of Colombia"
+      },
+      "role_code": "Q853475",
+      "role": {
+        "lang:es_LA": "Presidente de Colombia",
+        "lang:en_US": "President of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09",
+      "person_id": "Q57311",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q5419800",
+      "area_id": "Q739",
+      "start_date": "2010-08-07",
+      "role_superclass_code": "Q853475",
+      "role_superclass": {
+        "lang:es_LA": "Presidente de Colombia",
+        "lang:en_US": "President of Colombia"
+      },
+      "role_code": "Q853475",
+      "role": {
+        "lang:es_LA": "Presidente de Colombia",
+        "lang:en_US": "President of Colombia"
+      }
+    }
+  ]
+}
