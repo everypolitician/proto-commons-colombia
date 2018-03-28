@@ -21,12 +21,16 @@ SELECT DISTINCT ?item ?itemLabel ?body ?bodyLabel ?bodyType ?bodyTypeLabel ?posi
   }
 
   OPTIONAL {
-    ?position p:P1001 [ wikibase:rank ?appliesToJurisdictionRank ; ps:P1001 ?body ] ;
-      wdt:P31/wdt:P279* wd:Q4164871 .
-    FILTER (?appliesToJurisdictionRank != wikibase:DeprecatedRank)
-    FILTER EXISTS {
-      VALUES ?positionSuperclass { wd:Q2285706 wd:Q30461 }
-      ?position wdt:P279* ?positionSuperclass .
+    {
+      ?position p:P1001 [ wikibase:rank ?appliesToJurisdictionRank ; ps:P1001 ?body ] ;
+        wdt:P31/wdt:P279* wd:Q4164871 .
+      FILTER (?appliesToJurisdictionRank != wikibase:DeprecatedRank)
+      FILTER EXISTS {
+        VALUES ?positionSuperclass { wd:Q2285706 wd:Q30461 }
+        ?position wdt:P279* ?positionSuperclass .
+      }
+    } UNION {
+      ?body wdt:P1313 ?position
     }
 
     OPTIONAL {
