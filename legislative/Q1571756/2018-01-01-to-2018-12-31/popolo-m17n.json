@@ -50,6 +50,37 @@
     },
     {
       "name": {
+        "lang:es_LA": "María Fernanda Cabal",
+        "lang:en_US": "María Fernanda Cabal"
+      },
+      "id": "Q17477937",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17477937"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Jaime Buenahora"
+      },
+      "id": "Q20016923",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20016923"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es_LA": "León Darío Ramírez",
         "lang:en_US": "León Darío Ramírez"
       },
@@ -223,6 +254,102 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Lina María Barrera Rueda",
+        "lang:en_US": "Lina María Barrera Rueda"
+      },
+      "id": "Q51100622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51100622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Sara Helena Piedrahita Lyons",
+        "lang:en_US": "Sara Helena Piedrahita Lyons"
+      },
+      "id": "Q51100624",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51100624"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Kelyn Johana González Duarte",
+        "lang:en_US": "Kelyn Johana González Duarte"
+      },
+      "id": "Q51100627",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51100627"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Vanessa Alexandra Mendoza Bustos",
+        "lang:en_US": "Vanessa Alexandra Mendoza Bustos"
+      },
+      "id": "Q51100629",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51100629"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Germán Bernardo Carlosama López",
+        "lang:en_US": "Germán Bernardo Carlosama López"
+      },
+      "id": "Q51100632",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51100632"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Rodrigo Lara Restrepo",
+        "lang:en_US": "Rodrigo Lara Restrepo"
+      },
+      "id": "Q6110723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6110723"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -243,6 +370,90 @@
       "seat_counts": {
         "Q18960607": "166"
       }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Autoridades Indígenas de Colombia",
+        "lang:en_US": "Indigenous Authorities of Colombia"
+      },
+      "id": "Q11680073",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11680073"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Centro Democrático",
+        "lang:en_US": "Democratic Center"
+      },
+      "id": "Q15909095",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15909095"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Cambio Radical",
+        "lang:en_US": "Radical Change"
+      },
+      "id": "Q429642",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429642"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Conservador Colombiano",
+        "lang:en_US": "Colombian Conservative Party"
+      },
+      "id": "Q747333",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q747333"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
     }
   ],
   "areas": [
@@ -283,6 +494,40 @@
       "id": "http://www.wikidata.org/entity/statement/Q1703852-5445F42E-F47A-46FD-B888-CC3C19E73CD1",
       "person_id": "Q1703852",
       "organization_id": "Q1571756",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17477937-E5B38E68-D8B5-49B2-AC4E-7FEC87932E2B",
+      "person_id": "Q17477937",
+      "on_behalf_of_id": "Q15909095",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091052",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20016923-DAA0FED8-BFD2-41E1-A4E5-B6C8E09C295A",
+      "person_id": "Q20016923",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091054",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es_LA": "diputado",
@@ -451,6 +696,107 @@
       "person_id": "Q332020",
       "organization_id": "Q1571756",
       "area_id": "Q13993",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51100622-FE533D46-4410-4D3F-8350-D975D0BB88F7",
+      "person_id": "Q51100622",
+      "on_behalf_of_id": "Q747333",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091037",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51100624-B49F1A3C-FE81-4D0C-BD3A-976D860227B7",
+      "person_id": "Q51100624",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091033",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51100627-E06B64E8-6714-41C9-8DAF-4BFCC461FE3D",
+      "person_id": "Q51100627",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091007",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51100629-050E70C9-E01F-4A45-AE16-886FE5EB941B",
+      "person_id": "Q51100629",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091057",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51100632-1D0106D5-F777-4F41-92D5-9BDE91754046",
+      "person_id": "Q51100632",
+      "on_behalf_of_id": "Q11680073",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091053",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6110723-84DB8283-2D90-4B81-989D-B793EC453D95",
+      "person_id": "Q6110723",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q1571756",
+      "area_id": "Q51091052",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es_LA": "diputado",
