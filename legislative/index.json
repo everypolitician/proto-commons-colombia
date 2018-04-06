@@ -22,7 +22,7 @@
     ]
   },
   {
-    "comment": "Departmental Assembly of Antioquia",
+    "comment": "departmental assembly of Antioquia",
     "house_item_id": "Q18170765",
     "position_item_id": "Q47525522",
     "terms": [
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "comment": "Departmental Assembly of Cesar",
+    "comment": "departmental assembly of Cesar",
     "house_item_id": "Q21564847",
     "position_item_id": "Q47528278",
     "terms": [
@@ -44,9 +44,383 @@
     ]
   },
   {
-    "comment": "Departmental Assembly of Valle del Cauca",
+    "comment": "departmental assembly of Boyacá",
+    "house_item_id": "Q51092546",
+    "position_item_id": "Q51093287",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Casanare",
+    "house_item_id": "Q51092547",
+    "position_item_id": "Q51093290",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Caquetá",
+    "house_item_id": "Q51092549",
+    "position_item_id": "Q51093291",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Risaralda",
+    "house_item_id": "Q51092550",
+    "position_item_id": "Q51093294",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Quindío",
+    "house_item_id": "Q51092551",
+    "position_item_id": "Q51093296",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Magdalena",
+    "house_item_id": "Q51092552",
+    "position_item_id": "Q51093300",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Nariño",
+    "house_item_id": "Q51092555",
+    "position_item_id": "Q51093302",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Arauca",
+    "house_item_id": "Q51092556",
+    "position_item_id": "Q51093303",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Chocó",
+    "house_item_id": "Q51092558",
+    "position_item_id": "Q51093305",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Bolívar",
+    "house_item_id": "Q51092559",
+    "position_item_id": "Q51093306",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Cauca",
+    "house_item_id": "Q51092561",
+    "position_item_id": "Q51093308",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Caldas",
+    "house_item_id": "Q51092564",
+    "position_item_id": "Q51093310",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Atlántico",
+    "house_item_id": "Q51092565",
+    "position_item_id": "Q51093312",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Cundinamarca",
+    "house_item_id": "Q51092568",
+    "position_item_id": "Q51093316",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Putumayo",
+    "house_item_id": "Q51092569",
+    "position_item_id": "Q51093319",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Norte de Santander",
+    "house_item_id": "Q51092570",
+    "position_item_id": "Q51093322",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Tolima",
+    "house_item_id": "Q51092572",
+    "position_item_id": "Q51093323",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Vaupés",
+    "house_item_id": "Q51092573",
+    "position_item_id": "Q51093325",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Córdoba",
+    "house_item_id": "Q51092574",
+    "position_item_id": "Q51093327",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Huila",
+    "house_item_id": "Q51092577",
+    "position_item_id": "Q51093330",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Santander",
+    "house_item_id": "Q51092579",
+    "position_item_id": "Q51093333",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Sucre",
+    "house_item_id": "Q51092582",
+    "position_item_id": "Q51093335",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Meta",
+    "house_item_id": "Q51092583",
+    "position_item_id": "Q51093340",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Guainía",
+    "house_item_id": "Q51092587",
+    "position_item_id": "Q51093341",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina",
+    "house_item_id": "Q51092590",
+    "position_item_id": "Q51093343",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Vichada",
+    "house_item_id": "Q51092593",
+    "position_item_id": "Q51093346",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Guaviare",
+    "house_item_id": "Q51092595",
+    "position_item_id": "Q51093350",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Amazonas",
+    "house_item_id": "Q51092596",
+    "position_item_id": "Q51093353",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Valle del Cauca",
     "house_item_id": "Q5260098",
     "position_item_id": "Q47525024",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of La Guajira",
+    "house_item_id": "Q5707807",
+    "position_item_id": "Q51093348",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "city council of Cartagena de Indias",
+    "house_item_id": "Q16491339",
+    "position_item_id": "Q51096876",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "city council of Cali",
+    "house_item_id": "Q51093881",
+    "position_item_id": "Q51096851",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "city council of Medellín",
+    "house_item_id": "Q51094127",
+    "position_item_id": "Q51096859",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "city council of Barranquilla",
+    "house_item_id": "Q51094137",
+    "position_item_id": "Q51096868",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bogotá city council",
+    "house_item_id": "Q5780806",
+    "position_item_id": "Q51096842",
     "terms": [
       {
         "start_date": "2018-01-01",
