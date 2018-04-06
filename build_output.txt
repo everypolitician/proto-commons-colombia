@@ -11,7 +11,41 @@ WARNING: the district Bogotá (Q51091052) wasn't found in the boundary data for 
 WARNING: Position senador de Colombia (Q19254253) not in boundary associated_wikidata_positions
 WARNING: Position deputy in the departmental assembly of Antioquia (Q47525522) not in boundary associated_wikidata_positions
 WARNING: Position deputy in the departmental assembly of Cesar (Q47528278) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Boyacá (Q51093287) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Casanare (Q51093290) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Caquetá (Q51093291) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Risaralda (Q51093294) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Quindío (Q51093296) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Magdalena (Q51093300) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Nariño (Q51093302) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Arauca (Q51093303) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Chocó (Q51093305) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Bolívar (Q51093306) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Cauca (Q51093308) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Caldas (Q51093310) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Atlántico (Q51093312) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Cundinamarca (Q51093316) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Putumayo (Q51093319) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Norte de Santander (Q51093322) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Tolima (Q51093323) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Vaupés (Q51093325) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Córdoba (Q51093327) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Huila (Q51093330) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Santander (Q51093333) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Sucre (Q51093335) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Meta (Q51093340) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Guainía (Q51093341) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of the departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina (Q51093343) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Vichada (Q51093346) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Guaviare (Q51093350) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of Amazonas (Q51093353) not in boundary associated_wikidata_positions
 WARNING: Position deputy in the departmental assembly of Valle del Cauca (Q47525024) not in boundary associated_wikidata_positions
+WARNING: Position deputy in the departmental assembly of La Guajira (Q51093348) not in boundary associated_wikidata_positions
+WARNING: Position councillor of Cartagena de Indias (Q51096876) not in boundary associated_wikidata_positions
+WARNING: Position councillor of Cali (Q51096851) not in boundary associated_wikidata_positions
+WARNING: Position councillor of Medellín (Q51096859) not in boundary associated_wikidata_positions
+WARNING: Position councillor of Barranquilla (Q51096868) not in boundary associated_wikidata_positions
+WARNING: Position councillor of Bogotá (Q51096842) not in boundary associated_wikidata_positions
 WARNING: Position Presidente de Colombia (Q853475) not in boundary associated_wikidata_positions
 WARNING: the district Colombia (Q739) wasn't found in the boundary data for position Presidente de Colombia (Q853475)
 WARNING: the district Colombia (Q739) wasn't found in the boundary data for position Presidente de Colombia (Q853475)
