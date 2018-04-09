@@ -1,0 +1,34 @@
+id,ISO3166-2,name,type,state_code,MS_FB,MS_FB_PARE,WIKIDATA
+relation/396705,CO-CAL,Caldas,Departamento,CAL,country:co/departamento:cal,country:co,Q230607
+relation/1303962,CO-AMA,Amazonas,Departamento,AMA,country:co/departamento:ama,country:co,Q44724
+relation/1305166,CO-MET,Meta,Departamento,MET,country:co/departamento:met,country:co,Q238629
+relation/1305533,CO-CUN,Cundinamarca,Departamento,CUN,country:co/departamento:cun,country:co,Q232564
+relation/1309495,CO-TOL,Tolima,Departamento,TOL,country:co/departamento:tol,country:co,Q234501
+relation/1315120,CO-ANT,Antioquia,Departamento,ANT,country:co/departamento:ant,country:co,Q123304
+relation/1315209,CO-ATL,Atlántico,Departamento,ATL,country:co/departamento:atl,country:co,Q230882
+relation/1316581,CO-BOL,Bolívar,Departamento,BOL,country:co/departamento:bol,country:co,Q230597
+relation/1317223,CO-CES,Cesar,Departamento,CES,country:co/departamento:ces,country:co,Q234916
+relation/1319097,CO-MAG,Magdalena,Departamento,MAG,country:co/departamento:mag,country:co,Q199910
+relation/1320759,CO-SUC,Sucre,Departamento,SUC,country:co/departamento:suc,country:co,Q235188
+relation/1321032,CO-COR,Córdoba,Departamento,COR,country:co/departamento:cor,country:co,Q234912
+relation/1321379,CO-LAG,La Guajira,Departamento,LAG,country:co/departamento:lag,country:co,Q272747
+relation/1322131,CO-CHO,Chocó,Departamento,CHO,country:co/departamento:cho,country:co,Q230584
+relation/1322825,CO-VAC,Valle del Cauca,Departamento,VAC,country:co/departamento:vac,country:co,Q13990
+relation/1324192,CO-NSA,Norte de Santander,Departamento,NSA,country:co/departamento:nsa,country:co,Q233058
+relation/1331230,CO-QUI,Quindío,Departamento,QUI,country:co/departamento:qui,country:co,Q13995
+relation/1357098,CO-VID,Vichada,Departamento,VID,country:co/departamento:vid,country:co,Q268729
+relation/1359366,CO-VAU,Vaupés,Departamento,VAU,country:co/departamento:vau,country:co,Q234505
+relation/1372374,CO-SAN,Santander,Departamento,SAN,country:co/departamento:san,country:co,Q235166
+relation/1374221,CO-RIS,Risaralda,Departamento,RIS,country:co/departamento:ris,country:co,Q13993
+relation/1375357,CO-PUT,Putumayo,Departamento,PUT,country:co/departamento:put,country:co,Q232953
+relation/1380130,CO-NAR,Nariño,Departamento,NAR,country:co/departamento:nar,country:co,Q230217
+relation/1380540,CO-GUV,Guaviare,Departamento,GUV,country:co/departamento:guv,country:co,Q272885
+relation/1385038,CO-GUA,Guainía,Departamento,GUA,country:co/departamento:gua,country:co,Q238645
+relation/1387968,CO-DC,Bogotá Distrito Capital,Distrito Capital,DC,country:co/distrito-capital:dc,country:co,Q2841
+relation/1388045,CO-ARA,Arauca,Departamento,ARA,country:co/departamento:ara,country:co,Q230223
+relation/1390144,CO-BOY,Boyacá,Departamento,BOY,country:co/departamento:boy,country:co,Q121233
+relation/1392025,CO-CAS,Casanare,Departamento,CAS,country:co/departamento:cas,country:co,Q13984
+relation/1392085,CO-CAU,Cauca,Departamento,CAU,country:co/departamento:cau,country:co,Q230602
+relation/1394843,CO-CAQ,Caquetá,Departamento,CAQ,country:co/departamento:caq,country:co,Q13985
+relation/1396291,CO-HUI,Huila,Departamento,HUI,country:co/departamento:hui,country:co,Q234920
+relation/2181889,CO-SAP,"Archipiélago de San Andrés, Providencia y Santa Catalina",Departamento,SAP,country:co/departamento:sap,country:co,Q26855

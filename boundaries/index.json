@@ -25,6 +25,40 @@
     "name_columns": {
       "lang:es_LA": "name"
     }
-  }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "Governor",
+        "position_item_id": "Q132050"
+      }
+    ],
+    "filter": {
+      "column":"MS_FB",
+      "match":"country:co/departmento"
+    },
+    "name_columns": {
+      "lang:es_LA": "name"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q395994",
+    "associations": [
+      {
+        "comment": "Superior Mayor of Bogota",
+        "position_item_id": "Q21994938"
+      }
+    ],
+    "filter": {
+      "column":"MS_FB",
+      "match":"country:co/distrito-capital"
+    },
+    "name_columns": {
+      "lang:es_LA": "name"
+    }
+  },
 ]
 
