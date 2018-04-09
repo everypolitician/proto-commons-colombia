@@ -457,7 +457,790 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q51090991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:boy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51090991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Boyacá"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51090993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:ant"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51090993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Antioquia"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51090995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:cas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51090995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Casanare"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51090996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:caq"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51090996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Caquetá"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:vac"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Valle del Cauca"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:ris"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Risaralda"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:qui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Quindío"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:mag"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Magdalena"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:nar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Nariño"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:ara"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Arauca"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:cho"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Chocó"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:bol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Bolívar"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:cau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Cauca"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Caldas"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:atl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Atlántico"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:cun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Cundinamarca"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:put"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Putumayo"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:nsa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Norte de Santander"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:tol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Tolima"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:vau"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Vaupés"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:cor"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Córdoba"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:ces"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Cesar"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:hui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Huila"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:san"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Santander"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:suc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Sucre"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:met"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Meta"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:gua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Guainía"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:sap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:vid"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Vichada"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:lag"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "La Guajira"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:guv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Guaviare"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:ama"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Amazonas"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51091052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:dc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Bogotá "
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
