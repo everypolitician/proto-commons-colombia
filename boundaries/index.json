@@ -620,6 +620,74 @@
       "match": "country:co/departamento:sap",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q2555896",
+    "associations": [
+      {
+        "comment": "councillor of barranquilla",
+        "position_item_id": "Q51096868"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:atl/city:baranquilla",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q2555896",
+    "associations": [
+      {
+        "comment": "councillor of cali",
+        "position_item_id": "Q51096851"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:vac/city:cali",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q2555896",
+    "associations": [
+      {
+        "comment": "councillor of medellín",
+        "position_item_id": "Q51096859"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:ant/city:medellin",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q2555896",
+    "associations": [
+      {
+        "comment": "councillor of cartagena de indias",
+        "position_item_id": "Q51096876"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:bol/city:cartagena",
+      "column": "MS_FB"
+    }
   }
 ]
 
