@@ -815,7 +815,23 @@
     "name_columns": {
       "lang:es_LA": "name_es",
       "lang:en_US": "name_en"
+
+    } 
+  },
+  {
+    "directory": "senate-national-indigenous",
+    "area_type_wikidata_item_id": "Q51674305",
+    "associations": [
+      {
+        "comment": "member of the Senate of Colombia",
+        "position_item_id": "Q19254253"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name_es",
+      "lang:en_US": "name_en"
+
     }    
-  }
+  } 
 ]
 
