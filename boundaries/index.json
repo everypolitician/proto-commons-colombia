@@ -60,5 +60,566 @@
       "lang:es_LA": "name"
     }
   },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of caldas",
+        "position_item_id": "Q51093310"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:cal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of amazonas",
+        "position_item_id": "Q51093353"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:ama",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of meta",
+        "position_item_id": "Q51093340"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:met",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of cundinamarca",
+        "position_item_id": "Q51093316"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:cun",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of tolima",
+        "position_item_id": "Q51093323"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:tol",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of antioquia",
+        "position_item_id": "Q47525522"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:ant",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of atlántico",
+        "position_item_id": "Q51093312"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:atl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of bolívar",
+        "position_item_id": "Q51093306"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:bol",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of cesar",
+        "position_item_id": "Q47528278"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:ces",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of magdalena",
+        "position_item_id": "Q51093300"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:mag",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of sucre",
+        "position_item_id": "Q51093335"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:suc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of córdoba",
+        "position_item_id": "Q51093327"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:cor",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of la guajira",
+        "position_item_id": "Q51093348"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:lag",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of chocó",
+        "position_item_id": "Q51093305"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:cho",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of valle del cauca",
+        "position_item_id": "Q47525024"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:vac",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of norte de santander",
+        "position_item_id": "Q51093322"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:nsa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of quindío",
+        "position_item_id": "Q51093296"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:qui",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of vichada",
+        "position_item_id": "Q51093346"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:vid",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of vaupés",
+        "position_item_id": "Q51093325"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:vau",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of santander",
+        "position_item_id": "Q51093333"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:san",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of risaralda",
+        "position_item_id": "Q51093294"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:ris",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of putumayo",
+        "position_item_id": "Q51093319"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:put",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of nariño",
+        "position_item_id": "Q51093302"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:nar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of guaviare",
+        "position_item_id": "Q51093350"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:guv",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of guainía",
+        "position_item_id": "Q51093341"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:gua",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q395994",
+    "associations": [
+      {
+        "comment": "councillor of bogotá",
+        "position_item_id": "Q51096842"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/distrito-capital:dc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of arauca",
+        "position_item_id": "Q51093303"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:ara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of boyacá",
+        "position_item_id": "Q51093287"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:boy",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of casanare",
+        "position_item_id": "Q51093290"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:cas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of cauca",
+        "position_item_id": "Q51093308"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:cau",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of caquetá",
+        "position_item_id": "Q51093291"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:caq",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q215655",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of huila",
+        "position_item_id": "Q51093330"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:hui",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q33837",
+    "associations": [
+      {
+        "comment": "deputy in the departmental assembly of the departmental assembly of the archipelago of saint andréws, providence and saint catalina",
+        "position_item_id": "Q51093343"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:co/departamento:sap",
+      "column": "MS_FB"
+    }
+  }
 ]
 
