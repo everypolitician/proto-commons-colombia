@@ -3760,7 +3760,55 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q51674385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/legislator-at-large:senate-national"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51674385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19254253"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Colombian Senate"
+      },
+      "name": {
+        "lang:es_LA": "circunscripción nacional",
+        "lang:en_US": "national constituency"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
