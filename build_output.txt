@@ -4,36 +4,3 @@ WARNING: the district Afro-colombianos (Q51091057) wasn't found in the boundary 
 WARNING: the district Comunidades indígenas (Q51091053) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
 WARNING: Position senador de Colombia (Q19254253) not in boundary associated_wikidata_positions
 WARNING: the district circunscripción nacional (Q51674385) wasn't found in the boundary data for position senador de Colombia (Q19254253)
-WARNING: Position Governor of Antioquia (Q47524391) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Boyacá Department (Q47524496) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Casanare Department (Q47524524) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Caquetá Department (Q47524522) not in boundary associated_wikidata_positions
-WARNING: Position Anexo:Gobernadores de Valle del Cauca (Q5589730) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Risaralda Department (Q47524628) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Quindío Department (Q47524619) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Magdalena Department (Q47524578) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Nariño Department (Q47524592) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Arauca Department (Q47524444) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Chocó Department (Q47520040) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Bolívar Department (Q47524459) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Cauca Department (Q47524527) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Caldas Department (Q47524507) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Atlántico (Q5589627) not in boundary associated_wikidata_positions
-WARNING: the district Atlántico (Q230882) wasn't found in the boundary data for position Governor of Atlántico (Q5589627)
-WARNING: Position Governor of Cundinamarca Department (Q47524564) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Putumayo Department (Q47524604) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Norte de Santander (Q47524596) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Tolima Department (Q47524678) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Vaupés Department (Q47524691) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Córdoba Department (Q47524553) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Cesar Department (Q47524530) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Huila Department (Q47524573) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Santander Department (Q47524661) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Sucre Department (Q47524673) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Meta Department (Q47524581) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Guainía (Q47524568) not in boundary associated_wikidata_positions
-WARNING: Position Governor of the Archipelago of Saint Andréws, Providence and Saint Catalina (Q47524713) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Vichada Department (Q47524702) not in boundary associated_wikidata_positions
-WARNING: Position Governor of La Guajira Department (Q47524576) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Guaviare Department (Q47524571) not in boundary associated_wikidata_positions
-WARNING: Position Governor of Amazonas Department (Q47524303) not in boundary associated_wikidata_positions

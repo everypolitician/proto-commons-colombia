@@ -6,7 +6,56 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q268729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/departamento:vid"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q268729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47524702",
+        "Q51093346"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Colombia",
+        "lang:en_US": "department of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Vichada"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
