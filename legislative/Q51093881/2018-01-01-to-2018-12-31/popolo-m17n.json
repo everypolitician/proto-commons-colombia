@@ -1,9 +1,164 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Carlos Hernán Rodriguez Naranjo",
+        "lang:en_US": "Carlos Hernán Rodriguez Naranjo"
+      },
+      "id": "Q51710246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710246"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/concejalcarlosh"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Carlos Olaya Ciro",
+        "lang:en_US": "Juan Carlos Olaya Ciro"
+      },
+      "id": "Q51710248",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710248"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Manuel Chicango Castillo",
+        "lang:en_US": "Juan Manuel Chicango Castillo"
+      },
+      "id": "Q51710250",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710250"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Audry María Toro Echavarría",
+        "lang:en_US": "Audry María Toro Echavarría"
+      },
+      "id": "Q51710252",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Alexandra Hernández Cedeño",
+        "lang:en_US": "Alexandra Hernández Cedeño"
+      },
+      "id": "Q51710256",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710256"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "concejo de Cali",
+        "lang:en_US": "city council of Cali"
+      },
+      "id": "Q51093881",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51093881"
+        }
+      ],
+      "area_id": "Q51103",
+      "seat_counts": {
+        "Q51096851": "21"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Movimiento Independiente de Renovación Absoluta",
+        "lang:en_US": "Independent Movement of Absolute Renovation"
+      },
+      "id": "Q13988",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13988"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Cambio Radical",
+        "lang:en_US": "Radical Change"
+      },
+      "id": "Q429642",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429642"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -83,6 +238,85 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710246-3ACE337D-3EA2-48CF-A32B-9FF2BE31AA80",
+      "person_id": "Q51710246",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q51093881",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096851",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cali"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710248-49AFCC2C-4860-4B71-9222-874273D80A24",
+      "person_id": "Q51710248",
+      "on_behalf_of_id": "Q13988",
+      "organization_id": "Q51093881",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096851",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cali"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710250-1995583D-8295-412A-B0A4-4C80F64D1EAD",
+      "person_id": "Q51710250",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51093881",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096851",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cali"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710252-0FD9B386-8389-4962-A947-E6DCBF48AED5",
+      "person_id": "Q51710252",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q51093881",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096851",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cali"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710256-068E825A-CB5C-43E6-9106-AE1867FD0039",
+      "person_id": "Q51710256",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q51093881",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096851",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cali"
+      }
+    }
   ]
 }

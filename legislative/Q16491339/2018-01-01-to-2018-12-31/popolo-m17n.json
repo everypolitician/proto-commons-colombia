@@ -1,9 +1,147 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es_LA": "César Augusto Pión González",
+        "lang:en_US": "César Augusto Pión González"
+      },
+      "id": "Q51710276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710276"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Duvinia Torres Cohen",
+        "lang:en_US": "Duvinia Torres Cohen"
+      },
+      "id": "Q51710278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Vicente Blel Scaff",
+        "lang:en_US": "Vicente Blel Scaff"
+      },
+      "id": "Q51710279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Luis Javier Cassiani Valiente",
+        "lang:en_US": "Luis Javier Cassiani Valiente"
+      },
+      "id": "Q51710287",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710287"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Edgar Elías Mendoza Saleme",
+        "lang:en_US": "Edgar Elías Mendoza Saleme"
+      },
+      "id": "Q51710291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710291"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "concejo distrital de Cartagena de Indias",
+        "lang:en_US": "district council of Cartagena de Indias"
+      },
+      "id": "Q16491339",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16491339"
+        }
+      ],
+      "area_id": "Q657461",
+      "seat_counts": {
+        "Q51096876": "19"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Cambio Radical",
+        "lang:en_US": "Radical Change"
+      },
+      "id": "Q429642",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429642"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Conservador Colombiano",
+        "lang:en_US": "Colombian Conservative Party"
+      },
+      "id": "Q747333",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q747333"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -83,6 +221,85 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710276-F3FD9590-2B30-45D9-B0A3-89E951687D8E",
+      "person_id": "Q51710276",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q16491339",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096876",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cartagena de Indias"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710278-F6906894-7377-4BC9-ABCE-1F7C73699A1B",
+      "person_id": "Q51710278",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q16491339",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096876",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cartagena de Indias"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710279-8D9E3437-BD01-4EE1-AB76-2F30ED952EAF",
+      "person_id": "Q51710279",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q16491339",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096876",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cartagena de Indias"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710287-9E127530-3B46-4A8C-AF55-5C9BBD006797",
+      "person_id": "Q51710287",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q16491339",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096876",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cartagena de Indias"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710291-55256CEE-3C50-4C1D-A6E5-AD00F36BBEF9",
+      "person_id": "Q51710291",
+      "on_behalf_of_id": "Q747333",
+      "organization_id": "Q16491339",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096876",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Cartagena de Indias"
+      }
+    }
   ]
 }

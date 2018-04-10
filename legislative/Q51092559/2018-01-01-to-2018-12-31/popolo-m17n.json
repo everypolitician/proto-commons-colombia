@@ -1,9 +1,58 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "Veronica Payares Vásquez",
+        "lang:en_US": "Veronica Payares Vásquez"
+      },
+      "id": "Q51710241",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710241"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/veronica.payares.7906"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "asamblea departamental de Bolívar",
+        "lang:en_US": "departmental assembly of Bolívar"
+      },
+      "id": "Q51092559",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092559"
+        }
+      ],
+      "area_id": "Q230597",
+      "seat_counts": {
+        "Q51093306": "14"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +107,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710241-21BAD89C-867D-4DFF-A872-D48986ED4DF0",
+      "person_id": "Q51710241",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51092559",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q51093306",
+      "role": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy in the departmental assembly of Bolívar"
+      }
+    }
   ]
 }

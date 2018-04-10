@@ -61,12 +61,16 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MariaFdaCabal"
+        }
       ]
     },
     {
       "name": {
-        "lang:es_LA": "Jaime Buenahora"
+        "lang:es_LA": "Jaime Buenahora",
+        "lang:en_US": "Jaime Buenahora"
       },
       "id": "Q20016923",
       "identifiers": [
@@ -76,7 +80,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jaimebuenahora"
+        }
       ]
     },
     {
@@ -268,7 +275,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/linabarrerarueda"
+        }
       ]
     },
     {
@@ -284,7 +294,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/sara.piedrahita.9"
+        }
       ]
     },
     {
@@ -300,7 +313,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kelyn.gonzalezduarte.7"
+        }
       ]
     },
     {
@@ -316,7 +332,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/vanessa.mendoza.94849410"
+        }
       ]
     },
     {
@@ -348,7 +367,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/RodrigoLaraR"
+        }
       ]
     }
   ],
@@ -382,6 +404,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q11680073"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Alianza Nacional",
+        "lang:en_US": "National Alliance"
+      },
+      "id": "Q1576026",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1576026"
         }
       ]
     },
@@ -1544,6 +1580,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q51100629-050E70C9-E01F-4A45-AE16-886FE5EB941B",
       "person_id": "Q51100629",
+      "on_behalf_of_id": "Q1576026",
       "organization_id": "Q1571756",
       "area_id": "Q51091057",
       "role_superclass_code": "Q1055894",

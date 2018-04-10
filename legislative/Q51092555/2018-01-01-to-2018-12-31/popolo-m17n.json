@@ -1,9 +1,58 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "José María Moncayo Rosero",
+        "lang:en_US": "José María Moncayo Rosero"
+      },
+      "id": "Q51710243",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710243"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/josemariamoncayo"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "asamblea departamental de Nariño",
+        "lang:en_US": "departmental assembly of Nariño"
+      },
+      "id": "Q51092555",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092555"
+        }
+      ],
+      "area_id": "Q230217",
+      "seat_counts": {
+        "Q51093302": "13"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +107,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710243-3355575E-D937-43CD-895F-9B208BC61CC8",
+      "person_id": "Q51710243",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q51092555",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q51093302",
+      "role": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy in the departmental assembly of Nariño"
+      }
+    }
   ]
 }

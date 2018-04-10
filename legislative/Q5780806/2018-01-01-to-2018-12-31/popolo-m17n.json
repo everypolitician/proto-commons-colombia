@@ -1,9 +1,58 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "Diego Andrés Molano Aponte",
+        "lang:en_US": "Diego Andrés Molano Aponte"
+      },
+      "id": "Q51710244",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710244"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DiegoMolanoAponte"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "concejo de Bogotá",
+        "lang:en_US": "Bogotá city council"
+      },
+      "id": "Q5780806",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5780806"
+        }
+      ],
+      "area_id": "Q2841",
+      "seat_counts": {
+        "Q51096842": "45"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Centro Democrático",
+        "lang:en_US": "Democratic Center"
+      },
+      "id": "Q15909095",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15909095"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +107,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710244-5D4E242C-077B-467B-9467-104F1FAAB2D3",
+      "person_id": "Q51710244",
+      "on_behalf_of_id": "Q15909095",
+      "organization_id": "Q5780806",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096842",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Bogotá"
+      }
+    }
   ]
 }

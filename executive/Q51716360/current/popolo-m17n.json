@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "Dilian Francisca Toro",
+        "lang:en_US": "Dilian Francisca Toro"
+      },
+      "id": "Q5276782",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5276782"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DilianFranciscaT"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "despacho del gobernador de Valle del Cauca",
+        "lang:en_US": "office of the governor of Valle del Cauca department"
+      },
+      "id": "Q51716360",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716360"
+        }
+      ],
+      "area_id": "Q13990"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5276782-01B97C61-ADE2-4BF9-8134-A0E2A8684CCD",
+      "person_id": "Q5276782",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q51716360",
+      "area_id": "Q13990",
+      "role_superclass_code": "Q5589730",
+      "role_superclass": {
+        "lang:es_LA": "Anexo:Gobernadores de Valle del Cauca",
+        "lang:en_US": "Governor of Valle del Cauca Department"
+      },
+      "role_code": "Q5589730",
+      "role": {
+        "lang:es_LA": "Anexo:Gobernadores de Valle del Cauca",
+        "lang:en_US": "Governor of Valle del Cauca Department"
+      }
+    }
   ]
 }

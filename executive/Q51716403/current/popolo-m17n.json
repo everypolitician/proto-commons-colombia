@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "William Villamizar Laguado",
+        "lang:en_US": "William Villamizar Laguado"
+      },
+      "id": "Q6167750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6167750"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/VotePorWilliam"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "despacho del gobernador de Norte de Santander",
+        "lang:en_US": "office of the governor of Norte de Santander department"
+      },
+      "id": "Q51716403",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716403"
+        }
+      ],
+      "area_id": "Q233058"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Conservador Colombiano",
+        "lang:en_US": "Colombian Conservative Party"
+      },
+      "id": "Q747333",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q747333"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +104,20 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6167750-A659FD65-A712-4456-8450-98CADFA1DC06",
+      "person_id": "Q6167750",
+      "on_behalf_of_id": "Q747333",
+      "organization_id": "Q51716403",
+      "area_id": "Q233058",
+      "role_superclass_code": "Q47524596",
+      "role_superclass": {
+        "lang:en_US": "Governor of Norte de Santander"
+      },
+      "role_code": "Q47524596",
+      "role": {
+        "lang:en_US": "Governor of Norte de Santander"
+      }
+    }
   ]
 }

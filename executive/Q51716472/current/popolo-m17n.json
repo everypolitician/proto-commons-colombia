@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "Federico Gutiérrez",
+        "lang:en_US": "Federico Gutiérrez"
+      },
+      "id": "Q19722000",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19722000"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/FicoGutierrez"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "alcaldía de Medellín",
+        "lang:en_US": "office of the mayor of Medellín"
+      },
+      "id": "Q51716472",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716472"
+        }
+      ],
+      "area_id": "Q48278"
+    }
   ],
   "areas": [
     {
@@ -83,6 +115,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19722000-4FDF3EED-AA7A-441C-889E-7E70AAEC1B46",
+      "person_id": "Q19722000",
+      "organization_id": "Q51716472",
+      "area_id": "Q48278",
+      "role_superclass_code": "Q51094750",
+      "role_superclass": {
+        "lang:es_LA": "alcalde de Medellín",
+        "lang:en_US": "mayor of Medellín"
+      },
+      "role_code": "Q51094750",
+      "role": {
+        "lang:es_LA": "alcalde de Medellín",
+        "lang:en_US": "mayor of Medellín"
+      }
+    }
   ]
 }

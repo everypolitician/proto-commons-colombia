@@ -1,9 +1,147 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Oscar David Galan Escalante",
+        "lang:en_US": "Oscar David Galan Escalante"
+      },
+      "id": "Q51710264",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710264"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Freddy Baron Orozco",
+        "lang:en_US": "Freddy Baron Orozco"
+      },
+      "id": "Q51710265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Ernesto Aguilar Medina",
+        "lang:en_US": "Ernesto Aguilar Medina"
+      },
+      "id": "Q51710267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710267"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "María Henríquez Quintero",
+        "lang:en_US": "María Henríquez Quintero"
+      },
+      "id": "Q51710270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Luis Zapata Donado",
+        "lang:en_US": "Luis Zapata Donado"
+      },
+      "id": "Q51710274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51710274"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "concejo de Barranquilla",
+        "lang:en_US": "city council of Barranquilla"
+      },
+      "id": "Q51094137",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51094137"
+        }
+      ],
+      "area_id": "Q62823",
+      "seat_counts": {
+        "Q51096868": "21"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Cambio Radical",
+        "lang:en_US": "Radical Change"
+      },
+      "id": "Q429642",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429642"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -83,6 +221,85 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710264-E3684802-D614-484B-BDE6-49F15F37843F",
+      "person_id": "Q51710264",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51094137",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096868",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Barranquilla"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710265-86B576B6-1598-47AE-BED1-CCFE4F184EF8",
+      "person_id": "Q51710265",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51094137",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096868",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Barranquilla"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710267-77D208E5-4802-4B23-B1DA-7CDF318B175E",
+      "person_id": "Q51710267",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51094137",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096868",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Barranquilla"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710270-9634B223-0006-43BB-9FA7-A709C0FD4EA9",
+      "person_id": "Q51710270",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q51094137",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096868",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Barranquilla"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51710274-4F516C72-2C2C-4C58-9D2A-C8E6CBAD8F98",
+      "person_id": "Q51710274",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q51094137",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51096868",
+      "role": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor of Barranquilla"
+      }
+    }
   ]
 }

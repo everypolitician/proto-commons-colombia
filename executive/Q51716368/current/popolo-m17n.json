@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "Camilo Romero (político)",
+        "lang:en_US": "Camilo Romero"
+      },
+      "id": "Q5742191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5742191"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paginacamiloromero"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "despacho del gobernador de Nariño",
+        "lang:en_US": "office of the governor of Nariño department"
+      },
+      "id": "Q51716368",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716368"
+        }
+      ],
+      "area_id": "Q230217"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Polo Democrático Alternativo",
+        "lang:en_US": "Alternative Democratic Pole"
+      },
+      "id": "Q2251452",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2251452"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +104,20 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5742191-161358F5-0658-4AF6-89E8-76C95122F93B",
+      "person_id": "Q5742191",
+      "on_behalf_of_id": "Q2251452",
+      "organization_id": "Q51716368",
+      "area_id": "Q230217",
+      "role_superclass_code": "Q47524592",
+      "role_superclass": {
+        "lang:en_US": "Governor of Nariño Department"
+      },
+      "role_code": "Q47524592",
+      "role": {
+        "lang:en_US": "Governor of Nariño Department"
+      }
+    }
   ]
 }

@@ -539,6 +539,25 @@
     },
     {
       "name": {
+        "lang:es_LA": "José Alfredo Gnecco",
+        "lang:en_US": "José Alfredo Gnecco"
+      },
+      "id": "Q20016263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20016263"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JoseAlfredognecco"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es_LA": "Cecilia López Montaño",
         "lang:en_US": "Cecilia López Montaño"
       },
@@ -691,7 +710,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/HoracioSerpaUribe"
+        }
       ]
     },
     {
@@ -803,7 +825,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/navarrowolffantonio"
+        }
       ]
     },
     {
@@ -918,7 +943,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DilianFranciscaT"
+        }
       ]
     },
     {
@@ -3119,7 +3147,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/RodrigoLaraR"
+        }
       ]
     },
     {
@@ -3656,6 +3687,76 @@
       "seat_counts": {
         "Q19254253": "102"
       }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Verde",
+        "lang:en_US": "Green Party"
+      },
+      "id": "Q1452567",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452567"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Centro Democrático",
+        "lang:en_US": "Democratic Center"
+      },
+      "id": "Q15909095",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15909095"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Polo Democrático Alternativo",
+        "lang:en_US": "Alternative Democratic Pole"
+      },
+      "id": "Q2251452",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2251452"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Social de Unidad Nacional",
+        "lang:en_US": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
     }
   ],
   "areas": [
@@ -4147,9 +4248,27 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q187413-1B549E7E-5A4A-4177-B54D-ED34E62A616F",
       "person_id": "Q187413",
+      "on_behalf_of_id": "Q15909095",
       "organization_id": "Q2398781",
       "area_id": "Q51674385",
       "start_date": "2014-07-20",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q19254253",
+      "role": {
+        "lang:es_LA": "senador de Colombia",
+        "lang:en_US": "member of the Senate of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20016263-A9BC52F8-CFB3-4936-B2B4-196A7A27965E",
+      "person_id": "Q20016263",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q2398781",
+      "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es_LA": "senador",
@@ -4300,7 +4419,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q326405-E78D616B-1CD5-4788-A893-17829B62D87D",
       "person_id": "Q326405",
+      "on_behalf_of_id": "Q939021",
       "organization_id": "Q2398781",
+      "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es_LA": "senador",
@@ -4405,7 +4526,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4776830-2DFC5CD2-F095-46B6-91B8-86D3CC5001FC",
       "person_id": "Q4776830",
+      "on_behalf_of_id": "Q1452567",
       "organization_id": "Q2398781",
+      "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es_LA": "senador",
@@ -4495,7 +4618,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q524949-14751E9F-73B3-45C5-9B83-2B73562D1FB7",
       "person_id": "Q524949",
+      "on_behalf_of_id": "Q2251452",
       "organization_id": "Q2398781",
+      "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es_LA": "senador",
