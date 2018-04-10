@@ -1,0 +1,154 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Jorge Eliécer Gaitán",
+        "lang:en_US": "Jorge Eliécer Gaitán Mahecha"
+      },
+      "id": "Q132479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q132479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Enrique Peñalosa",
+        "lang:en_US": "Enrique Peñalosa"
+      },
+      "id": "Q989831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q989831"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "alcaldía de Bogotá",
+        "lang:en_US": "office of the mayor of Bogotá"
+      },
+      "id": "Q51716465",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716465"
+        }
+      ],
+      "area_id": "Q2841"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Colombiano",
+        "lang:en_US": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/distrito-capital:dc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21994938"
+      ],
+      "type": {
+        "lang:es_LA": "Distrito Capital",
+        "lang:en_US": "capital district or territory"
+      },
+      "name": {
+        "lang:es_LA": "Bogotá Distrito Capital"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q132479-A28B2B6B-0928-434D-AD02-CF23356D1178",
+      "person_id": "Q132479",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es_LA": "alcalde de Bogotá",
+        "lang:en_US": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es_LA": "alcalde de Bogotá",
+        "lang:en_US": "superior mayor of Bogota"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q989831-eb8a0264-49fc-854e-c778-aa3cc4a89f05",
+      "person_id": "Q989831",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es_LA": "alcalde de Bogotá",
+        "lang:en_US": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es_LA": "alcalde de Bogotá",
+        "lang:en_US": "superior mayor of Bogota"
+      }
+    }
+  ]
+}
