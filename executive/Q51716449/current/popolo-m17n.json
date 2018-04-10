@@ -6,7 +6,56 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q26855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/departamento:sap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47524713",
+        "Q51093343"
+      ],
+      "type": {
+        "lang:es_LA": "archipiélago",
+        "lang:en_US": "archipelago"
+      },
+      "name": {
+        "lang:es_LA": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

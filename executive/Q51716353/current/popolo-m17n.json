@@ -6,7 +6,56 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q121233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/departamento:boy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q121233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47524496",
+        "Q51093287"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Colombia",
+        "lang:en_US": "department of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Boyacá"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

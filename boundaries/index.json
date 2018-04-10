@@ -31,39 +31,9 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
-        "comment": "Governor",
-        "position_item_id": "Q132050"
-      }
-    ],
-    "filter": {
-      "column":"MS_FB",
-      "match":"country:co/departmento"
-    },
-    "name_columns": {
-      "lang:es_LA": "name"
-    }
-  },
-  {
-    "directory": "departments",
-    "area_type_wikidata_item_id": "Q395994",
-    "associations": [
-      {
-        "comment": "Superior Mayor of Bogota",
-        "position_item_id": "Q21994938"
-      }
-    ],
-    "filter": {
-      "column":"MS_FB",
-      "match":"country:co/distrito-capital"
-    },
-    "name_columns": {
-      "lang:es_LA": "name"
-    }
-  },
-  {
-    "directory": "departments",
-    "area_type_wikidata_item_id": "Q215655",
-    "associations": [
+        "comment": "governor of caldas department",
+        "position_item_id": "Q47524507"
+      },
       {
         "comment": "deputy in the departmental assembly of caldas",
         "position_item_id": "Q51093310"
@@ -82,6 +52,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of amazonas department",
+        "position_item_id": "Q47524303"
+      },
+      {
         "comment": "deputy in the departmental assembly of amazonas",
         "position_item_id": "Q51093353"
       }
@@ -98,6 +72,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of meta department",
+        "position_item_id": "Q47524581"
+      },
       {
         "comment": "deputy in the departmental assembly of meta",
         "position_item_id": "Q51093340"
@@ -116,6 +94,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of cundinamarca department",
+        "position_item_id": "Q47524564"
+      },
+      {
         "comment": "deputy in the departmental assembly of cundinamarca",
         "position_item_id": "Q51093316"
       }
@@ -132,6 +114,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of tolima department",
+        "position_item_id": "Q47524678"
+      },
       {
         "comment": "deputy in the departmental assembly of tolima",
         "position_item_id": "Q51093323"
@@ -150,6 +136,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of antioquia",
+        "position_item_id": "Q47524391"
+      },
+      {
         "comment": "deputy in the departmental assembly of antioquia",
         "position_item_id": "Q47525522"
       }
@@ -166,6 +156,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of atlántico",
+        "position_item_id": "Q5589627"
+      },
       {
         "comment": "deputy in the departmental assembly of atlántico",
         "position_item_id": "Q51093312"
@@ -184,6 +178,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of bolívar department",
+        "position_item_id": "Q47524459"
+      },
+      {
         "comment": "deputy in the departmental assembly of bolívar",
         "position_item_id": "Q51093306"
       }
@@ -200,6 +198,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of cesar department",
+        "position_item_id": "Q47524530"
+      },
       {
         "comment": "deputy in the departmental assembly of cesar",
         "position_item_id": "Q47528278"
@@ -218,6 +220,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of magdalena department",
+        "position_item_id": "Q47524578"
+      },
+      {
         "comment": "deputy in the departmental assembly of magdalena",
         "position_item_id": "Q51093300"
       }
@@ -234,6 +240,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of sucre department",
+        "position_item_id": "Q47524673"
+      },
       {
         "comment": "deputy in the departmental assembly of sucre",
         "position_item_id": "Q51093335"
@@ -252,6 +262,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of córdoba department",
+        "position_item_id": "Q47524553"
+      },
+      {
         "comment": "deputy in the departmental assembly of córdoba",
         "position_item_id": "Q51093327"
       }
@@ -268,6 +282,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of la guajira department",
+        "position_item_id": "Q47524576"
+      },
       {
         "comment": "deputy in the departmental assembly of la guajira",
         "position_item_id": "Q51093348"
@@ -286,6 +304,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of chocó department",
+        "position_item_id": "Q47520040"
+      },
+      {
         "comment": "deputy in the departmental assembly of chocó",
         "position_item_id": "Q51093305"
       }
@@ -302,6 +324,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of valle del cauca department",
+        "position_item_id": "Q5589730"
+      },
       {
         "comment": "deputy in the departmental assembly of valle del cauca",
         "position_item_id": "Q47525024"
@@ -320,6 +346,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of norte de santander",
+        "position_item_id": "Q47524596"
+      },
+      {
         "comment": "deputy in the departmental assembly of norte de santander",
         "position_item_id": "Q51093322"
       }
@@ -336,6 +366,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of quindío department",
+        "position_item_id": "Q47524619"
+      },
       {
         "comment": "deputy in the departmental assembly of quindío",
         "position_item_id": "Q51093296"
@@ -354,6 +388,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of vichada department",
+        "position_item_id": "Q47524702"
+      },
+      {
         "comment": "deputy in the departmental assembly of vichada",
         "position_item_id": "Q51093346"
       }
@@ -370,6 +408,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of vaupés department",
+        "position_item_id": "Q47524691"
+      },
       {
         "comment": "deputy in the departmental assembly of vaupés",
         "position_item_id": "Q51093325"
@@ -388,6 +430,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of santander department",
+        "position_item_id": "Q47524661"
+      },
+      {
         "comment": "deputy in the departmental assembly of santander",
         "position_item_id": "Q51093333"
       }
@@ -404,6 +450,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of risaralda department",
+        "position_item_id": "Q47524628"
+      },
       {
         "comment": "deputy in the departmental assembly of risaralda",
         "position_item_id": "Q51093294"
@@ -422,6 +472,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of putumayo department",
+        "position_item_id": "Q47524604"
+      },
+      {
         "comment": "deputy in the departmental assembly of putumayo",
         "position_item_id": "Q51093319"
       }
@@ -438,6 +492,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of nariño department",
+        "position_item_id": "Q47524592"
+      },
       {
         "comment": "deputy in the departmental assembly of nariño",
         "position_item_id": "Q51093302"
@@ -456,6 +514,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of guaviare department",
+        "position_item_id": "Q47524571"
+      },
+      {
         "comment": "deputy in the departmental assembly of guaviare",
         "position_item_id": "Q51093350"
       }
@@ -472,6 +534,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of guainía",
+        "position_item_id": "Q47524568"
+      },
       {
         "comment": "deputy in the departmental assembly of guainía",
         "position_item_id": "Q51093341"
@@ -490,6 +556,10 @@
     "area_type_wikidata_item_id": "Q395994",
     "associations": [
       {
+        "comment": "superior mayor of bogota",
+        "position_item_id": "Q21994938"
+      },
+      {
         "comment": "councillor of bogotá",
         "position_item_id": "Q51096842"
       }
@@ -506,6 +576,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of arauca department",
+        "position_item_id": "Q47524444"
+      },
       {
         "comment": "deputy in the departmental assembly of arauca",
         "position_item_id": "Q51093303"
@@ -524,6 +598,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of boyacá department",
+        "position_item_id": "Q47524496"
+      },
+      {
         "comment": "deputy in the departmental assembly of boyacá",
         "position_item_id": "Q51093287"
       }
@@ -540,6 +618,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of casanare department",
+        "position_item_id": "Q47524524"
+      },
       {
         "comment": "deputy in the departmental assembly of casanare",
         "position_item_id": "Q51093290"
@@ -558,6 +640,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of cauca department",
+        "position_item_id": "Q47524527"
+      },
+      {
         "comment": "deputy in the departmental assembly of cauca",
         "position_item_id": "Q51093308"
       }
@@ -574,6 +660,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
+      {
+        "comment": "governor of caquetá department",
+        "position_item_id": "Q47524522"
+      },
       {
         "comment": "deputy in the departmental assembly of caquetá",
         "position_item_id": "Q51093291"
@@ -592,6 +682,10 @@
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
       {
+        "comment": "governor of huila department",
+        "position_item_id": "Q47524573"
+      },
+      {
         "comment": "deputy in the departmental assembly of huila",
         "position_item_id": "Q51093330"
       }
@@ -608,6 +702,10 @@
     "directory": "departments",
     "area_type_wikidata_item_id": "Q33837",
     "associations": [
+      {
+        "comment": "governor of the archipelago of saint andréws, providence and saint catalina",
+        "position_item_id": "Q47524713"
+      },
       {
         "comment": "deputy in the departmental assembly of the departmental assembly of the archipelago of saint andréws, providence and saint catalina",
         "position_item_id": "Q51093343"
