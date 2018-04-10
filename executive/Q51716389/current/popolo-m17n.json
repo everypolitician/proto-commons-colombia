@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Fuad Char",
+        "lang:en_US": "Fuad Char"
+      },
+      "id": "Q5506888",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5506888"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "despacho del gobernador de Atlántico",
+        "lang:en_US": "office of the governor of Atlántico department"
+      },
+      "id": "Q51716389",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716389"
+        }
+      ],
+      "area_id": "Q230882"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Cambio Radical",
+        "lang:en_US": "Radical Change"
+      },
+      "id": "Q429642",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429642"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5506888-eb971df2-426e-0d10-34e2-1943d13f7a8b",
+      "person_id": "Q5506888",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q51716389",
+      "area_id": "Q230882",
+      "role_superclass_code": "Q5589627",
+      "role_superclass": {
+        "lang:en_US": "Governor of Atlántico"
+      },
+      "role_code": "Q5589627",
+      "role": {
+        "lang:en_US": "Governor of Atlántico"
+      }
+    }
+  ]
+}
