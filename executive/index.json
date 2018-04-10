@@ -8,5 +8,375 @@
         "position_item_id": "Q853475"
       }
     ]
+  },
+  {
+    "comment": "office of the governor of Antioquia department",
+    "executive_item_id": "Q51716350",
+    "positions": [
+      {
+        "comment": "Governor of Antioquia",
+        "position_item_id": "Q47524391"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Boyacá department",
+    "executive_item_id": "Q51716353",
+    "positions": [
+      {
+        "comment": "Governor of Boyacá Department",
+        "position_item_id": "Q47524496"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Casanare department",
+    "executive_item_id": "Q51716355",
+    "positions": [
+      {
+        "comment": "Governor of Casanare Department",
+        "position_item_id": "Q47524524"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Caquetá department",
+    "executive_item_id": "Q51716357",
+    "positions": [
+      {
+        "comment": "Governor of Caquetá Department",
+        "position_item_id": "Q47524522"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Valle del Cauca department",
+    "executive_item_id": "Q51716360",
+    "positions": [
+      {
+        "comment": "Governor of Valle del Cauca Department",
+        "position_item_id": "Q5589730"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Risaralda department",
+    "executive_item_id": "Q51716362",
+    "positions": [
+      {
+        "comment": "Governor of Risaralda Department",
+        "position_item_id": "Q47524628"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Quindío department",
+    "executive_item_id": "Q51716363",
+    "positions": [
+      {
+        "comment": "Governor of Quindío Department",
+        "position_item_id": "Q47524619"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Magdalena department",
+    "executive_item_id": "Q51716367",
+    "positions": [
+      {
+        "comment": "Governor of Magdalena Department",
+        "position_item_id": "Q47524578"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Nariño department",
+    "executive_item_id": "Q51716368",
+    "positions": [
+      {
+        "comment": "Governor of Nariño Department",
+        "position_item_id": "Q47524592"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Arauca department",
+    "executive_item_id": "Q51716371",
+    "positions": [
+      {
+        "comment": "Governor of Arauca Department",
+        "position_item_id": "Q47524444"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Chocó department",
+    "executive_item_id": "Q51716374",
+    "positions": [
+      {
+        "comment": "Governor of Chocó Department",
+        "position_item_id": "Q47520040"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Bolívar department",
+    "executive_item_id": "Q51716377",
+    "positions": [
+      {
+        "comment": "Governor of Bolívar Department",
+        "position_item_id": "Q47524459"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Cauca department",
+    "executive_item_id": "Q51716383",
+    "positions": [
+      {
+        "comment": "Governor of Cauca Department",
+        "position_item_id": "Q47524527"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Caldas department",
+    "executive_item_id": "Q51716386",
+    "positions": [
+      {
+        "comment": "Governor of Caldas Department",
+        "position_item_id": "Q47524507"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Atlántico department",
+    "executive_item_id": "Q51716389",
+    "positions": [
+      {
+        "comment": "Governor of Atlántico",
+        "position_item_id": "Q5589627"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Cundinamarca department",
+    "executive_item_id": "Q51716391",
+    "positions": [
+      {
+        "comment": "Governor of Cundinamarca Department",
+        "position_item_id": "Q47524564"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Putumayo department",
+    "executive_item_id": "Q51716395",
+    "positions": [
+      {
+        "comment": "Governor of Putumayo Department",
+        "position_item_id": "Q47524604"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Norte de Santander department",
+    "executive_item_id": "Q51716403",
+    "positions": [
+      {
+        "comment": "Governor of Norte de Santander",
+        "position_item_id": "Q47524596"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Tolima department",
+    "executive_item_id": "Q51716406",
+    "positions": [
+      {
+        "comment": "Governor of Tolima Department",
+        "position_item_id": "Q47524678"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Vaupés department",
+    "executive_item_id": "Q51716410",
+    "positions": [
+      {
+        "comment": "Governor of Vaupés Department",
+        "position_item_id": "Q47524691"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Córdoba department",
+    "executive_item_id": "Q51716416",
+    "positions": [
+      {
+        "comment": "Governor of Córdoba Department",
+        "position_item_id": "Q47524553"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Cesar department",
+    "executive_item_id": "Q51716421",
+    "positions": [
+      {
+        "comment": "Governor of Cesar Department",
+        "position_item_id": "Q47524530"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Huila department",
+    "executive_item_id": "Q51716425",
+    "positions": [
+      {
+        "comment": "Governor of Huila Department",
+        "position_item_id": "Q47524573"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Santander department",
+    "executive_item_id": "Q51716432",
+    "positions": [
+      {
+        "comment": "Governor of Santander Department",
+        "position_item_id": "Q47524661"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Sucre department",
+    "executive_item_id": "Q51716437",
+    "positions": [
+      {
+        "comment": "Governor of Sucre Department",
+        "position_item_id": "Q47524673"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Meta",
+    "executive_item_id": "Q51716441",
+    "positions": [
+      {
+        "comment": "Governor of Meta Department",
+        "position_item_id": "Q47524581"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Guainía department",
+    "executive_item_id": "Q51716447",
+    "positions": [
+      {
+        "comment": "Governor of Guainía",
+        "position_item_id": "Q47524568"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of the archipelago of Saint Andréws, Providence and Saint Catalina",
+    "executive_item_id": "Q51716449",
+    "positions": [
+      {
+        "comment": "Governor of the Archipelago of Saint Andréws, Providence and Saint Catalina",
+        "position_item_id": "Q47524713"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Vichada department",
+    "executive_item_id": "Q51716452",
+    "positions": [
+      {
+        "comment": "Governor of Vichada Department",
+        "position_item_id": "Q47524702"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of La Guajira department",
+    "executive_item_id": "Q51716456",
+    "positions": [
+      {
+        "comment": "Governor of La Guajira Department",
+        "position_item_id": "Q47524576"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Guaviare department",
+    "executive_item_id": "Q51716459",
+    "positions": [
+      {
+        "comment": "Governor of Guaviare Department",
+        "position_item_id": "Q47524571"
+      }
+    ]
+  },
+  {
+    "comment": "office of the governor of Amazonas department",
+    "executive_item_id": "Q51716462",
+    "positions": [
+      {
+        "comment": "Governor of Amazonas Department",
+        "position_item_id": "Q47524303"
+      }
+    ]
+  },
+  {
+    "comment": "office of the mayor of Bogotá",
+    "executive_item_id": "Q51716465",
+    "positions": [
+      {
+        "comment": "superior mayor of Bogota",
+        "position_item_id": "Q21994938"
+      }
+    ]
+  },
+  {
+    "comment": "office of the mayor of Cali",
+    "executive_item_id": "Q51716468",
+    "positions": [
+      {
+        "comment": "mayor of Cali",
+        "position_item_id": "Q51094653"
+      }
+    ]
+  },
+  {
+    "comment": "office of the mayor of Medellín",
+    "executive_item_id": "Q51716472",
+    "positions": [
+      {
+        "comment": "mayor of Medellín",
+        "position_item_id": "Q51094750"
+      }
+    ]
+  },
+  {
+    "comment": "office of the mayor of Barranquilla",
+    "executive_item_id": "Q51716476",
+    "positions": [
+      {
+        "comment": "mayor of Barranquilla",
+        "position_item_id": "Q5663913"
+      }
+    ]
+  },
+  {
+    "comment": "office of the mayor of Cartagena",
+    "executive_item_id": "Q51716481",
+    "positions": [
+      {
+        "comment": "mayor of Cartagena de Indias",
+        "position_item_id": "Q51094842"
+      }
+    ]
   }
 ]
