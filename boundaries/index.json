@@ -628,6 +628,10 @@
       {
         "comment": "councillor of barranquilla",
         "position_item_id": "Q51096868"
+      },
+      {
+        "comment": "mayor of barranquilla",
+        "position_item_id": "Q5663913"
       }
     ],
     "name_columns": {
@@ -645,6 +649,10 @@
       {
         "comment": "councillor of cali",
         "position_item_id": "Q51096851"
+      },
+      {
+        "comment": "mayor of cali",
+        "position_item_id": "Q51094653"
       }
     ],
     "name_columns": {
@@ -662,6 +670,10 @@
       {
         "comment": "councillor of medellín",
         "position_item_id": "Q51096859"
+      },
+      {
+        "comment": "mayor of medellín",
+        "position_item_id": "Q51094750"
       }
     ],
     "name_columns": {
@@ -679,6 +691,10 @@
       {
         "comment": "councillor of cartagena de indias",
         "position_item_id": "Q51096876"
+      },
+      {
+        "comment": "mayor of cartagena de indias",
+        "position_item_id": "Q51094842"
       }
     ],
     "name_columns": {
