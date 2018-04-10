@@ -825,13 +825,25 @@
       {
         "comment": "member of the Senate of Colombia",
         "position_item_id": "Q19254253"
+              }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name_es",
+      "lang:en_US": "name_en"
+    }
+  },
+  {
+    "directory": "chamber-national-indigenous",
+    "area_type_wikidata_item_id": "Q51043199",
+    "associations": [
+      {
+        "comment": "member of the Chamber of Representatives of Colombia",
+        "position_item_id": "Q18960607"
       }
     ],
     "name_columns": {
       "lang:es_LA": "name_es",
       "lang:en_US": "name_en"
-
     }    
   } 
 ]
-
