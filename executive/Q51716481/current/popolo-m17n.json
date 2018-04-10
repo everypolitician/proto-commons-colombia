@@ -6,7 +6,80 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q230597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/departamento:bol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q230597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51093306"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Colombia",
+        "lang:en_US": "department of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Bolívar"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q657461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/departamento:bol/city:cartagena"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q657461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51096876",
+        "Q51094842"
+      ],
+      "type": {
+        "lang:es_LA": "municipio de Colombia",
+        "lang:en_US": "municipality of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "Cartagena de Indias"
+      },
+      "parent_id": "Q230597"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

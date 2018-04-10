@@ -4,10 +4,6 @@ WARNING: the district Afro-colombianos (Q51091057) wasn't found in the boundary 
 WARNING: the district Comunidades indígenas (Q51091053) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
 WARNING: Position senador de Colombia (Q19254253) not in boundary associated_wikidata_positions
 WARNING: the district circunscripción nacional (Q51674385) wasn't found in the boundary data for position senador de Colombia (Q19254253)
-WARNING: Position concejal (Q51096876) not in boundary associated_wikidata_positions
-WARNING: Position concejal (Q51096851) not in boundary associated_wikidata_positions
-WARNING: Position concejal (Q51096859) not in boundary associated_wikidata_positions
-WARNING: Position concejal (Q51096868) not in boundary associated_wikidata_positions
 WARNING: Position Governor of Antioquia (Q47524391) not in boundary associated_wikidata_positions
 WARNING: Position Governor of Boyacá Department (Q47524496) not in boundary associated_wikidata_positions
 WARNING: Position Governor of Casanare Department (Q47524524) not in boundary associated_wikidata_positions
@@ -41,7 +37,3 @@ WARNING: Position Governor of Vichada Department (Q47524702) not in boundary ass
 WARNING: Position Governor of La Guajira Department (Q47524576) not in boundary associated_wikidata_positions
 WARNING: Position Governor of Guaviare Department (Q47524571) not in boundary associated_wikidata_positions
 WARNING: Position Governor of Amazonas Department (Q47524303) not in boundary associated_wikidata_positions
-WARNING: Position alcalde de Cali (Q51094653) not in boundary associated_wikidata_positions
-WARNING: Position alcalde de Medellín (Q51094750) not in boundary associated_wikidata_positions
-WARNING: Position Alcalde de Barranquilla (Q5663913) not in boundary associated_wikidata_positions
-WARNING: Position alcalde de Cartagena de Indias (Q51094842) not in boundary associated_wikidata_positions
