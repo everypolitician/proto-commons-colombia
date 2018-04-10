@@ -66,7 +66,31 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es_LA": "Colombia",
+        "lang:en_US": "Colombia"
+      },
+      "name": {
+        "lang:en_US": "Colombia",
+        "lang:es_LA": "Colombia"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
