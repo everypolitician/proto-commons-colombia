@@ -1253,6 +1253,30 @@
       "parent_id": "Q739"
     },
     {
+      "id": "Q51091053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/legislator-at-large:chamber-national-indigenous"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "circunscripcion especial indígena",
+        "lang:en_US": "special constituency for indigenous peoples in Colombia"
+      },
+      "parent_id": "Q739"
+    },
+    {
       "id": "Q739",
       "identifiers": [
         {

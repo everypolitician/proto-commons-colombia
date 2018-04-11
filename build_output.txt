@@ -1,4 +1,3 @@
 WARNING: the district circunscripción de los Colombianos en el exterior (Q51091054) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
 WARNING: the district Risaralda (Q13993) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
 WARNING: the district Afro-colombianos (Q51091057) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
-WARNING: the district Comunidades indígenas (Q51091053) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
