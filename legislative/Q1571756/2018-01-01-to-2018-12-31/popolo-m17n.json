@@ -1277,6 +1277,30 @@
       "parent_id": "Q739"
     },
     {
+      "id": "Q51091057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/legislator-at-large:chamber-national-afro-colombian"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "circunscripcion especial para las comunidades afrodescendientes",
+        "lang:en_US": "special constituency for Afro-Colombians"
+      },
+      "parent_id": "Q739"
+    },
+    {
       "id": "Q739",
       "identifiers": [
         {
