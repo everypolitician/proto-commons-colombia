@@ -3785,6 +3785,30 @@
       "parent_id": "Q739"
     },
     {
+      "id": "Q51674447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/legislator-at-large:senate-national-indigenous"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51674447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19254253"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Colombian Senate"
+      },
+      "name": {
+        "lang:es_LA": "circunscripción especial (indígenas)",
+        "lang:en_US": "special national constituency for indigenous communities"
+      },
+      "parent_id": "Q739"
+    },
+    {
       "id": "Q739",
       "identifiers": [
         {
