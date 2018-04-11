@@ -112,10 +112,12 @@
       "area_id": "Q233058",
       "role_superclass_code": "Q47524596",
       "role_superclass": {
+        "lang:es_LA": "Gobernador de Norte de Santander",
         "lang:en_US": "Governor of Norte de Santander"
       },
       "role_code": "Q47524596",
       "role": {
+        "lang:es_LA": "Gobernador de Norte de Santander",
         "lang:en_US": "Governor of Norte de Santander"
       }
     }

@@ -109,10 +109,12 @@
       "area_id": "Q230882",
       "role_superclass_code": "Q5589627",
       "role_superclass": {
+        "lang:es_LA": "Gobernador de Atlántico",
         "lang:en_US": "Governor of Atlántico"
       },
       "role_code": "Q5589627",
       "role": {
+        "lang:es_LA": "Gobernador de Atlántico",
         "lang:en_US": "Governor of Atlántico"
       }
     }

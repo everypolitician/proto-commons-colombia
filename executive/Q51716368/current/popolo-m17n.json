@@ -112,10 +112,12 @@
       "area_id": "Q230217",
       "role_superclass_code": "Q47524592",
       "role_superclass": {
+        "lang:es_LA": "Gobernador de Nariño",
         "lang:en_US": "Governor of Nariño Department"
       },
       "role_code": "Q47524592",
       "role": {
+        "lang:es_LA": "Gobernador de Nariño",
         "lang:en_US": "Governor of Nariño Department"
       }
     }
