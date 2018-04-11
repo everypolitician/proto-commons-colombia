@@ -31,10 +31,20 @@
         "type" : "literal",
         "value" : "Governor of Meta Department"
       },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador de Meta"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Governor of Meta Department"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador de Meta"
       },
       "item" : {
         "type" : "uri",
