@@ -1194,15 +1194,10 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13993"
+        "value" : "http://www.wikidata.org/entity/Q51091003"
       },
       "district_name_en" : {
         "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Risaralda Department"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Risaralda"
       }
