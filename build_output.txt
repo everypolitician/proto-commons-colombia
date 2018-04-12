@@ -1,2 +1,1 @@
 WARNING: the district circunscripción de los Colombianos en el exterior (Q51091054) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
-WARNING: the district Risaralda (Q13993) wasn't found in the boundary data for position miembro de la Cámara de Representantes de Colombia (Q18960607)
