@@ -1,9 +1,52 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Alejandro Char",
+        "lang:en_US": "Alejandro Char"
+      },
+      "id": "Q4714502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4714502"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "alcaldía de Barranquilla",
+        "lang:en_US": "office of the mayor of Barranquilla"
+      },
+      "id": "Q51716476",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716476"
+        }
+      ],
+      "area_id": "Q62823"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Cambio Radical",
+        "lang:en_US": "Radical Change"
+      },
+      "id": "Q429642",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q429642"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -83,6 +126,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4714502-4cfce07d-43d1-e2c7-81c6-1524af2ced62",
+      "person_id": "Q4714502",
+      "on_behalf_of_id": "Q429642",
+      "organization_id": "Q51716476",
+      "area_id": "Q62823",
+      "start_date": "2015-10-25",
+      "role_superclass_code": "Q5663913",
+      "role_superclass": {
+        "lang:es_LA": "Alcalde de Barranquilla",
+        "lang:en_US": "mayor of Barranquilla"
+      },
+      "role_code": "Q5663913",
+      "role": {
+        "lang:es_LA": "Alcalde de Barranquilla",
+        "lang:en_US": "mayor of Barranquilla"
+      }
+    }
   ]
 }

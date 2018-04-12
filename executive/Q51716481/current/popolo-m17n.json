@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Sergio Londoño Zurek",
+        "lang:en_US": "Sergio Londoño Zurek"
+      },
+      "id": "Q51795357",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51795357"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "alcaldía de Cartagena de Indias",
+        "lang:en_US": "office of the mayor of Cartagena"
+      },
+      "id": "Q51716481",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716481"
+        }
+      ],
+      "area_id": "Q657461"
+    }
   ],
   "areas": [
     {
@@ -83,6 +112,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51795357-87026d92-4dd0-8622-339a-667e5975eac4",
+      "person_id": "Q51795357",
+      "organization_id": "Q51716481",
+      "area_id": "Q657461",
+      "start_date": "2017-10-13",
+      "role_superclass_code": "Q51094842",
+      "role_superclass": {
+        "lang:es_LA": "alcalde de Cartagena de Indias",
+        "lang:en_US": "mayor of Cartagena de Indias"
+      },
+      "role_code": "Q51094842",
+      "role": {
+        "lang:es_LA": "alcalde de Cartagena de Indias",
+        "lang:en_US": "mayor of Cartagena de Indias"
+      }
+    }
   ]
 }
