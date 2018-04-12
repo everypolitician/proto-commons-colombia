@@ -27,6 +27,20 @@
     }
   },
   {
+    "directory": "chamber-overseas",
+    "area_type_wikidata_item_id": "Q51043199",
+    "associations": [
+      {
+        "comment": "member of the Chamber of Representatives of Colombia",
+        "position_item_id": "Q18960607"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name_es",
+      "lang:en_US": "name_en"
+    }
+  },
+  {
     "directory": "departments",
     "area_type_wikidata_item_id": "Q215655",
     "associations": [
@@ -816,7 +830,7 @@
       "lang:es_LA": "name_es",
       "lang:en_US": "name_en"
 
-    } 
+    }
   },
   {
     "directory": "senate-national-indigenous",
@@ -844,8 +858,8 @@
     "name_columns": {
       "lang:es_LA": "name_es",
       "lang:en_US": "name_en"
-    }    
-  },  
+    }
+  },
   {
     "directory": "chamber-national-afro-colombian",
     "area_type_wikidata_item_id": "Q51043199",
@@ -858,6 +872,6 @@
     "name_columns": {
       "lang:es_LA": "name_es",
       "lang:en_US": "name_en"
-    } 
+    }
   }
 ]

@@ -1277,6 +1277,30 @@
       "parent_id": "Q739"
     },
     {
+      "id": "Q51091054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/constituency:overseas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51091054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18960607"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+      },
+      "name": {
+        "lang:es_LA": "circunscripción de los Colombianos en el exterior",
+        "lang:en_US": "constituency for Colombians overseas"
+      },
+      "parent_id": "Q739"
+    },
+    {
       "id": "Q51091057",
       "identifiers": [
         {
