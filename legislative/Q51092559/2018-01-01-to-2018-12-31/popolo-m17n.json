@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Veronica Payares Vásquez",
-        "lang:en_US": "Veronica Payares Vásquez"
+        "lang:es": "Veronica Payares Vásquez",
+        "lang:en": "Veronica Payares Vásquez"
       },
       "id": "Q51710241",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "asamblea departamental de Bolívar",
-        "lang:en_US": "departmental assembly of Bolívar"
+        "lang:es": "asamblea departamental de Bolívar",
+        "lang:en": "departmental assembly of Bolívar"
       },
       "id": "Q51092559",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -72,8 +72,8 @@
         "Q51093306"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Bolívar"
@@ -96,8 +96,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -114,13 +114,13 @@
       "organization_id": "Q51092559",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q51093306",
       "role": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy in the departmental assembly of Bolívar"
+        "lang:es": "diputado",
+        "lang:en": "deputy in the departmental assembly of Bolívar"
       }
     }
   ]

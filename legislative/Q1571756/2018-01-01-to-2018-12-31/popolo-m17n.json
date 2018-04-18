@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "José María Quijano Wallis",
-        "lang:en_US": "Jose Maria Quijano Wallis"
+        "lang:es": "José María Quijano Wallis",
+        "lang:en": "Jose Maria Quijano Wallis"
       },
       "id": "Q12981959",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José María Obando",
-        "lang:en_US": "José María Obando"
+        "lang:es": "José María Obando",
+        "lang:en": "José María Obando"
       },
       "id": "Q1318147",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Isaacs",
-        "lang:en_US": "Jorge Isaacs"
+        "lang:es": "Jorge Isaacs",
+        "lang:en": "Jorge Isaacs"
       },
       "id": "Q1703852",
       "identifiers": [
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "María Fernanda Cabal",
-        "lang:en_US": "María Fernanda Cabal"
+        "lang:es": "María Fernanda Cabal",
+        "lang:en": "María Fernanda Cabal"
       },
       "id": "Q17477937",
       "identifiers": [
@@ -69,8 +69,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jaime Buenahora",
-        "lang:en_US": "Jaime Buenahora"
+        "lang:es": "Jaime Buenahora",
+        "lang:en": "Jaime Buenahora"
       },
       "id": "Q20016923",
       "identifiers": [
@@ -88,8 +88,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "León Darío Ramírez",
-        "lang:en_US": "León Darío Ramírez"
+        "lang:es": "León Darío Ramírez",
+        "lang:en": "León Darío Ramírez"
       },
       "id": "Q20017105",
       "identifiers": [
@@ -104,8 +104,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rodrigo Rivera Salazar",
-        "lang:en_US": "Rodrigo Rivera Salazar"
+        "lang:es": "Rodrigo Rivera Salazar",
+        "lang:en": "Rodrigo Rivera Salazar"
       },
       "id": "Q2161317",
       "identifiers": [
@@ -120,8 +120,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José María Rojas Garrido",
-        "lang:en_US": "José María Rojas Garrido"
+        "lang:es": "José María Rojas Garrido",
+        "lang:en": "José María Rojas Garrido"
       },
       "id": "Q2736411",
       "identifiers": [
@@ -136,8 +136,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Miguel Angel Barreto",
-        "lang:en_US": "Miguel Angel Barreto"
+        "lang:es": "Miguel Angel Barreto",
+        "lang:en": "Miguel Angel Barreto"
       },
       "id": "Q27961375",
       "identifiers": [
@@ -152,8 +152,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Miguel Ángel Pinto",
-        "lang:en_US": "Miguel Ángel Pinto"
+        "lang:es": "Miguel Ángel Pinto",
+        "lang:en": "Miguel Ángel Pinto"
       },
       "id": "Q28501273",
       "identifiers": [
@@ -168,8 +168,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Darío Echandía",
-        "lang:en_US": "Darío Echandía"
+        "lang:es": "Darío Echandía",
+        "lang:en": "Darío Echandía"
       },
       "id": "Q2888440",
       "identifiers": [
@@ -184,8 +184,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Holguín Sardi",
-        "lang:en_US": "Carlos Holguín Sardi"
+        "lang:es": "Carlos Holguín Sardi",
+        "lang:en": "Carlos Holguín Sardi"
       },
       "id": "Q2939371",
       "identifiers": [
@@ -200,8 +200,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gloria Polanco",
-        "lang:en_US": "Gloria Polanco"
+        "lang:es": "Gloria Polanco",
+        "lang:en": "Gloria Polanco"
       },
       "id": "Q3109134",
       "identifiers": [
@@ -216,8 +216,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José de Obaldía",
-        "lang:en_US": "José de Obaldía"
+        "lang:es": "José de Obaldía",
+        "lang:en": "José de Obaldía"
       },
       "id": "Q3138715",
       "identifiers": [
@@ -232,8 +232,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel María Mallarino",
-        "lang:en_US": "Manuel María Mallarino"
+        "lang:es": "Manuel María Mallarino",
+        "lang:en": "Manuel María Mallarino"
       },
       "id": "Q3138736",
       "identifiers": [
@@ -248,8 +248,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "César Gaviria",
-        "lang:en_US": "César Gaviria"
+        "lang:es": "César Gaviria",
+        "lang:en": "César Gaviria"
       },
       "id": "Q332020",
       "identifiers": [
@@ -264,8 +264,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Lina María Barrera Rueda",
-        "lang:en_US": "Lina María Barrera Rueda"
+        "lang:es": "Lina María Barrera Rueda",
+        "lang:en": "Lina María Barrera Rueda"
       },
       "id": "Q51100622",
       "identifiers": [
@@ -283,8 +283,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Sara Helena Piedrahita Lyons",
-        "lang:en_US": "Sara Helena Piedrahita Lyons"
+        "lang:es": "Sara Helena Piedrahita Lyons",
+        "lang:en": "Sara Helena Piedrahita Lyons"
       },
       "id": "Q51100624",
       "identifiers": [
@@ -302,8 +302,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Kelyn Johana González Duarte",
-        "lang:en_US": "Kelyn Johana González Duarte"
+        "lang:es": "Kelyn Johana González Duarte",
+        "lang:en": "Kelyn Johana González Duarte"
       },
       "id": "Q51100627",
       "identifiers": [
@@ -321,8 +321,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Vanessa Alexandra Mendoza Bustos",
-        "lang:en_US": "Vanessa Alexandra Mendoza Bustos"
+        "lang:es": "Vanessa Alexandra Mendoza Bustos",
+        "lang:en": "Vanessa Alexandra Mendoza Bustos"
       },
       "id": "Q51100629",
       "identifiers": [
@@ -340,8 +340,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Germán Bernardo Carlosama López",
-        "lang:en_US": "Germán Bernardo Carlosama López"
+        "lang:es": "Germán Bernardo Carlosama López",
+        "lang:en": "Germán Bernardo Carlosama López"
       },
       "id": "Q51100632",
       "identifiers": [
@@ -356,8 +356,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rodrigo Lara Restrepo",
-        "lang:en_US": "Rodrigo Lara Restrepo"
+        "lang:es": "Rodrigo Lara Restrepo",
+        "lang:en": "Rodrigo Lara Restrepo"
       },
       "id": "Q6110723",
       "identifiers": [
@@ -377,8 +377,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Cámara de Representantes de Colombia",
-        "lang:en_US": "Chamber of Representatives of Colombia"
+        "lang:es": "Cámara de Representantes de Colombia",
+        "lang:en": "Chamber of Representatives of Colombia"
       },
       "id": "Q1571756",
       "classification": "branch",
@@ -395,8 +395,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Autoridades Indígenas de Colombia",
-        "lang:en_US": "Indigenous Authorities of Colombia"
+        "lang:es": "Autoridades Indígenas de Colombia",
+        "lang:en": "Indigenous Authorities of Colombia"
       },
       "id": "Q11680073",
       "classification": "party",
@@ -409,8 +409,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alianza Nacional",
-        "lang:en_US": "National Alliance"
+        "lang:es": "Alianza Nacional",
+        "lang:en": "National Alliance"
       },
       "id": "Q1576026",
       "classification": "party",
@@ -423,8 +423,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Centro Democrático",
-        "lang:en_US": "Democratic Center"
+        "lang:es": "Centro Democrático",
+        "lang:en": "Democratic Center"
       },
       "id": "Q15909095",
       "classification": "party",
@@ -437,8 +437,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -451,8 +451,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Conservador Colombiano",
-        "lang:en_US": "Colombian Conservative Party"
+        "lang:es": "Partido Conservador Colombiano",
+        "lang:en": "Colombian Conservative Party"
       },
       "id": "Q747333",
       "classification": "party",
@@ -465,8 +465,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -479,8 +479,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Social de Unidad Nacional",
-        "lang:en_US": "Social Party of National Unity"
+        "lang:es": "Partido Social de Unidad Nacional",
+        "lang:en": "Social Party of National Unity"
       },
       "id": "Q973542",
       "classification": "party",
@@ -509,7 +509,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Boyacá"
@@ -532,7 +532,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Antioquia"
@@ -555,7 +555,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Casanare"
@@ -578,7 +578,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Caquetá"
@@ -601,7 +601,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Valle del Cauca"
@@ -624,7 +624,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Risaralda"
@@ -647,7 +647,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Quindío"
@@ -670,7 +670,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Magdalena"
@@ -693,7 +693,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Nariño"
@@ -716,7 +716,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Arauca"
@@ -739,7 +739,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Chocó"
@@ -762,7 +762,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Bolívar"
@@ -785,7 +785,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Cauca"
@@ -808,7 +808,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Caldas"
@@ -831,7 +831,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Atlántico"
@@ -854,7 +854,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Cundinamarca"
@@ -877,7 +877,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Putumayo"
@@ -900,7 +900,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Norte de Santander"
@@ -923,7 +923,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Tolima"
@@ -946,7 +946,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Vaupés"
@@ -969,7 +969,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Córdoba"
@@ -992,7 +992,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Cesar"
@@ -1015,7 +1015,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Huila"
@@ -1038,7 +1038,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Santander"
@@ -1061,7 +1061,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Sucre"
@@ -1084,7 +1084,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Meta"
@@ -1107,7 +1107,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Guainía"
@@ -1130,7 +1130,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Archipiélago de San Andrés, Providencia y Santa Catalina"
@@ -1153,7 +1153,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Vichada"
@@ -1176,7 +1176,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "La Guajira"
@@ -1199,7 +1199,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Guaviare"
@@ -1222,7 +1222,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Amazonas"
@@ -1245,7 +1245,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "Bogotá "
@@ -1268,7 +1268,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "circunscripcion especial indígena",
@@ -1292,7 +1292,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "circunscripción de los Colombianos en el exterior",
@@ -1316,7 +1316,7 @@
         "Q18960607"
       ],
       "type": {
-        "lang:en_US": "Constituency of the chamber of representatives of Colombia"
+        "lang:en": "Constituency of the chamber of representatives of Colombia"
       },
       "name": {
         "lang:es_LA": "circunscripcion especial para las comunidades afrodescendientes",
@@ -1340,8 +1340,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -1357,13 +1357,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1372,13 +1372,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1387,13 +1387,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1404,13 +1404,13 @@
       "area_id": "Q51091052",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1421,13 +1421,13 @@
       "area_id": "Q51091054",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1437,13 +1437,13 @@
       "start_date": "2010-07-20",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1452,13 +1452,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1467,13 +1467,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1482,13 +1482,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1498,13 +1498,13 @@
       "start_date": "2014-07-20",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1513,13 +1513,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1528,13 +1528,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1543,13 +1543,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1558,13 +1558,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1573,13 +1573,13 @@
       "organization_id": "Q1571756",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1589,13 +1589,13 @@
       "area_id": "Q51091003",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1606,13 +1606,13 @@
       "area_id": "Q51091037",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1623,13 +1623,13 @@
       "area_id": "Q51091033",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1640,13 +1640,13 @@
       "area_id": "Q51091007",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1657,13 +1657,13 @@
       "area_id": "Q51091057",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1674,13 +1674,13 @@
       "area_id": "Q51091053",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     },
     {
@@ -1691,13 +1691,13 @@
       "area_id": "Q51091052",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q18960607",
       "role": {
-        "lang:es_LA": "miembro de la Cámara de Representantes de Colombia",
-        "lang:en_US": "member of the Chamber of Representatives of Colombia"
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Jorge Eliécer Gaitán",
-        "lang:en_US": "Jorge Eliécer Gaitán Mahecha"
+        "lang:es": "Jorge Eliécer Gaitán",
+        "lang:en": "Jorge Eliécer Gaitán Mahecha"
       },
       "id": "Q132479",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Enrique Peñalosa",
-        "lang:en_US": "Enrique Peñalosa"
+        "lang:es": "Enrique Peñalosa",
+        "lang:en": "Enrique Peñalosa"
       },
       "id": "Q989831",
       "identifiers": [
@@ -39,8 +39,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "alcaldía de Bogotá",
-        "lang:en_US": "office of the mayor of Bogotá"
+        "lang:es": "alcaldía de Bogotá",
+        "lang:en": "office of the mayor of Bogotá"
       },
       "id": "Q51716465",
       "classification": "branch",
@@ -54,8 +54,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -85,8 +85,8 @@
         "Q51096842"
       ],
       "type": {
-        "lang:es_LA": "Distrito Capital",
-        "lang:en_US": "capital district or territory"
+        "lang:es": "Distrito Capital",
+        "lang:en": "capital district or territory"
       },
       "name": {
         "lang:es_LA": "Bogotá Distrito Capital"
@@ -109,8 +109,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -128,13 +128,13 @@
       "area_id": "Q2841",
       "role_superclass_code": "Q21994938",
       "role_superclass": {
-        "lang:es_LA": "alcalde de Bogotá",
-        "lang:en_US": "superior mayor of Bogota"
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
       },
       "role_code": "Q21994938",
       "role": {
-        "lang:es_LA": "alcalde de Bogotá",
-        "lang:en_US": "superior mayor of Bogota"
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
       }
     },
     {
@@ -145,13 +145,13 @@
       "start_date": "2016-01-01",
       "role_superclass_code": "Q21994938",
       "role_superclass": {
-        "lang:es_LA": "alcalde de Bogotá",
-        "lang:en_US": "superior mayor of Bogota"
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
       },
       "role_code": "Q21994938",
       "role": {
-        "lang:es_LA": "alcalde de Bogotá",
-        "lang:en_US": "superior mayor of Bogota"
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
       }
     }
   ]

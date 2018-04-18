@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Mariluz Zuluaga Santa",
-        "lang:en_US": "Mariluz Zuluaga Santa"
+        "lang:es": "Mariluz Zuluaga Santa",
+        "lang:en": "Mariluz Zuluaga Santa"
       },
       "id": "Q51710233",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "asamblea departamental de Valle del Cauca",
-        "lang:en_US": "departmental assembly of Valle del Cauca"
+        "lang:es": "asamblea departamental de Valle del Cauca",
+        "lang:en": "departmental assembly of Valle del Cauca"
       },
       "id": "Q5260098",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -72,8 +72,8 @@
         "Q47525024"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Valle del Cauca"
@@ -96,8 +96,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -114,13 +114,13 @@
       "organization_id": "Q5260098",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q47525024",
       "role": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy in the departmental assembly of Valle del Cauca"
+        "lang:es": "diputado",
+        "lang:en": "deputy in the departmental assembly of Valle del Cauca"
       }
     }
   ]

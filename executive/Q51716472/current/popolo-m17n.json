@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Federico Gutiérrez",
-        "lang:en_US": "Federico Gutiérrez"
+        "lang:es": "Federico Gutiérrez",
+        "lang:en": "Federico Gutiérrez"
       },
       "id": "Q19722000",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "alcaldía de Medellín",
-        "lang:en_US": "office of the mayor of Medellín"
+        "lang:es": "alcaldía de Medellín",
+        "lang:en": "office of the mayor of Medellín"
       },
       "id": "Q51716472",
       "classification": "branch",
@@ -55,8 +55,8 @@
         "Q47525522"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Antioquia"
@@ -80,8 +80,8 @@
         "Q51094750"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Medellín"
@@ -104,8 +104,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -122,13 +122,13 @@
       "area_id": "Q48278",
       "role_superclass_code": "Q51094750",
       "role_superclass": {
-        "lang:es_LA": "alcalde de Medellín",
-        "lang:en_US": "mayor of Medellín"
+        "lang:es": "alcalde de Medellín",
+        "lang:en": "mayor of Medellín"
       },
       "role_code": "Q51094750",
       "role": {
-        "lang:es_LA": "alcalde de Medellín",
-        "lang:en_US": "mayor of Medellín"
+        "lang:es": "alcalde de Medellín",
+        "lang:en": "mayor of Medellín"
       }
     }
   ]

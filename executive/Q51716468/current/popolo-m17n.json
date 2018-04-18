@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Maurice Armitage",
-        "lang:en_US": "Norman Maurice Armitage"
+        "lang:es": "Maurice Armitage",
+        "lang:en": "Norman Maurice Armitage"
       },
       "id": "Q28062389",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "alcaldía de Santiago de Cali",
-        "lang:en_US": "office of the mayor of Cali"
+        "lang:es": "alcaldía de Santiago de Cali",
+        "lang:en": "office of the mayor of Cali"
       },
       "id": "Q51716468",
       "classification": "branch",
@@ -55,8 +55,8 @@
         "Q47525024"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Valle del Cauca"
@@ -80,8 +80,8 @@
         "Q51094653"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Santiago de Cali"
@@ -104,8 +104,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -122,13 +122,13 @@
       "area_id": "Q51103",
       "role_superclass_code": "Q51094653",
       "role_superclass": {
-        "lang:es_LA": "alcalde de Cali",
-        "lang:en_US": "mayor of Cali"
+        "lang:es": "alcalde de Cali",
+        "lang:en": "mayor of Cali"
       },
       "role_code": "Q51094653",
       "role": {
-        "lang:es_LA": "alcalde de Cali",
-        "lang:en_US": "mayor of Cali"
+        "lang:es": "alcalde de Cali",
+        "lang:en": "mayor of Cali"
       }
     }
   ]

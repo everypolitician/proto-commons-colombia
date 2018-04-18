@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Sergio Londoño Zurek",
-        "lang:en_US": "Sergio Londoño Zurek"
+        "lang:es": "Sergio Londoño Zurek",
+        "lang:en": "Sergio Londoño Zurek"
       },
       "id": "Q51795357",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "alcaldía de Cartagena de Indias",
-        "lang:en_US": "office of the mayor of Cartagena"
+        "lang:es": "alcaldía de Cartagena de Indias",
+        "lang:en": "office of the mayor of Cartagena"
       },
       "id": "Q51716481",
       "classification": "branch",
@@ -52,8 +52,8 @@
         "Q51093306"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Bolívar"
@@ -77,8 +77,8 @@
         "Q51094842"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Cartagena de Indias"
@@ -101,8 +101,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -120,13 +120,13 @@
       "start_date": "2017-10-13",
       "role_superclass_code": "Q51094842",
       "role_superclass": {
-        "lang:es_LA": "alcalde de Cartagena de Indias",
-        "lang:en_US": "mayor of Cartagena de Indias"
+        "lang:es": "alcalde de Cartagena de Indias",
+        "lang:en": "mayor of Cartagena de Indias"
       },
       "role_code": "Q51094842",
       "role": {
-        "lang:es_LA": "alcalde de Cartagena de Indias",
-        "lang:en_US": "mayor of Cartagena de Indias"
+        "lang:es": "alcalde de Cartagena de Indias",
+        "lang:en": "mayor of Cartagena de Indias"
       }
     }
   ]

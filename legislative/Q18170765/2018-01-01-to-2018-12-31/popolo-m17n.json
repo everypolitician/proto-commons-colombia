@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Ana Ligia Mora Martínez",
-        "lang:en_US": "Ana Ligia Mora Martínez"
+        "lang:es": "Ana Ligia Mora Martínez",
+        "lang:en": "Ana Ligia Mora Martínez"
       },
       "id": "Q51710238",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "asamblea departamental de Antioquia",
-        "lang:en_US": "departmental assembly of Antioquia"
+        "lang:es": "asamblea departamental de Antioquia",
+        "lang:en": "departmental assembly of Antioquia"
       },
       "id": "Q18170765",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Centro Democrático",
-        "lang:en_US": "Democratic Center"
+        "lang:es": "Centro Democrático",
+        "lang:en": "Democratic Center"
       },
       "id": "Q15909095",
       "classification": "party",
@@ -72,8 +72,8 @@
         "Q47525522"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Antioquia"
@@ -96,8 +96,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -114,13 +114,13 @@
       "organization_id": "Q18170765",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q47525522",
       "role": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy in the departmental assembly of Antioquia"
+        "lang:es": "diputado",
+        "lang:en": "deputy in the departmental assembly of Antioquia"
       }
     }
   ]

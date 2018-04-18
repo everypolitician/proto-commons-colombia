@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Carlos Hernán Rodriguez Naranjo",
-        "lang:en_US": "Carlos Hernán Rodriguez Naranjo"
+        "lang:es": "Carlos Hernán Rodriguez Naranjo",
+        "lang:en": "Carlos Hernán Rodriguez Naranjo"
       },
       "id": "Q51710246",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Carlos Olaya Ciro",
-        "lang:en_US": "Juan Carlos Olaya Ciro"
+        "lang:es": "Juan Carlos Olaya Ciro",
+        "lang:en": "Juan Carlos Olaya Ciro"
       },
       "id": "Q51710248",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Manuel Chicango Castillo",
-        "lang:en_US": "Juan Manuel Chicango Castillo"
+        "lang:es": "Juan Manuel Chicango Castillo",
+        "lang:en": "Juan Manuel Chicango Castillo"
       },
       "id": "Q51710250",
       "identifiers": [
@@ -53,8 +53,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Audry María Toro Echavarría",
-        "lang:en_US": "Audry María Toro Echavarría"
+        "lang:es": "Audry María Toro Echavarría",
+        "lang:en": "Audry María Toro Echavarría"
       },
       "id": "Q51710252",
       "identifiers": [
@@ -69,8 +69,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alexandra Hernández Cedeño",
-        "lang:en_US": "Alexandra Hernández Cedeño"
+        "lang:es": "Alexandra Hernández Cedeño",
+        "lang:en": "Alexandra Hernández Cedeño"
       },
       "id": "Q51710256",
       "identifiers": [
@@ -87,8 +87,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "concejo de Cali",
-        "lang:en_US": "city council of Cali"
+        "lang:es": "concejo de Cali",
+        "lang:en": "city council of Cali"
       },
       "id": "Q51093881",
       "classification": "branch",
@@ -105,8 +105,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Movimiento Independiente de Renovación Absoluta",
-        "lang:en_US": "Independent Movement of Absolute Renovation"
+        "lang:es": "Movimiento Independiente de Renovación Absoluta",
+        "lang:en": "Independent Movement of Absolute Renovation"
       },
       "id": "Q13988",
       "classification": "party",
@@ -119,8 +119,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -133,8 +133,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -147,8 +147,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Social de Unidad Nacional",
-        "lang:en_US": "Social Party of National Unity"
+        "lang:es": "Partido Social de Unidad Nacional",
+        "lang:en": "Social Party of National Unity"
       },
       "id": "Q973542",
       "classification": "party",
@@ -178,8 +178,8 @@
         "Q47525024"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Valle del Cauca"
@@ -203,8 +203,8 @@
         "Q51094653"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Santiago de Cali"
@@ -227,8 +227,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -245,13 +245,13 @@
       "organization_id": "Q51093881",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096851",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cali"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cali"
       }
     },
     {
@@ -261,13 +261,13 @@
       "organization_id": "Q51093881",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096851",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cali"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cali"
       }
     },
     {
@@ -277,13 +277,13 @@
       "organization_id": "Q51093881",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096851",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cali"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cali"
       }
     },
     {
@@ -293,13 +293,13 @@
       "organization_id": "Q51093881",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096851",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cali"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cali"
       }
     },
     {
@@ -309,13 +309,13 @@
       "organization_id": "Q51093881",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096851",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cali"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cali"
       }
     }
   ]
