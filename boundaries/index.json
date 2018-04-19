@@ -9,8 +9,8 @@
       }
     ],
     "name_columns": {
-      "lang:en_US": "name_engli",
-      "lang:es_LA": "name_spani"
+      "lang:en": "name_engli",
+      "lang:es": "name_spani"
     }
   },
   {
@@ -23,7 +23,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     }
   },
   {
@@ -36,8 +36,8 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name_es",
-      "lang:en_US": "name_en"
+      "lang:es": "name_es",
+      "lang:en": "name_en"
     }
   },
   {
@@ -54,7 +54,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:cal",
@@ -75,7 +75,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:ama",
@@ -96,7 +96,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:met",
@@ -117,7 +117,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:cun",
@@ -138,7 +138,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:tol",
@@ -159,7 +159,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:ant",
@@ -180,7 +180,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:atl",
@@ -201,7 +201,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:bol",
@@ -222,7 +222,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:ces",
@@ -243,7 +243,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:mag",
@@ -264,7 +264,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:suc",
@@ -285,7 +285,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:cor",
@@ -306,7 +306,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:lag",
@@ -327,7 +327,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:cho",
@@ -348,7 +348,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:vac",
@@ -369,7 +369,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:nsa",
@@ -390,7 +390,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:qui",
@@ -411,7 +411,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:vid",
@@ -432,7 +432,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:vau",
@@ -453,7 +453,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:san",
@@ -474,7 +474,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:ris",
@@ -495,7 +495,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:put",
@@ -516,7 +516,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:nar",
@@ -537,7 +537,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:guv",
@@ -558,7 +558,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:gua",
@@ -579,7 +579,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/distrito-capital:dc",
@@ -600,7 +600,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:ara",
@@ -621,7 +621,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:boy",
@@ -642,7 +642,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:cas",
@@ -663,7 +663,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:cau",
@@ -684,7 +684,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:caq",
@@ -705,7 +705,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:hui",
@@ -726,7 +726,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:sap",
@@ -747,7 +747,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:atl/city:baranquilla",
@@ -768,7 +768,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:vac/city:cali",
@@ -789,7 +789,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:ant/city:medellin",
@@ -810,7 +810,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:co/departamento:bol/city:cartagena",
@@ -827,8 +827,8 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name_es",
-      "lang:en_US": "name_en"
+      "lang:es": "name_es",
+      "lang:en": "name_en"
 
     }
   },
@@ -842,8 +842,8 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name_es",
-      "lang:en_US": "name_en"
+      "lang:es": "name_es",
+      "lang:en": "name_en"
     }
   },
   {
@@ -856,8 +856,8 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name_es",
-      "lang:en_US": "name_en"
+      "lang:es": "name_es",
+      "lang:en": "name_en"
     }
   },
   {
@@ -870,8 +870,8 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name_es",
-      "lang:en_US": "name_en"
+      "lang:es": "name_es",
+      "lang:en": "name_en"
     }
   }
 ]
