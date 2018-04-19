@@ -23,8 +23,8 @@
         "Q51093346"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Vichada"
@@ -47,8 +47,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",

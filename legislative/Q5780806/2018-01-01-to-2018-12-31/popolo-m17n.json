@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Diego Andrés Molano Aponte",
-        "lang:en_US": "Diego Andrés Molano Aponte"
+        "lang:es": "Diego Andrés Molano Aponte",
+        "lang:en": "Diego Andrés Molano Aponte"
       },
       "id": "Q51710244",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "concejo de Bogotá",
-        "lang:en_US": "Bogotá city council"
+        "lang:es": "concejo de Bogotá",
+        "lang:en": "Bogotá city council"
       },
       "id": "Q5780806",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Centro Democrático",
-        "lang:en_US": "Democratic Center"
+        "lang:es": "Centro Democrático",
+        "lang:en": "Democratic Center"
       },
       "id": "Q15909095",
       "classification": "party",
@@ -72,8 +72,8 @@
         "Q51096842"
       ],
       "type": {
-        "lang:es_LA": "Distrito Capital",
-        "lang:en_US": "capital district or territory"
+        "lang:es": "Distrito Capital",
+        "lang:en": "capital district or territory"
       },
       "name": {
         "lang:es_LA": "Bogotá Distrito Capital"
@@ -96,8 +96,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -114,13 +114,13 @@
       "organization_id": "Q5780806",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096842",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Bogotá"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Bogotá"
       }
     }
   ]

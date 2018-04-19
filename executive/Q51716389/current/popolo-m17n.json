@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Fuad Char",
-        "lang:en_US": "Fuad Char"
+        "lang:es": "Fuad Char",
+        "lang:en": "Fuad Char"
       },
       "id": "Q5506888",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "despacho del gobernador de Atlántico",
-        "lang:en_US": "office of the governor of Atlántico department"
+        "lang:es": "despacho del gobernador de Atlántico",
+        "lang:en": "office of the governor of Atlántico department"
       },
       "id": "Q51716389",
       "classification": "branch",
@@ -35,8 +35,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -66,8 +66,8 @@
         "Q51093312"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Atlántico"
@@ -90,8 +90,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -109,13 +109,13 @@
       "area_id": "Q230882",
       "role_superclass_code": "Q5589627",
       "role_superclass": {
-        "lang:es_LA": "Gobernador de Atlántico",
-        "lang:en_US": "Governor of Atlántico"
+        "lang:es": "Gobernador de Atlántico",
+        "lang:en": "Governor of Atlántico"
       },
       "role_code": "Q5589627",
       "role": {
-        "lang:es_LA": "Gobernador de Atlántico",
-        "lang:en_US": "Governor of Atlántico"
+        "lang:es": "Gobernador de Atlántico",
+        "lang:en": "Governor of Atlántico"
       }
     }
   ]

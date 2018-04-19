@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "César Augusto Pión González",
-        "lang:en_US": "César Augusto Pión González"
+        "lang:es": "César Augusto Pión González",
+        "lang:en": "César Augusto Pión González"
       },
       "id": "Q51710276",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Duvinia Torres Cohen",
-        "lang:en_US": "Duvinia Torres Cohen"
+        "lang:es": "Duvinia Torres Cohen",
+        "lang:en": "Duvinia Torres Cohen"
       },
       "id": "Q51710278",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Vicente Blel Scaff",
-        "lang:en_US": "Vicente Blel Scaff"
+        "lang:es": "Vicente Blel Scaff",
+        "lang:en": "Vicente Blel Scaff"
       },
       "id": "Q51710279",
       "identifiers": [
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Javier Cassiani Valiente",
-        "lang:en_US": "Luis Javier Cassiani Valiente"
+        "lang:es": "Luis Javier Cassiani Valiente",
+        "lang:en": "Luis Javier Cassiani Valiente"
       },
       "id": "Q51710287",
       "identifiers": [
@@ -66,8 +66,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Edgar Elías Mendoza Saleme",
-        "lang:en_US": "Edgar Elías Mendoza Saleme"
+        "lang:es": "Edgar Elías Mendoza Saleme",
+        "lang:en": "Edgar Elías Mendoza Saleme"
       },
       "id": "Q51710291",
       "identifiers": [
@@ -84,8 +84,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "concejo distrital de Cartagena de Indias",
-        "lang:en_US": "district council of Cartagena de Indias"
+        "lang:es": "concejo distrital de Cartagena de Indias",
+        "lang:en": "district council of Cartagena de Indias"
       },
       "id": "Q16491339",
       "classification": "branch",
@@ -102,8 +102,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -116,8 +116,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Conservador Colombiano",
-        "lang:en_US": "Colombian Conservative Party"
+        "lang:es": "Partido Conservador Colombiano",
+        "lang:en": "Colombian Conservative Party"
       },
       "id": "Q747333",
       "classification": "party",
@@ -130,8 +130,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Social de Unidad Nacional",
-        "lang:en_US": "Social Party of National Unity"
+        "lang:es": "Partido Social de Unidad Nacional",
+        "lang:en": "Social Party of National Unity"
       },
       "id": "Q973542",
       "classification": "party",
@@ -161,8 +161,8 @@
         "Q51093306"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Bolívar"
@@ -186,8 +186,8 @@
         "Q51094842"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Cartagena de Indias"
@@ -210,8 +210,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -228,13 +228,13 @@
       "organization_id": "Q16491339",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096876",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cartagena de Indias"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cartagena de Indias"
       }
     },
     {
@@ -244,13 +244,13 @@
       "organization_id": "Q16491339",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096876",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cartagena de Indias"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cartagena de Indias"
       }
     },
     {
@@ -260,13 +260,13 @@
       "organization_id": "Q16491339",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096876",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cartagena de Indias"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cartagena de Indias"
       }
     },
     {
@@ -276,13 +276,13 @@
       "organization_id": "Q16491339",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096876",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cartagena de Indias"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cartagena de Indias"
       }
     },
     {
@@ -292,13 +292,13 @@
       "organization_id": "Q16491339",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096876",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Cartagena de Indias"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Cartagena de Indias"
       }
     }
   ]

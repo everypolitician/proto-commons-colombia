@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Jorge Emilio Rey",
-        "lang:en_US": "Jorge Emilio Rey"
+        "lang:es": "Jorge Emilio Rey",
+        "lang:en": "Jorge Emilio Rey"
       },
       "id": "Q21941974",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "despacho del gobernador de Cundinamarca",
-        "lang:en_US": "office of the governor of Cundinamarca department"
+        "lang:es": "despacho del gobernador de Cundinamarca",
+        "lang:en": "office of the governor of Cundinamarca department"
       },
       "id": "Q51716391",
       "classification": "branch",
@@ -55,8 +55,8 @@
         "Q51093316"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Cundinamarca"
@@ -79,8 +79,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -97,13 +97,13 @@
       "area_id": "Q232564",
       "role_superclass_code": "Q47524564",
       "role_superclass": {
-        "lang:es_LA": "Gobernador de Cundinamarca",
-        "lang:en_US": "Governor of Cundinamarca Department"
+        "lang:es": "Gobernador de Cundinamarca",
+        "lang:en": "Governor of Cundinamarca Department"
       },
       "role_code": "Q47524564",
       "role": {
-        "lang:es_LA": "Gobernador de Cundinamarca",
-        "lang:en_US": "Governor of Cundinamarca Department"
+        "lang:es": "Gobernador de Cundinamarca",
+        "lang:en": "Governor of Cundinamarca Department"
       }
     }
   ]

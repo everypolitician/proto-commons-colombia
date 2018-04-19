@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Alejandro Char",
-        "lang:en_US": "Alejandro Char"
+        "lang:es": "Alejandro Char",
+        "lang:en": "Alejandro Char"
       },
       "id": "Q4714502",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "alcaldía de Barranquilla",
-        "lang:en_US": "office of the mayor of Barranquilla"
+        "lang:es": "alcaldía de Barranquilla",
+        "lang:en": "office of the mayor of Barranquilla"
       },
       "id": "Q51716476",
       "classification": "branch",
@@ -35,8 +35,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -66,8 +66,8 @@
         "Q51093312"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Atlántico"
@@ -91,8 +91,8 @@
         "Q5663913"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Barranquilla"
@@ -115,8 +115,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -135,13 +135,13 @@
       "start_date": "2015-10-25",
       "role_superclass_code": "Q5663913",
       "role_superclass": {
-        "lang:es_LA": "Alcalde de Barranquilla",
-        "lang:en_US": "mayor of Barranquilla"
+        "lang:es": "Alcalde de Barranquilla",
+        "lang:en": "mayor of Barranquilla"
       },
       "role_code": "Q5663913",
       "role": {
-        "lang:es_LA": "Alcalde de Barranquilla",
-        "lang:en_US": "mayor of Barranquilla"
+        "lang:es": "Alcalde de Barranquilla",
+        "lang:en": "mayor of Barranquilla"
       }
     }
   ]

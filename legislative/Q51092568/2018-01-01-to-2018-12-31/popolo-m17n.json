@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Constanza Ramos Campos",
-        "lang:en_US": "Constanza Ramos Campos"
+        "lang:es": "Constanza Ramos Campos",
+        "lang:en": "Constanza Ramos Campos"
       },
       "id": "Q51710236",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "asamblea departamental de Cundinamarca",
-        "lang:en_US": "departmental assembly of Cundinamarca"
+        "lang:es": "asamblea departamental de Cundinamarca",
+        "lang:en": "departmental assembly of Cundinamarca"
       },
       "id": "Q51092568",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Conservador Colombiano",
-        "lang:en_US": "Colombian Conservative Party"
+        "lang:es": "Partido Conservador Colombiano",
+        "lang:en": "Colombian Conservative Party"
       },
       "id": "Q747333",
       "classification": "party",
@@ -72,8 +72,8 @@
         "Q51093316"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Cundinamarca"
@@ -96,8 +96,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -114,13 +114,13 @@
       "organization_id": "Q51092568",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q51093316",
       "role": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy in the departmental assembly of Cundinamarca"
+        "lang:es": "diputado",
+        "lang:en": "deputy in the departmental assembly of Cundinamarca"
       }
     }
   ]

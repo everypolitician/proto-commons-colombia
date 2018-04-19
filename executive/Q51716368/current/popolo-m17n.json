@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Camilo Romero (político)",
-        "lang:en_US": "Camilo Romero"
+        "lang:es": "Camilo Romero (político)",
+        "lang:en": "Camilo Romero"
       },
       "id": "Q5742191",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "despacho del gobernador de Nariño",
-        "lang:en_US": "office of the governor of Nariño department"
+        "lang:es": "despacho del gobernador de Nariño",
+        "lang:en": "office of the governor of Nariño department"
       },
       "id": "Q51716368",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Polo Democrático Alternativo",
-        "lang:en_US": "Alternative Democratic Pole"
+        "lang:es": "Polo Democrático Alternativo",
+        "lang:en": "Alternative Democratic Pole"
       },
       "id": "Q2251452",
       "classification": "party",
@@ -69,8 +69,8 @@
         "Q51093302"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Nariño"
@@ -93,8 +93,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -112,13 +112,13 @@
       "area_id": "Q230217",
       "role_superclass_code": "Q47524592",
       "role_superclass": {
-        "lang:es_LA": "Gobernador de Nariño",
-        "lang:en_US": "Governor of Nariño Department"
+        "lang:es": "Gobernador de Nariño",
+        "lang:en": "Governor of Nariño Department"
       },
       "role_code": "Q47524592",
       "role": {
-        "lang:es_LA": "Gobernador de Nariño",
-        "lang:en_US": "Governor of Nariño Department"
+        "lang:es": "Gobernador de Nariño",
+        "lang:en": "Governor of Nariño Department"
       }
     }
   ]

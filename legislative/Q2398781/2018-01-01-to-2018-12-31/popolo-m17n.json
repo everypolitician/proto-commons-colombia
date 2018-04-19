@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Carlos Gaviria Díaz",
-        "lang:en_US": "Carlos Gaviria Díaz"
+        "lang:es": "Carlos Gaviria Díaz",
+        "lang:en": "Carlos Gaviria Díaz"
       },
       "id": "Q1042940",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rodrigo Lara Bonilla",
-        "lang:en_US": "Rodrigo Lara"
+        "lang:es": "Rodrigo Lara Bonilla",
+        "lang:en": "Rodrigo Lara"
       },
       "id": "Q116059",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Olga Suárez Mira",
-        "lang:en_US": "Olga Suárez Mira"
+        "lang:es": "Olga Suárez Mira",
+        "lang:en": "Olga Suárez Mira"
       },
       "id": "Q16301390",
       "identifiers": [
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Holmes Trujillo",
-        "lang:en_US": "Carlos Holmes Trujillo"
+        "lang:es": "Carlos Holmes Trujillo",
+        "lang:en": "Carlos Holmes Trujillo"
       },
       "id": "Q16490286",
       "identifiers": [
@@ -66,8 +66,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Nidia Marcela Osorio",
-        "lang:en_US": "Nidia Marcela Osorio"
+        "lang:es": "Nidia Marcela Osorio",
+        "lang:en": "Nidia Marcela Osorio"
       },
       "id": "Q16611807",
       "identifiers": [
@@ -82,8 +82,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Alfonso Hoyos",
-        "lang:en_US": "Luis Alfonso Hoyos"
+        "lang:es": "Luis Alfonso Hoyos",
+        "lang:en": "Luis Alfonso Hoyos"
       },
       "id": "Q16941974",
       "identifiers": [
@@ -98,8 +98,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Musa Besaile",
-        "lang:en_US": "Musa Besaile"
+        "lang:es": "Musa Besaile",
+        "lang:en": "Musa Besaile"
       },
       "id": "Q16948806",
       "identifiers": [
@@ -114,8 +114,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Germán Darío Hoyos",
-        "lang:en_US": "Germán Darío Hoyos"
+        "lang:es": "Germán Darío Hoyos",
+        "lang:en": "Germán Darío Hoyos"
       },
       "id": "Q17274584",
       "identifiers": [
@@ -130,8 +130,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Mario Laserna",
-        "lang:en_US": "Juan Mario Laserna"
+        "lang:es": "Juan Mario Laserna",
+        "lang:en": "Juan Mario Laserna"
       },
       "id": "Q17364371",
       "identifiers": [
@@ -146,8 +146,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Paloma Valencia",
-        "lang:en_US": "Paloma Valencia Laserna"
+        "lang:es": "Paloma Valencia",
+        "lang:en": "Paloma Valencia Laserna"
       },
       "id": "Q17364462",
       "identifiers": [
@@ -162,8 +162,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Everth Bustamante García",
-        "lang:en_US": "Everth Bustamante García"
+        "lang:es": "Everth Bustamante García",
+        "lang:en": "Everth Bustamante García"
       },
       "id": "Q17462484",
       "identifiers": [
@@ -178,8 +178,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alfredo Ramos Maya",
-        "lang:en_US": "Alfredo Ramos Maya"
+        "lang:es": "Alfredo Ramos Maya",
+        "lang:en": "Alfredo Ramos Maya"
       },
       "id": "Q17462492",
       "identifiers": [
@@ -194,8 +194,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Susana Correa Borrero",
-        "lang:en_US": "Susana Correa Borrero"
+        "lang:es": "Susana Correa Borrero",
+        "lang:en": "Susana Correa Borrero"
       },
       "id": "Q17477977",
       "identifiers": [
@@ -210,8 +210,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Iván Duque",
-        "lang:en_US": "Iván Duque"
+        "lang:es": "Iván Duque",
+        "lang:en": "Iván Duque"
       },
       "id": "Q17478000",
       "identifiers": [
@@ -226,8 +226,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ana Mercedes Gómez",
-        "lang:en_US": "Ana Mercedes Gómez"
+        "lang:es": "Ana Mercedes Gómez",
+        "lang:en": "Ana Mercedes Gómez"
       },
       "id": "Q17478055",
       "identifiers": [
@@ -242,8 +242,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Diego Gómez",
-        "lang:en_US": "Juan Diego Gómez"
+        "lang:es": "Juan Diego Gómez",
+        "lang:en": "Juan Diego Gómez"
       },
       "id": "Q17478056",
       "identifiers": [
@@ -258,8 +258,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mauricio Lizcano",
-        "lang:en_US": "Mauricio Lizcano"
+        "lang:es": "Mauricio Lizcano",
+        "lang:en": "Mauricio Lizcano"
       },
       "id": "Q17478114",
       "identifiers": [
@@ -274,8 +274,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alfredo Rangel",
-        "lang:en_US": "Alfredo Rangel"
+        "lang:es": "Alfredo Rangel",
+        "lang:en": "Alfredo Rangel"
       },
       "id": "Q17478235",
       "identifiers": [
@@ -290,8 +290,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Orlando Castañeda Serrano",
-        "lang:en_US": "Orlando Castañeda Serrano"
+        "lang:es": "Orlando Castañeda Serrano",
+        "lang:en": "Orlando Castañeda Serrano"
       },
       "id": "Q17624021",
       "identifiers": [
@@ -306,8 +306,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Thania Vega",
-        "lang:en_US": "Thania Vega"
+        "lang:es": "Thania Vega",
+        "lang:en": "Thania Vega"
       },
       "id": "Q17631347",
       "identifiers": [
@@ -322,8 +322,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jaime Amín",
-        "lang:en_US": "Jaime Amín"
+        "lang:es": "Jaime Amín",
+        "lang:en": "Jaime Amín"
       },
       "id": "Q17987359",
       "identifiers": [
@@ -338,8 +338,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Guillermo Gaviria Echeverri",
-        "lang:en_US": "Guillermo Gaviria Echeverri"
+        "lang:es": "Guillermo Gaviria Echeverri",
+        "lang:en": "Guillermo Gaviria Echeverri"
       },
       "id": "Q17994694",
       "identifiers": [
@@ -354,8 +354,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jimmy Chamorro",
-        "lang:en_US": "Jimmy Chamorro"
+        "lang:es": "Jimmy Chamorro",
+        "lang:en": "Jimmy Chamorro"
       },
       "id": "Q18170803",
       "identifiers": [
@@ -370,8 +370,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Sofía Gaviria",
-        "lang:en_US": "Sofia Gaviria"
+        "lang:es": "Sofía Gaviria",
+        "lang:en": "Sofia Gaviria"
       },
       "id": "Q18201479",
       "identifiers": [
@@ -386,8 +386,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Daniel Cabrales",
-        "lang:en_US": "Daniel Cabrales"
+        "lang:es": "Daniel Cabrales",
+        "lang:en": "Daniel Cabrales"
       },
       "id": "Q18222782",
       "identifiers": [
@@ -402,8 +402,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Fernando Araújo Rumie",
-        "lang:en_US": "Fernando Araújo Rumie"
+        "lang:es": "Fernando Araújo Rumie",
+        "lang:en": "Fernando Araújo Rumie"
       },
       "id": "Q18223204",
       "identifiers": [
@@ -418,8 +418,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mario Fernández Alcocer",
-        "lang:en_US": "Mario Fernández Alcocer"
+        "lang:es": "Mario Fernández Alcocer",
+        "lang:en": "Mario Fernández Alcocer"
       },
       "id": "Q18224184",
       "identifiers": [
@@ -437,8 +437,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Nadya Georgette Blel Scaff",
-        "lang:en_US": "Nadya Blel"
+        "lang:es": "Nadya Georgette Blel Scaff",
+        "lang:en": "Nadya Blel"
       },
       "id": "Q18417131",
       "identifiers": [
@@ -456,8 +456,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Nora García",
-        "lang:en_US": "Nora García"
+        "lang:es": "Nora García",
+        "lang:en": "Nora García"
       },
       "id": "Q18417274",
       "identifiers": [
@@ -472,8 +472,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José María Bernala",
-        "lang:en_US": "José María Bernal"
+        "lang:es": "José María Bernala",
+        "lang:en": "José María Bernal"
       },
       "id": "Q18590618",
       "identifiers": [
@@ -488,8 +488,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Edgar Artunduaga",
-        "lang:en_US": "Edgar Artunduaga"
+        "lang:es": "Edgar Artunduaga",
+        "lang:en": "Edgar Artunduaga"
       },
       "id": "Q18643822",
       "identifiers": [
@@ -504,8 +504,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rodrigo Marín Bernal",
-        "lang:en_US": "Rodrigo Marín Bernal"
+        "lang:es": "Rodrigo Marín Bernal",
+        "lang:en": "Rodrigo Marín Bernal"
       },
       "id": "Q18704453",
       "identifiers": [
@@ -520,8 +520,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Álvaro Uribe",
-        "lang:en_US": "Álvaro Uribe"
+        "lang:es": "Álvaro Uribe",
+        "lang:en": "Álvaro Uribe"
       },
       "id": "Q187413",
       "identifiers": [
@@ -539,8 +539,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Alfredo Gnecco",
-        "lang:en_US": "José Alfredo Gnecco"
+        "lang:es": "José Alfredo Gnecco",
+        "lang:en": "José Alfredo Gnecco"
       },
       "id": "Q20016263",
       "identifiers": [
@@ -558,8 +558,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Cecilia López Montaño",
-        "lang:en_US": "Cecilia López Montaño"
+        "lang:es": "Cecilia López Montaño",
+        "lang:en": "Cecilia López Montaño"
       },
       "id": "Q2879824",
       "identifiers": [
@@ -574,8 +574,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mario Laserna Pinzón",
-        "lang:en_US": "Mario Laserna Pinzón"
+        "lang:es": "Mario Laserna Pinzón",
+        "lang:en": "Mario Laserna Pinzón"
       },
       "id": "Q2884345",
       "identifiers": [
@@ -590,8 +590,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Doris Vega",
-        "lang:en_US": "Doris Vega"
+        "lang:es": "Doris Vega",
+        "lang:en": "Doris Vega"
       },
       "id": "Q29122048",
       "identifiers": [
@@ -606,8 +606,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Humberto Gómez Gallo",
-        "lang:en_US": "Luis Humberto Gómez Gallo"
+        "lang:es": "Luis Humberto Gómez Gallo",
+        "lang:en": "Luis Humberto Gómez Gallo"
       },
       "id": "Q2917507",
       "identifiers": [
@@ -622,7 +622,7 @@
     },
     {
       "name": {
-        "lang:en_US": "Julio Miguel Guerra Sotto"
+        "lang:en": "Julio Miguel Guerra Sotto"
       },
       "id": "Q29204100",
       "identifiers": [
@@ -637,7 +637,7 @@
     },
     {
       "name": {
-        "lang:en_US": "Honorio Miguel Henríquez Pinedo"
+        "lang:en": "Honorio Miguel Henríquez Pinedo"
       },
       "id": "Q29204228",
       "identifiers": [
@@ -652,7 +652,7 @@
     },
     {
       "name": {
-        "lang:en_US": "Carlos Felipe Mejía Mejía"
+        "lang:en": "Carlos Felipe Mejía Mejía"
       },
       "id": "Q29204293",
       "identifiers": [
@@ -667,8 +667,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Marco Fidel Suárez",
-        "lang:en_US": "Marco Fidel Suárez"
+        "lang:es": "Marco Fidel Suárez",
+        "lang:en": "Marco Fidel Suárez"
       },
       "id": "Q3045986",
       "identifiers": [
@@ -683,8 +683,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Carlos Galán",
-        "lang:en_US": "Luis Carlos Galán Sarmiento"
+        "lang:es": "Luis Carlos Galán",
+        "lang:en": "Luis Carlos Galán Sarmiento"
       },
       "id": "Q3046401",
       "identifiers": [
@@ -699,8 +699,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Horacio Serpa",
-        "lang:en_US": "Horacio Serpa"
+        "lang:es": "Horacio Serpa",
+        "lang:en": "Horacio Serpa"
       },
       "id": "Q326405",
       "identifiers": [
@@ -718,8 +718,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Sergio Arboleda",
-        "lang:en_US": "Sergio Arboleda"
+        "lang:es": "Sergio Arboleda",
+        "lang:en": "Sergio Arboleda"
       },
       "id": "Q3479645",
       "identifiers": [
@@ -734,8 +734,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Álvaro Araújo Castro",
-        "lang:en_US": "Álvaro Araújo Castro"
+        "lang:es": "Álvaro Araújo Castro",
+        "lang:en": "Álvaro Araújo Castro"
       },
       "id": "Q4025161",
       "identifiers": [
@@ -750,8 +750,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rodrigo Lloreda Caicedo",
-        "lang:en_US": "Rodrigo Hernan Lloreda Caicedo"
+        "lang:es": "Rodrigo Lloreda Caicedo",
+        "lang:en": "Rodrigo Hernan Lloreda Caicedo"
       },
       "id": "Q4208745",
       "identifiers": [
@@ -766,8 +766,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Piedad Córdoba",
-        "lang:en_US": "Piedad Córdoba"
+        "lang:es": "Piedad Córdoba",
+        "lang:en": "Piedad Córdoba"
       },
       "id": "Q457148",
       "identifiers": [
@@ -782,8 +782,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alfonso López Caballero",
-        "lang:en_US": "Alfonso López Caballero"
+        "lang:es": "Alfonso López Caballero",
+        "lang:en": "Alfonso López Caballero"
       },
       "id": "Q4722056",
       "identifiers": [
@@ -798,8 +798,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ancízar López",
-        "lang:en_US": "Ancízar López López"
+        "lang:es": "Ancízar López",
+        "lang:en": "Ancízar López López"
       },
       "id": "Q4753277",
       "identifiers": [
@@ -814,8 +814,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Antonio Navarro Wolff",
-        "lang:en_US": "Antonio Navarro Wolff"
+        "lang:es": "Antonio Navarro Wolff",
+        "lang:en": "Antonio Navarro Wolff"
       },
       "id": "Q4776830",
       "identifiers": [
@@ -833,8 +833,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Arturo Char",
-        "lang:en_US": "Arturo Char"
+        "lang:es": "Arturo Char",
+        "lang:en": "Arturo Char"
       },
       "id": "Q4801717",
       "identifiers": [
@@ -849,8 +849,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Alfredo Ramos",
-        "lang:en_US": "Luis Alfredo Ramos"
+        "lang:es": "Luis Alfredo Ramos",
+        "lang:en": "Luis Alfredo Ramos"
       },
       "id": "Q4968512",
       "identifiers": [
@@ -865,8 +865,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Alberto Baena",
-        "lang:en_US": "Carlos Alberto Baena"
+        "lang:es": "Carlos Alberto Baena",
+        "lang:en": "Carlos Alberto Baena"
       },
       "id": "Q5041681",
       "identifiers": [
@@ -881,8 +881,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Armando Benedetti",
-        "lang:en_US": "Armando Benedetti"
+        "lang:es": "Armando Benedetti",
+        "lang:en": "Armando Benedetti"
       },
       "id": "Q507869",
       "identifiers": [
@@ -897,8 +897,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Claudia Blum",
-        "lang:en_US": "Claudia Blum"
+        "lang:es": "Claudia Blum",
+        "lang:en": "Claudia Blum"
       },
       "id": "Q5129134",
       "identifiers": [
@@ -913,8 +913,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Iván Cepeda Castro",
-        "lang:en_US": "Iván Cepeda Castro"
+        "lang:es": "Iván Cepeda Castro",
+        "lang:en": "Iván Cepeda Castro"
       },
       "id": "Q524949",
       "identifiers": [
@@ -932,8 +932,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Dilian Francisca Toro",
-        "lang:en_US": "Dilian Francisca Toro"
+        "lang:es": "Dilian Francisca Toro",
+        "lang:en": "Dilian Francisca Toro"
       },
       "id": "Q5276782",
       "identifiers": [
@@ -951,8 +951,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Enrique Parejo González",
-        "lang:en_US": "Enrique Parejo González"
+        "lang:es": "Enrique Parejo González",
+        "lang:en": "Enrique Parejo González"
       },
       "id": "Q5379785",
       "identifiers": [
@@ -967,8 +967,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Viviane Morales",
-        "lang:en_US": "Viviane Morales Hoyos"
+        "lang:es": "Viviane Morales",
+        "lang:en": "Viviane Morales Hoyos"
       },
       "id": "Q5394800",
       "identifiers": [
@@ -983,8 +983,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Esmeralda Arboleda",
-        "lang:en_US": "Esmeralda Arboleda Cadavid"
+        "lang:es": "Esmeralda Arboleda",
+        "lang:en": "Esmeralda Arboleda Cadavid"
       },
       "id": "Q5398525",
       "identifiers": [
@@ -999,8 +999,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Plinio Olano",
-        "lang:en_US": "Plinio Olano"
+        "lang:es": "Plinio Olano",
+        "lang:en": "Plinio Olano"
       },
       "id": "Q5406366",
       "identifiers": [
@@ -1015,8 +1015,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Lozano Ramírez",
-        "lang:en_US": "Juan Lozano Ramírez"
+        "lang:es": "Juan Lozano Ramírez",
+        "lang:en": "Juan Lozano Ramírez"
       },
       "id": "Q542014",
       "identifiers": [
@@ -1031,8 +1031,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Fabio Valencia Cossio",
-        "lang:en_US": "Fabio Valencia Cossio"
+        "lang:es": "Fabio Valencia Cossio",
+        "lang:en": "Fabio Valencia Cossio"
       },
       "id": "Q5427870",
       "identifiers": [
@@ -1047,8 +1047,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Clímaco Ordóñez",
-        "lang:en_US": "Juan Clímaco Ordóñez"
+        "lang:es": "Juan Clímaco Ordóñez",
+        "lang:en": "Juan Clímaco Ordóñez"
       },
       "id": "Q5476860",
       "identifiers": [
@@ -1063,8 +1063,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gerardo Molina Ramírez",
-        "lang:en_US": "Gerardo Molina"
+        "lang:es": "Gerardo Molina Ramírez",
+        "lang:en": "Gerardo Molina"
       },
       "id": "Q5550290",
       "identifiers": [
@@ -1079,8 +1079,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Germán Zea Hernández",
-        "lang:en_US": "Germán Zea Hernández"
+        "lang:es": "Germán Zea Hernández",
+        "lang:en": "Germán Zea Hernández"
       },
       "id": "Q5552352",
       "identifiers": [
@@ -1095,8 +1095,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gina Parody",
-        "lang:en_US": "Gina Parody"
+        "lang:es": "Gina Parody",
+        "lang:en": "Gina Parody"
       },
       "id": "Q5562912",
       "identifiers": [
@@ -1111,8 +1111,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Roberto Gerlein",
-        "lang:en_US": "Roberto Gerlein Echeverría"
+        "lang:es": "Roberto Gerlein",
+        "lang:en": "Roberto Gerlein Echeverría"
       },
       "id": "Q5577953",
       "identifiers": [
@@ -1127,8 +1127,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gustavo Balcázar Monzón",
-        "lang:en_US": "Gustavo Balcázar Monzón"
+        "lang:es": "Gustavo Balcázar Monzón",
+        "lang:en": "Gustavo Balcázar Monzón"
       },
       "id": "Q5621346",
       "identifiers": [
@@ -1143,8 +1143,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Fernando Velasco",
-        "lang:en_US": "Luis Fernando Velasco"
+        "lang:es": "Luis Fernando Velasco",
+        "lang:en": "Luis Fernando Velasco"
       },
       "id": "Q5654865",
       "identifiers": [
@@ -1159,8 +1159,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Enrique Robledo",
-        "lang:en_US": "Jorge Enrique Robledo"
+        "lang:es": "Jorge Enrique Robledo",
+        "lang:en": "Jorge Enrique Robledo"
       },
       "id": "Q5655676",
       "identifiers": [
@@ -1175,8 +1175,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Adriana Gutiérrez",
-        "lang:en_US": "Adriana Gutiérrez"
+        "lang:es": "Adriana Gutiérrez",
+        "lang:en": "Adriana Gutiérrez"
       },
       "id": "Q5658343",
       "identifiers": [
@@ -1191,8 +1191,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alexander López",
-        "lang:en_US": "Alexander López"
+        "lang:es": "Alexander López",
+        "lang:en": "Alexander López"
       },
       "id": "Q5666190",
       "identifiers": [
@@ -1207,8 +1207,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alexandra Moreno Piraquive",
-        "lang:en_US": "Alexandra Moreno Piraquive"
+        "lang:es": "Alexandra Moreno Piraquive",
+        "lang:en": "Alexandra Moreno Piraquive"
       },
       "id": "Q5666275",
       "identifiers": [
@@ -1223,8 +1223,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alfonso Clavijo González",
-        "lang:en_US": "Alfonso Clavijo González"
+        "lang:es": "Alfonso Clavijo González",
+        "lang:en": "Alfonso Clavijo González"
       },
       "id": "Q5666762",
       "identifiers": [
@@ -1239,8 +1239,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alfonso Núñez Lapeira",
-        "lang:en_US": "Alfonso Núñez Lapeira"
+        "lang:es": "Alfonso Núñez Lapeira",
+        "lang:en": "Alfonso Núñez Lapeira"
       },
       "id": "Q5667063",
       "identifiers": [
@@ -1255,8 +1255,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alirio Villamizar",
-        "lang:en_US": "Alirio Villamizar"
+        "lang:es": "Alirio Villamizar",
+        "lang:en": "Alirio Villamizar"
       },
       "id": "Q5669012",
       "identifiers": [
@@ -1271,8 +1271,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Amparo Arbeláez Escalante",
-        "lang:en_US": "Amparo Arbeláez Escalante"
+        "lang:es": "Amparo Arbeláez Escalante",
+        "lang:en": "Amparo Arbeláez Escalante"
       },
       "id": "Q5673223",
       "identifiers": [
@@ -1287,8 +1287,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Amylkar Acosta",
-        "lang:en_US": "Amilkar Acosta Medina"
+        "lang:es": "Amylkar Acosta",
+        "lang:en": "Amilkar Acosta Medina"
       },
       "id": "Q5673436",
       "identifiers": [
@@ -1303,8 +1303,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Andrés González Díaz",
-        "lang:en_US": "Andrés González Díaz"
+        "lang:es": "Andrés González Díaz",
+        "lang:en": "Andrés González Díaz"
       },
       "id": "Q5675808",
       "identifiers": [
@@ -1319,8 +1319,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Zulema Jattin Corrales",
-        "lang:en_US": "Zulema Jattin Corrales"
+        "lang:es": "Zulema Jattin Corrales",
+        "lang:en": "Zulema Jattin Corrales"
       },
       "id": "Q5680220",
       "identifiers": [
@@ -1335,8 +1335,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Hernando Pedraza",
-        "lang:en_US": "Jorge Hernando Pedraza"
+        "lang:es": "Jorge Hernando Pedraza",
+        "lang:en": "Jorge Hernando Pedraza"
       },
       "id": "Q5680585",
       "identifiers": [
@@ -1351,8 +1351,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Guillermo Perry Rubio",
-        "lang:en_US": "Guillermo Perry Rubio"
+        "lang:es": "Guillermo Perry Rubio",
+        "lang:en": "Guillermo Perry Rubio"
       },
       "id": "Q5682967",
       "identifiers": [
@@ -1367,8 +1367,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Élmer Arenas Parra",
-        "lang:en_US": "Luis Élmer Arenas Parra"
+        "lang:es": "Luis Élmer Arenas Parra",
+        "lang:en": "Luis Élmer Arenas Parra"
       },
       "id": "Q5687797",
       "identifiers": [
@@ -1383,8 +1383,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Camilo Sánchez Ortega",
-        "lang:en_US": "Camilo Sánchez Ortega"
+        "lang:es": "Camilo Sánchez Ortega",
+        "lang:en": "Camilo Sánchez Ortega"
       },
       "id": "Q5692275",
       "identifiers": [
@@ -1399,8 +1399,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Antonio Correa",
-        "lang:en_US": "Antonio Correa"
+        "lang:es": "Antonio Correa",
+        "lang:en": "Antonio Correa"
       },
       "id": "Q5698082",
       "identifiers": [
@@ -1415,8 +1415,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Argelino Durán Quintero",
-        "lang:en_US": "Argelino Durán Quintero"
+        "lang:es": "Argelino Durán Quintero",
+        "lang:en": "Argelino Durán Quintero"
       },
       "id": "Q5703591",
       "identifiers": [
@@ -1431,8 +1431,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Arleth Casado de López",
-        "lang:en_US": "Arleth Casado de López"
+        "lang:es": "Arleth Casado de López",
+        "lang:en": "Arleth Casado de López"
       },
       "id": "Q5704306",
       "identifiers": [
@@ -1447,8 +1447,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Aurelio Iragorri Hormaza",
-        "lang:en_US": "Aurelio Iragorri Hormaza"
+        "lang:es": "Aurelio Iragorri Hormaza",
+        "lang:en": "Aurelio Iragorri Hormaza"
       },
       "id": "Q5711988",
       "identifiers": [
@@ -1463,8 +1463,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Bernabé Celis",
-        "lang:en_US": "Bernabé Celis"
+        "lang:es": "Bernabé Celis",
+        "lang:en": "Bernabé Celis"
       },
       "id": "Q5726446",
       "identifiers": [
@@ -1479,8 +1479,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Bernardo Miguel Elías",
-        "lang:en_US": "Bernardo Miguel Elías"
+        "lang:es": "Bernardo Miguel Elías",
+        "lang:en": "Bernardo Miguel Elías"
       },
       "id": "Q5726848",
       "identifiers": [
@@ -1495,8 +1495,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Bladimiro Cuello Daza",
-        "lang:en_US": "Bladimiro Cuello Daza"
+        "lang:es": "Bladimiro Cuello Daza",
+        "lang:en": "Bladimiro Cuello Daza"
       },
       "id": "Q5729675",
       "identifiers": [
@@ -1511,8 +1511,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Camilo Romero (político)",
-        "lang:en_US": "Camilo Romero"
+        "lang:es": "Camilo Romero (político)",
+        "lang:en": "Camilo Romero"
       },
       "id": "Q5742191",
       "identifiers": [
@@ -1530,8 +1530,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Cárdenas Ortiz",
-        "lang:en_US": "Carlos Cárdenas Ortiz"
+        "lang:es": "Carlos Cárdenas Ortiz",
+        "lang:en": "Carlos Cárdenas Ortiz"
       },
       "id": "Q5750114",
       "identifiers": [
@@ -1546,8 +1546,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Eduardo Enríquez Maya",
-        "lang:en_US": "Carlos Eduardo Enríquez Maya"
+        "lang:es": "Carlos Eduardo Enríquez Maya",
+        "lang:en": "Carlos Eduardo Enríquez Maya"
       },
       "id": "Q5750208",
       "identifiers": [
@@ -1562,8 +1562,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Emiro Barriga",
-        "lang:en_US": "Carlos Emiro Barriga"
+        "lang:es": "Carlos Emiro Barriga",
+        "lang:en": "Carlos Emiro Barriga"
       },
       "id": "Q5750238",
       "identifiers": [
@@ -1578,8 +1578,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Fernando Galán",
-        "lang:en_US": "Carlos Fernando Galán"
+        "lang:es": "Carlos Fernando Galán",
+        "lang:en": "Carlos Fernando Galán"
       },
       "id": "Q5750311",
       "identifiers": [
@@ -1594,8 +1594,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Ferro",
-        "lang:en_US": "Carlos Ferro"
+        "lang:es": "Carlos Ferro",
+        "lang:en": "Carlos Ferro"
       },
       "id": "Q5750340",
       "identifiers": [
@@ -1610,8 +1610,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos García Orjuela",
-        "lang:en_US": "Carlos García Orjuela"
+        "lang:es": "Carlos García Orjuela",
+        "lang:en": "Carlos García Orjuela"
       },
       "id": "Q5750450",
       "identifiers": [
@@ -1626,8 +1626,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Julio González",
-        "lang:en_US": "Carlos Julio González"
+        "lang:es": "Carlos Julio González",
+        "lang:en": "Carlos Julio González"
       },
       "id": "Q5750672",
       "identifiers": [
@@ -1642,8 +1642,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Ramiro Chávarro",
-        "lang:en_US": "Carlos Ramiro Chávarro"
+        "lang:es": "Carlos Ramiro Chávarro",
+        "lang:en": "Carlos Ramiro Chávarro"
       },
       "id": "Q5751462",
       "identifiers": [
@@ -1658,8 +1658,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Ramón González",
-        "lang:en_US": "Carlos Ramón González"
+        "lang:es": "Carlos Ramón González",
+        "lang:en": "Carlos Ramón González"
       },
       "id": "Q5751476",
       "identifiers": [
@@ -1674,8 +1674,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ciro Ramírez",
-        "lang:en_US": "Ciro Ramírez"
+        "lang:es": "Ciro Ramírez",
+        "lang:en": "Ciro Ramírez"
       },
       "id": "Q5770253",
       "identifiers": [
@@ -1690,8 +1690,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Claudia López Hernández",
-        "lang:en_US": "Claudia López Hernández"
+        "lang:es": "Claudia López Hernández",
+        "lang:en": "Claudia López Hernández"
       },
       "id": "Q5771765",
       "identifiers": [
@@ -1706,8 +1706,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Álvaro García Romero",
-        "lang:en_US": "Álvaro García Romero"
+        "lang:es": "Álvaro García Romero",
+        "lang:en": "Álvaro García Romero"
       },
       "id": "Q5796535",
       "identifiers": [
@@ -1722,8 +1722,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Hernán Andrade",
-        "lang:en_US": "Hernán Andrade"
+        "lang:es": "Hernán Andrade",
+        "lang:en": "Hernán Andrade"
       },
       "id": "Q5802297",
       "identifiers": [
@@ -1738,8 +1738,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Dieb Maloof",
-        "lang:en_US": "Dieb Maloof"
+        "lang:es": "Dieb Maloof",
+        "lang:en": "Dieb Maloof"
       },
       "id": "Q5805834",
       "identifiers": [
@@ -1754,8 +1754,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mario Londoño Arcila",
-        "lang:en_US": "Mario Londoño Arcila"
+        "lang:es": "Mario Londoño Arcila",
+        "lang:en": "Mario Londoño Arcila"
       },
       "id": "Q5807039",
       "identifiers": [
@@ -1770,8 +1770,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Domingo Roncancio Jiménez",
-        "lang:en_US": "Domingo Roncancio Jiménez"
+        "lang:es": "Domingo Roncancio Jiménez",
+        "lang:en": "Domingo Roncancio Jiménez"
       },
       "id": "Q5812893",
       "identifiers": [
@@ -1786,8 +1786,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Edinson Delgado",
-        "lang:en_US": "Edinson Delgado"
+        "lang:es": "Edinson Delgado",
+        "lang:en": "Edinson Delgado"
       },
       "id": "Q5818516",
       "identifiers": [
@@ -1802,8 +1802,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Eduardo Merlano",
-        "lang:en_US": "Eduardo Merlano"
+        "lang:es": "Eduardo Merlano",
+        "lang:en": "Eduardo Merlano"
       },
       "id": "Q5819454",
       "identifiers": [
@@ -1818,8 +1818,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Eduardo Romo Rosero",
-        "lang:en_US": "Eduardo Romo Rosero"
+        "lang:es": "Eduardo Romo Rosero",
+        "lang:en": "Eduardo Romo Rosero"
       },
       "id": "Q5819656",
       "identifiers": [
@@ -1834,8 +1834,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Efraín Cepeda",
-        "lang:en_US": "Efraín Cepeda"
+        "lang:es": "Efraín Cepeda",
+        "lang:en": "Efraín Cepeda"
       },
       "id": "Q5820273",
       "identifiers": [
@@ -1850,8 +1850,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Efraín Torrado",
-        "lang:en_US": "Efraín Torrado"
+        "lang:es": "Efraín Torrado",
+        "lang:en": "Efraín Torrado"
       },
       "id": "Q5820301",
       "identifiers": [
@@ -1866,8 +1866,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Elsa Gladys Cifuentes",
-        "lang:en_US": "Elsa Gladys Cifuentes"
+        "lang:es": "Elsa Gladys Cifuentes",
+        "lang:en": "Elsa Gladys Cifuentes"
       },
       "id": "Q5830007",
       "identifiers": [
@@ -1882,8 +1882,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Enrique Gómez Montealegre",
-        "lang:en_US": "Enrique Gómez Montealegre"
+        "lang:es": "Enrique Gómez Montealegre",
+        "lang:en": "Enrique Gómez Montealegre"
       },
       "id": "Q5833403",
       "identifiers": [
@@ -1901,8 +1901,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ernesto Ramiro Estacio",
-        "lang:en_US": "Ernesto Ramiro Estacio"
+        "lang:es": "Ernesto Ramiro Estacio",
+        "lang:en": "Ernesto Ramiro Estacio"
       },
       "id": "Q5836985",
       "identifiers": [
@@ -1917,8 +1917,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Víctor Renán Barco",
-        "lang:en_US": "Víctor Renán Barco"
+        "lang:es": "Víctor Renán Barco",
+        "lang:en": "Víctor Renán Barco"
       },
       "id": "Q5842032",
       "identifiers": [
@@ -1933,8 +1933,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ezequiel Rojas",
-        "lang:en_US": "Ezequiel Rojas"
+        "lang:es": "Ezequiel Rojas",
+        "lang:en": "Ezequiel Rojas"
       },
       "id": "Q5853796",
       "identifiers": [
@@ -1949,8 +1949,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Felipe Angulo",
-        "lang:en_US": "Felipe Angulo"
+        "lang:es": "Felipe Angulo",
+        "lang:en": "Felipe Angulo"
       },
       "id": "Q5858080",
       "identifiers": [
@@ -1965,8 +1965,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Fernando Tamayo Tamayo",
-        "lang:en_US": "Fernando Tamayo Tamayo"
+        "lang:es": "Fernando Tamayo Tamayo",
+        "lang:en": "Fernando Tamayo Tamayo"
       },
       "id": "Q5860298",
       "identifiers": [
@@ -1984,8 +1984,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Félix Valera",
-        "lang:en_US": "Félix Valera"
+        "lang:es": "Félix Valera",
+        "lang:en": "Félix Valera"
       },
       "id": "Q5872458",
       "identifiers": [
@@ -2000,8 +2000,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gabriel Acosta Bendek",
-        "lang:en_US": "Gabriel Acosta Bendek"
+        "lang:es": "Gabriel Acosta Bendek",
+        "lang:en": "Gabriel Acosta Bendek"
       },
       "id": "Q5873165",
       "identifiers": [
@@ -2016,8 +2016,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gabriel Zapata Correa",
-        "lang:en_US": "Gabriel Zapata Correa"
+        "lang:es": "Gabriel Zapata Correa",
+        "lang:en": "Gabriel Zapata Correa"
       },
       "id": "Q5873623",
       "identifiers": [
@@ -2032,8 +2032,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Germán Aguirre",
-        "lang:en_US": "Germán Aguirre"
+        "lang:es": "Germán Aguirre",
+        "lang:en": "Germán Aguirre"
       },
       "id": "Q5878582",
       "identifiers": [
@@ -2048,8 +2048,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Germán Villegas",
-        "lang:en_US": "Germán Villegas"
+        "lang:es": "Germán Villegas",
+        "lang:en": "Germán Villegas"
       },
       "id": "Q5878855",
       "identifiers": [
@@ -2064,8 +2064,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gilberto Arango Londoño",
-        "lang:en_US": "Gilberto Arango Londoño"
+        "lang:es": "Gilberto Arango Londoño",
+        "lang:en": "Gilberto Arango Londoño"
       },
       "id": "Q5879596",
       "identifiers": [
@@ -2080,8 +2080,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gilma Jiménez",
-        "lang:en_US": "Gilma Jiménez"
+        "lang:es": "Gilma Jiménez",
+        "lang:en": "Gilma Jiménez"
       },
       "id": "Q5879784",
       "identifiers": [
@@ -2096,8 +2096,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Gloria Inés Ramírez",
-        "lang:en_US": "Gloria Inés Ramírez"
+        "lang:es": "Gloria Inés Ramírez",
+        "lang:en": "Gloria Inés Ramírez"
       },
       "id": "Q5881263",
       "identifiers": [
@@ -2112,8 +2112,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Griselda Janeth Restrepo",
-        "lang:en_US": "Griselda Janeth Restrepo"
+        "lang:es": "Griselda Janeth Restrepo",
+        "lang:en": "Griselda Janeth Restrepo"
       },
       "id": "Q5885839",
       "identifiers": [
@@ -2128,8 +2128,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Guillermo Chaves Chaves",
-        "lang:en_US": "Guillermo Chaves Chaves"
+        "lang:es": "Guillermo Chaves Chaves",
+        "lang:en": "Guillermo Chaves Chaves"
       },
       "id": "Q5888442",
       "identifiers": [
@@ -2144,8 +2144,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Guillermo García Realpe",
-        "lang:en_US": "Guillermo García Realpe"
+        "lang:es": "Guillermo García Realpe",
+        "lang:en": "Guillermo García Realpe"
       },
       "id": "Q5888579",
       "identifiers": [
@@ -2160,8 +2160,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Guillermo Gaviria Zapata",
-        "lang:en_US": "Guillermo Gaviria Zapata"
+        "lang:es": "Guillermo Gaviria Zapata",
+        "lang:en": "Guillermo Gaviria Zapata"
       },
       "id": "Q5888582",
       "identifiers": [
@@ -2176,8 +2176,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Guillermo Santos Marín",
-        "lang:en_US": "Guillermo Santos Marín"
+        "lang:es": "Guillermo Santos Marín",
+        "lang:en": "Guillermo Santos Marín"
       },
       "id": "Q5888925",
       "identifiers": [
@@ -2192,8 +2192,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Habib Merheg",
-        "lang:en_US": "Habib Merheg"
+        "lang:es": "Habib Merheg",
+        "lang:en": "Habib Merheg"
       },
       "id": "Q5890905",
       "identifiers": [
@@ -2208,8 +2208,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Honorio Galvis",
-        "lang:en_US": "Honorio Galvis"
+        "lang:es": "Honorio Galvis",
+        "lang:en": "Honorio Galvis"
       },
       "id": "Q5901597",
       "identifiers": [
@@ -2224,8 +2224,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Hugo Serrano Gómez",
-        "lang:en_US": "Hugo Serrano Gómez"
+        "lang:es": "Hugo Serrano Gómez",
+        "lang:en": "Hugo Serrano Gómez"
       },
       "id": "Q5904657",
       "identifiers": [
@@ -2240,8 +2240,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Héctor Helí Rojas",
-        "lang:en_US": "Héctor Helí Rojas"
+        "lang:es": "Héctor Helí Rojas",
+        "lang:en": "Héctor Helí Rojas"
       },
       "id": "Q5906200",
       "identifiers": [
@@ -2256,8 +2256,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Héctor Julio Alfonso",
-        "lang:en_US": "Héctor Julio Alfonso"
+        "lang:es": "Héctor Julio Alfonso",
+        "lang:en": "Héctor Julio Alfonso"
       },
       "id": "Q5906231",
       "identifiers": [
@@ -2272,8 +2272,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Iván Díaz",
-        "lang:en_US": "Iván Díaz"
+        "lang:es": "Iván Díaz",
+        "lang:en": "Iván Díaz"
       },
       "id": "Q5923431",
       "identifiers": [
@@ -2288,8 +2288,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Iván Moreno Rojas",
-        "lang:en_US": "Iván Moreno Rojas"
+        "lang:es": "Iván Moreno Rojas",
+        "lang:en": "Iván Moreno Rojas"
       },
       "id": "Q5923513",
       "identifiers": [
@@ -2304,8 +2304,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jaime Durán Barrera",
-        "lang:en_US": "Jaime Durán Barrera"
+        "lang:es": "Jaime Durán Barrera",
+        "lang:en": "Jaime Durán Barrera"
       },
       "id": "Q5925008",
       "identifiers": [
@@ -2320,8 +2320,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jaime Dussán",
-        "lang:en_US": "Jaime Dussán"
+        "lang:es": "Jaime Dussán",
+        "lang:en": "Jaime Dussán"
       },
       "id": "Q5925011",
       "identifiers": [
@@ -2336,8 +2336,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jairo Enrique Merlano",
-        "lang:en_US": "Jairo Enrique Merlano"
+        "lang:es": "Jairo Enrique Merlano",
+        "lang:en": "Jairo Enrique Merlano"
       },
       "id": "Q5925519",
       "identifiers": [
@@ -2352,8 +2352,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jairo Mantilla Colmenares",
-        "lang:en_US": "Jairo Mantilla Colmenares"
+        "lang:es": "Jairo Mantilla Colmenares",
+        "lang:en": "Jairo Mantilla Colmenares"
       },
       "id": "Q5925537",
       "identifiers": [
@@ -2368,8 +2368,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Javier Cáceres Leal",
-        "lang:en_US": "Javier Cáceres Leal"
+        "lang:es": "Javier Cáceres Leal",
+        "lang:en": "Javier Cáceres Leal"
       },
       "id": "Q5927639",
       "identifiers": [
@@ -2384,8 +2384,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jesús Bernal Amorocho",
-        "lang:en_US": "Jesús Bernal Amorocho"
+        "lang:es": "Jesús Bernal Amorocho",
+        "lang:en": "Jesús Bernal Amorocho"
       },
       "id": "Q5929912",
       "identifiers": [
@@ -2400,8 +2400,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jesús Ignacio García",
-        "lang:en_US": "Jesús Ignacio García"
+        "lang:es": "Jesús Ignacio García",
+        "lang:en": "Jesús Ignacio García"
       },
       "id": "Q5930240",
       "identifiers": [
@@ -2416,8 +2416,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jesús Piñacué Achicué",
-        "lang:en_US": "Jesús Piñacué Achicué"
+        "lang:es": "Jesús Piñacué Achicué",
+        "lang:en": "Jesús Piñacué Achicué"
       },
       "id": "Q5930534",
       "identifiers": [
@@ -2432,8 +2432,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Ballesteros",
-        "lang:en_US": "Jorge Ballesteros"
+        "lang:es": "Jorge Ballesteros",
+        "lang:en": "Jorge Ballesteros"
       },
       "id": "Q5934561",
       "identifiers": [
@@ -2448,8 +2448,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Dangond Daza",
-        "lang:en_US": "Jorge Dangond Daza"
+        "lang:es": "Jorge Dangond Daza",
+        "lang:en": "Jorge Dangond Daza"
       },
       "id": "Q5934840",
       "identifiers": [
@@ -2464,8 +2464,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Eliécer Guevara",
-        "lang:en_US": "Jorge Eliécer Guevara"
+        "lang:es": "Jorge Eliécer Guevara",
+        "lang:en": "Jorge Eliécer Guevara"
       },
       "id": "Q5934949",
       "identifiers": [
@@ -2480,8 +2480,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jorge Visbal Martelo",
-        "lang:en_US": "Jorge Visbal Martelo"
+        "lang:es": "Jorge Visbal Martelo",
+        "lang:en": "Jorge Visbal Martelo"
       },
       "id": "Q5936257",
       "identifiers": [
@@ -2496,8 +2496,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Darío Salazar",
-        "lang:en_US": "José Darío Salazar"
+        "lang:es": "José Darío Salazar",
+        "lang:en": "José Darío Salazar"
       },
       "id": "Q5939173",
       "identifiers": [
@@ -2512,8 +2512,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Herrera Acosta",
-        "lang:en_US": "José Herrera Acosta"
+        "lang:es": "José Herrera Acosta",
+        "lang:en": "José Herrera Acosta"
       },
       "id": "Q5940388",
       "identifiers": [
@@ -2528,8 +2528,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Obdulio Gaviria",
-        "lang:en_US": "José Obdulio Gaviria"
+        "lang:es": "José Obdulio Gaviria",
+        "lang:en": "José Obdulio Gaviria"
       },
       "id": "Q5944342",
       "identifiers": [
@@ -2544,8 +2544,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mauricio Pimiento",
-        "lang:en_US": "Mauricio Pimiento"
+        "lang:es": "Mauricio Pimiento",
+        "lang:en": "Mauricio Pimiento"
       },
       "id": "Q5944572",
       "identifiers": [
@@ -2560,8 +2560,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Carlos Martínez Sinisterra",
-        "lang:en_US": "Juan Carlos Martínez Sinisterra"
+        "lang:es": "Juan Carlos Martínez Sinisterra",
+        "lang:en": "Juan Carlos Martínez Sinisterra"
       },
       "id": "Q5948432",
       "identifiers": [
@@ -2576,8 +2576,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Carlos Restrepo",
-        "lang:en_US": "Juan Carlos Restrepo"
+        "lang:es": "Juan Carlos Restrepo",
+        "lang:en": "Juan Carlos Restrepo"
       },
       "id": "Q5948544",
       "identifiers": [
@@ -2592,8 +2592,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Carlos Vélez Uribe",
-        "lang:en_US": "Juan Carlos Vélez Uribe"
+        "lang:es": "Juan Carlos Vélez Uribe",
+        "lang:en": "Juan Carlos Vélez Uribe"
       },
       "id": "Q5948645",
       "identifiers": [
@@ -2608,8 +2608,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Fernando Cristo",
-        "lang:en_US": "Juan Fernando Cristo"
+        "lang:es": "Juan Fernando Cristo",
+        "lang:en": "Juan Fernando Cristo"
       },
       "id": "Q5949408",
       "identifiers": [
@@ -2624,8 +2624,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Guillermo Ángel Mejía",
-        "lang:en_US": "Juan Guillermo Ángel Mejía"
+        "lang:es": "Juan Guillermo Ángel Mejía",
+        "lang:en": "Juan Guillermo Ángel Mejía"
       },
       "id": "Q5949887",
       "identifiers": [
@@ -2640,8 +2640,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Gómez Martínez",
-        "lang:en_US": "Juan Gómez Martínez"
+        "lang:es": "Juan Gómez Martínez",
+        "lang:en": "Juan Gómez Martínez"
       },
       "id": "Q5949924",
       "identifiers": [
@@ -2656,8 +2656,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Manuel Galán",
-        "lang:en_US": "Juan Manuel Galán Pachón"
+        "lang:es": "Juan Manuel Galán",
+        "lang:en": "Juan Manuel Galán Pachón"
       },
       "id": "Q5951001",
       "identifiers": [
@@ -2672,8 +2672,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Manuel López Cabrales",
-        "lang:en_US": "Juan Manuel López Cabrales"
+        "lang:es": "Juan Manuel López Cabrales",
+        "lang:en": "Juan Manuel López Cabrales"
       },
       "id": "Q5951066",
       "identifiers": [
@@ -2688,8 +2688,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Manuel Ospina",
-        "lang:en_US": "Juan Manuel Ospina"
+        "lang:es": "Juan Manuel Ospina",
+        "lang:en": "Juan Manuel Ospina"
       },
       "id": "Q5951116",
       "identifiers": [
@@ -2704,8 +2704,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Martín Caicedo",
-        "lang:en_US": "Juan Martín Caicedo"
+        "lang:es": "Juan Martín Caicedo",
+        "lang:en": "Juan Martín Caicedo"
       },
       "id": "Q5951281",
       "identifiers": [
@@ -2720,8 +2720,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Julio César Guerra Tulena",
-        "lang:en_US": "Julio César Guerra Tulena"
+        "lang:es": "Julio César Guerra Tulena",
+        "lang:en": "Julio César Guerra Tulena"
       },
       "id": "Q5955148",
       "identifiers": [
@@ -2736,8 +2736,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Julio Manzur Abdala",
-        "lang:en_US": "Julio Manzur Abdala"
+        "lang:es": "Julio Manzur Abdala",
+        "lang:en": "Julio Manzur Abdala"
       },
       "id": "Q5955445",
       "identifiers": [
@@ -2752,8 +2752,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Lidio García Turbay",
-        "lang:en_US": "Lidio García Turbay"
+        "lang:es": "Lidio García Turbay",
+        "lang:en": "Lidio García Turbay"
       },
       "id": "Q5975235",
       "identifiers": [
@@ -2768,8 +2768,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Alberto Gil",
-        "lang:en_US": "Luis Alberto Gil"
+        "lang:es": "Luis Alberto Gil",
+        "lang:en": "Luis Alberto Gil"
       },
       "id": "Q5982674",
       "identifiers": [
@@ -2784,8 +2784,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Carlos Avellaneda",
-        "lang:en_US": "Luis Carlos Avellaneda"
+        "lang:es": "Luis Carlos Avellaneda",
+        "lang:en": "Luis Carlos Avellaneda"
       },
       "id": "Q5983016",
       "identifiers": [
@@ -2800,8 +2800,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Carlos Torres",
-        "lang:en_US": "Luis Carlos Torres"
+        "lang:es": "Luis Carlos Torres",
+        "lang:en": "Luis Carlos Torres"
       },
       "id": "Q5983035",
       "identifiers": [
@@ -2816,8 +2816,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Eduardo Vives",
-        "lang:en_US": "Luis Eduardo Vives"
+        "lang:es": "Luis Eduardo Vives",
+        "lang:en": "Luis Eduardo Vives"
       },
       "id": "Q5983240",
       "identifiers": [
@@ -2832,8 +2832,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Fernando Duque",
-        "lang:en_US": "Luis Fernando Duque"
+        "lang:es": "Luis Fernando Duque",
+        "lang:en": "Luis Fernando Duque"
       },
       "id": "Q5983411",
       "identifiers": [
@@ -2848,8 +2848,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel Antonio Virgüez",
-        "lang:en_US": "Manuel Antonio Virgüez"
+        "lang:es": "Manuel Antonio Virgüez",
+        "lang:en": "Manuel Antonio Virgüez"
       },
       "id": "Q5992228",
       "identifiers": [
@@ -2864,8 +2864,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel Guillermo Mora",
-        "lang:en_US": "Manuel Guillermo Mora"
+        "lang:es": "Manuel Guillermo Mora",
+        "lang:en": "Manuel Guillermo Mora"
       },
       "id": "Q5993201",
       "identifiers": [
@@ -2880,8 +2880,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel Ramiro Velásquez",
-        "lang:en_US": "Manuel Ramiro Velásquez"
+        "lang:es": "Manuel Ramiro Velásquez",
+        "lang:en": "Manuel Ramiro Velásquez"
       },
       "id": "Q5994144",
       "identifiers": [
@@ -2896,8 +2896,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Marco Avirama",
-        "lang:en_US": "Marco Avirama"
+        "lang:es": "Marco Avirama",
+        "lang:en": "Marco Avirama"
       },
       "id": "Q5996288",
       "identifiers": [
@@ -2912,8 +2912,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mario Náder Muskus",
-        "lang:en_US": "Mario Náder Muskus"
+        "lang:es": "Mario Náder Muskus",
+        "lang:en": "Mario Náder Muskus"
       },
       "id": "Q5998921",
       "identifiers": [
@@ -2928,8 +2928,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "María del Rosario Guerra",
-        "lang:en_US": "María del Rosario Guerra"
+        "lang:es": "María del Rosario Guerra",
+        "lang:en": "María del Rosario Guerra"
       },
       "id": "Q6005001",
       "identifiers": [
@@ -2944,8 +2944,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mauricio Jaramillo",
-        "lang:en_US": "Mauricio Jaramillo"
+        "lang:es": "Mauricio Jaramillo",
+        "lang:en": "Mauricio Jaramillo"
       },
       "id": "Q6006974",
       "identifiers": [
@@ -2960,8 +2960,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mauricio Ospina",
-        "lang:en_US": "Mauricio Ospina"
+        "lang:es": "Mauricio Ospina",
+        "lang:en": "Mauricio Ospina"
       },
       "id": "Q6007046",
       "identifiers": [
@@ -2976,8 +2976,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Miguel Alfonso de la Espriella",
-        "lang:en_US": "Miguel Alfonso de la Espriella"
+        "lang:es": "Miguel Alfonso de la Espriella",
+        "lang:en": "Miguel Alfonso de la Espriella"
       },
       "id": "Q6013841",
       "identifiers": [
@@ -2992,8 +2992,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Miguel Pinedo Vidal",
-        "lang:en_US": "Miguel Pinedo Vidal"
+        "lang:es": "Miguel Pinedo Vidal",
+        "lang:en": "Miguel Pinedo Vidal"
       },
       "id": "Q6014950",
       "identifiers": [
@@ -3008,8 +3008,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Milton Rodríguez Sarmiento",
-        "lang:en_US": "Milton Rodríguez Sarmiento"
+        "lang:es": "Milton Rodríguez Sarmiento",
+        "lang:en": "Milton Rodríguez Sarmiento"
       },
       "id": "Q6016674",
       "identifiers": [
@@ -3024,8 +3024,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Myriam Alicia Paredes",
-        "lang:en_US": "Myriam Alicia Paredes"
+        "lang:es": "Myriam Alicia Paredes",
+        "lang:en": "Myriam Alicia Paredes"
       },
       "id": "Q6035187",
       "identifiers": [
@@ -3040,8 +3040,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Omar Flórez Vélez",
-        "lang:en_US": "Omar Flórez Vélez"
+        "lang:es": "Omar Flórez Vélez",
+        "lang:en": "Omar Flórez Vélez"
       },
       "id": "Q6050475",
       "identifiers": [
@@ -3056,8 +3056,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Omar Yepes",
-        "lang:en_US": "Omar Yepes"
+        "lang:es": "Omar Yepes",
+        "lang:en": "Omar Yepes"
       },
       "id": "Q6050566",
       "identifiers": [
@@ -3072,8 +3072,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Oscar Darío Pérez",
-        "lang:en_US": "Oscar Darío Pérez"
+        "lang:es": "Oscar Darío Pérez",
+        "lang:en": "Oscar Darío Pérez"
       },
       "id": "Q6053824",
       "identifiers": [
@@ -3088,8 +3088,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Piedad Zuccardi",
-        "lang:en_US": "Piedad Zuccardi"
+        "lang:es": "Piedad Zuccardi",
+        "lang:en": "Piedad Zuccardi"
       },
       "id": "Q6075235",
       "identifiers": [
@@ -3104,8 +3104,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Iván Name",
-        "lang:en_US": "Iván Leonidas Name Vásquez"
+        "lang:es": "Iván Name",
+        "lang:en": "Iván Leonidas Name Vásquez"
       },
       "id": "Q6100099",
       "identifiers": [
@@ -3120,8 +3120,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Reginaldo Montes",
-        "lang:en_US": "Reginaldo Montes"
+        "lang:es": "Reginaldo Montes",
+        "lang:en": "Reginaldo Montes"
       },
       "id": "Q6103901",
       "identifiers": [
@@ -3136,8 +3136,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rodrigo Lara Restrepo",
-        "lang:en_US": "Rodrigo Lara Restrepo"
+        "lang:es": "Rodrigo Lara Restrepo",
+        "lang:en": "Rodrigo Lara Restrepo"
       },
       "id": "Q6110723",
       "identifiers": [
@@ -3155,8 +3155,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Roy Barreras",
-        "lang:en_US": "Roy Barreras"
+        "lang:es": "Roy Barreras",
+        "lang:en": "Roy Barreras"
       },
       "id": "Q6112985",
       "identifiers": [
@@ -3171,8 +3171,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rubén Darío Quintero",
-        "lang:en_US": "Rubén Darío Quintero"
+        "lang:es": "Rubén Darío Quintero",
+        "lang:en": "Rubén Darío Quintero"
       },
       "id": "Q6113209",
       "identifiers": [
@@ -3187,8 +3187,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Samuel Arrieta",
-        "lang:en_US": "Samuel Arrieta"
+        "lang:es": "Samuel Arrieta",
+        "lang:en": "Samuel Arrieta"
       },
       "id": "Q6118108",
       "identifiers": [
@@ -3203,8 +3203,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jairo Clopatofsky",
-        "lang:en_US": "Jairo Clopatofsky"
+        "lang:es": "Jairo Clopatofsky",
+        "lang:en": "Jairo Clopatofsky"
       },
       "id": "Q6124219",
       "identifiers": [
@@ -3219,8 +3219,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Tulio Enrique Tascón",
-        "lang:en_US": "Tulio Enrique Tascón"
+        "lang:es": "Tulio Enrique Tascón",
+        "lang:en": "Tulio Enrique Tascón"
       },
       "id": "Q6153743",
       "identifiers": [
@@ -3235,8 +3235,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ubeimar Delgado",
-        "lang:en_US": "Ubeimar Delgado"
+        "lang:es": "Ubeimar Delgado",
+        "lang:en": "Ubeimar Delgado"
       },
       "id": "Q6155176",
       "identifiers": [
@@ -3254,8 +3254,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "William Montes",
-        "lang:en_US": "William Montes"
+        "lang:es": "William Montes",
+        "lang:en": "William Montes"
       },
       "id": "Q6167689",
       "identifiers": [
@@ -3270,8 +3270,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Yolanda Pinto de Gaviria",
-        "lang:en_US": "Yolanda Pinto de Gaviria"
+        "lang:es": "Yolanda Pinto de Gaviria",
+        "lang:en": "Yolanda Pinto de Gaviria"
       },
       "id": "Q6170222",
       "identifiers": [
@@ -3286,8 +3286,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Álvaro Ashton",
-        "lang:en_US": "Álvaro Ashton"
+        "lang:es": "Álvaro Ashton",
+        "lang:en": "Álvaro Ashton"
       },
       "id": "Q6172729",
       "identifiers": [
@@ -3302,8 +3302,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Óscar Iván Zuluaga",
-        "lang:en_US": "Óscar Iván Zuluaga"
+        "lang:es": "Óscar Iván Zuluaga",
+        "lang:en": "Óscar Iván Zuluaga"
       },
       "id": "Q6174833",
       "identifiers": [
@@ -3318,8 +3318,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Óscar Josué Reyes",
-        "lang:en_US": "Óscar Josué Reyes"
+        "lang:es": "Óscar Josué Reyes",
+        "lang:en": "Óscar Josué Reyes"
       },
       "id": "Q6174841",
       "identifiers": [
@@ -3334,8 +3334,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Óscar Suárez Mira",
-        "lang:en_US": "Óscar Suárez Mira"
+        "lang:es": "Óscar Suárez Mira",
+        "lang:en": "Óscar Suárez Mira"
       },
       "id": "Q6174953",
       "identifiers": [
@@ -3350,8 +3350,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José David Name",
-        "lang:en_US": "José David Name"
+        "lang:es": "José David Name",
+        "lang:en": "José David Name"
       },
       "id": "Q6292038",
       "identifiers": [
@@ -3366,8 +3366,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Name Terán",
-        "lang:en_US": "José Name Terán"
+        "lang:es": "José Name Terán",
+        "lang:en": "José Name Terán"
       },
       "id": "Q6293541",
       "identifiers": [
@@ -3382,8 +3382,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Camilo Restrepo",
-        "lang:en_US": "Juan Camilo Restrepo Salazar"
+        "lang:es": "Juan Camilo Restrepo",
+        "lang:en": "Juan Camilo Restrepo Salazar"
       },
       "id": "Q6299134",
       "identifiers": [
@@ -3398,8 +3398,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Antonio Guerra de la Espriella",
-        "lang:en_US": "Antonio Guerra de la Espriella"
+        "lang:es": "Antonio Guerra de la Espriella",
+        "lang:en": "Antonio Guerra de la Espriella"
       },
       "id": "Q6386245",
       "identifiers": [
@@ -3414,8 +3414,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Germán Botero de los Ríos",
-        "lang:en_US": "Germán Botero de los Ríos"
+        "lang:es": "Germán Botero de los Ríos",
+        "lang:en": "Germán Botero de los Ríos"
       },
       "id": "Q6439237",
       "identifiers": [
@@ -3430,8 +3430,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel Enríquez Rosero",
-        "lang:en_US": "Manuel Enríquez Rosero"
+        "lang:es": "Manuel Enríquez Rosero",
+        "lang:en": "Manuel Enríquez Rosero"
       },
       "id": "Q6752554",
       "identifiers": [
@@ -3446,8 +3446,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mario Uribe",
-        "lang:en_US": "Mario Uribe Escobar"
+        "lang:es": "Mario Uribe",
+        "lang:en": "Mario Uribe Escobar"
       },
       "id": "Q6765000",
       "identifiers": [
@@ -3462,8 +3462,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Marta Lucía Ramírez",
-        "lang:en_US": "Marta Lucía Ramírez"
+        "lang:es": "Marta Lucía Ramírez",
+        "lang:en": "Marta Lucía Ramírez"
       },
       "id": "Q6774142",
       "identifiers": [
@@ -3478,8 +3478,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "María Eugenia Rojas",
-        "lang:en_US": "María Eugenia Rojas Correa"
+        "lang:es": "María Eugenia Rojas",
+        "lang:en": "María Eugenia Rojas Correa"
       },
       "id": "Q6782003",
       "identifiers": [
@@ -3494,8 +3494,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Nancy Patricia Gutiérrez",
-        "lang:en_US": "Nancy Patricia Gutiérrez"
+        "lang:es": "Nancy Patricia Gutiérrez",
+        "lang:en": "Nancy Patricia Gutiérrez"
       },
       "id": "Q6962910",
       "identifiers": [
@@ -3510,8 +3510,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rafael Pardo",
-        "lang:en_US": "Rafael Pardo Rueda"
+        "lang:es": "Rafael Pardo",
+        "lang:en": "Rafael Pardo Rueda"
       },
       "id": "Q7282248",
       "identifiers": [
@@ -3526,8 +3526,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rosemberg Pabón",
-        "lang:en_US": "Rosemberg Pabón"
+        "lang:es": "Rosemberg Pabón",
+        "lang:en": "Rosemberg Pabón"
       },
       "id": "Q7368453",
       "identifiers": [
@@ -3542,8 +3542,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Víctor Mosquera Chaux",
-        "lang:en_US": "Víctor Mosquera Chaux"
+        "lang:es": "Víctor Mosquera Chaux",
+        "lang:en": "Víctor Mosquera Chaux"
       },
       "id": "Q7944696",
       "identifiers": [
@@ -3558,8 +3558,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "David Char",
-        "lang:en_US": "David Char Navas"
+        "lang:es": "David Char",
+        "lang:en": "David Char Navas"
       },
       "id": "Q8354084",
       "identifiers": [
@@ -3574,8 +3574,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Manuel Corzo",
-        "lang:en_US": "Juan Manuel Corzo Román"
+        "lang:es": "Juan Manuel Corzo",
+        "lang:en": "Juan Manuel Corzo Román"
       },
       "id": "Q9015744",
       "identifiers": [
@@ -3590,8 +3590,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Guillermo Vélez",
-        "lang:en_US": "Luis Guillermo Vélez"
+        "lang:es": "Luis Guillermo Vélez",
+        "lang:en": "Luis Guillermo Vélez"
       },
       "id": "Q9025120",
       "identifiers": [
@@ -3606,8 +3606,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Parmenio Cuéllar Bastidas",
-        "lang:en_US": "Parmenio Cuéllar Bastidas"
+        "lang:es": "Parmenio Cuéllar Bastidas",
+        "lang:en": "Parmenio Cuéllar Bastidas"
       },
       "id": "Q9055686",
       "identifiers": [
@@ -3622,8 +3622,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Vera Grabe",
-        "lang:en_US": "Vera Grabe"
+        "lang:es": "Vera Grabe",
+        "lang:en": "Vera Grabe"
       },
       "id": "Q9092970",
       "identifiers": [
@@ -3638,8 +3638,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Claudia Rodríguez de Castellanos",
-        "lang:en_US": "Claudia Rodríguez de Castellanos"
+        "lang:es": "Claudia Rodríguez de Castellanos",
+        "lang:en": "Claudia Rodríguez de Castellanos"
       },
       "id": "Q955397",
       "identifiers": [
@@ -3654,8 +3654,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Samuel Moreno",
-        "lang:en_US": "Samuel Moreno Rojas"
+        "lang:es": "Samuel Moreno",
+        "lang:en": "Samuel Moreno Rojas"
       },
       "id": "Q981871",
       "identifiers": [
@@ -3672,8 +3672,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Senado de Colombia",
-        "lang:en_US": "Senate of Colombia"
+        "lang:es": "Senado de Colombia",
+        "lang:en": "Senate of Colombia"
       },
       "id": "Q2398781",
       "classification": "branch",
@@ -3690,8 +3690,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Verde",
-        "lang:en_US": "Green Party"
+        "lang:es": "Partido Verde",
+        "lang:en": "Green Party"
       },
       "id": "Q1452567",
       "classification": "party",
@@ -3704,8 +3704,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Centro Democrático",
-        "lang:en_US": "Democratic Center"
+        "lang:es": "Centro Democrático",
+        "lang:en": "Democratic Center"
       },
       "id": "Q15909095",
       "classification": "party",
@@ -3718,8 +3718,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Polo Democrático Alternativo",
-        "lang:en_US": "Alternative Democratic Pole"
+        "lang:es": "Polo Democrático Alternativo",
+        "lang:en": "Alternative Democratic Pole"
       },
       "id": "Q2251452",
       "classification": "party",
@@ -3732,8 +3732,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -3746,8 +3746,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Social de Unidad Nacional",
-        "lang:en_US": "Social Party of National Unity"
+        "lang:es": "Partido Social de Unidad Nacional",
+        "lang:en": "Social Party of National Unity"
       },
       "id": "Q973542",
       "classification": "party",
@@ -3776,7 +3776,7 @@
         "Q19254253"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Colombian Senate"
+        "lang:en": "Constituency of the Colombian Senate"
       },
       "name": {
         "lang:es_LA": "circunscripción nacional",
@@ -3800,7 +3800,7 @@
         "Q19254253"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Colombian Senate"
+        "lang:en": "Constituency of the Colombian Senate"
       },
       "name": {
         "lang:es_LA": "circunscripción especial (indígenas)",
@@ -3824,8 +3824,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -3841,13 +3841,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3856,13 +3856,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3871,13 +3871,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3886,13 +3886,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3901,13 +3901,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3916,13 +3916,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3931,13 +3931,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3946,13 +3946,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3961,13 +3961,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3976,13 +3976,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -3991,13 +3991,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4006,13 +4006,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4021,13 +4021,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4038,13 +4038,13 @@
       "end_date": "2018-04-10",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4053,13 +4053,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4068,13 +4068,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4083,13 +4083,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4098,13 +4098,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4113,13 +4113,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4128,13 +4128,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4143,13 +4143,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4158,13 +4158,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4173,13 +4173,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4188,13 +4188,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4203,13 +4203,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4218,13 +4218,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4233,13 +4233,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4248,13 +4248,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4263,13 +4263,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4278,13 +4278,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4293,13 +4293,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4308,13 +4308,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4326,13 +4326,13 @@
       "start_date": "2014-07-20",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4343,13 +4343,13 @@
       "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4358,13 +4358,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4373,13 +4373,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4389,13 +4389,13 @@
       "start_date": "2012-02-02",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4404,13 +4404,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4419,13 +4419,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4434,13 +4434,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4449,13 +4449,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4464,13 +4464,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4479,13 +4479,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4496,13 +4496,13 @@
       "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4511,13 +4511,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4526,13 +4526,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4541,13 +4541,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4556,13 +4556,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4571,13 +4571,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4586,13 +4586,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4603,13 +4603,13 @@
       "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4618,13 +4618,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4633,13 +4633,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4648,13 +4648,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4663,13 +4663,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4678,13 +4678,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4695,13 +4695,13 @@
       "area_id": "Q51674385",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4710,13 +4710,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4725,13 +4725,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4740,13 +4740,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4755,13 +4755,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4770,13 +4770,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4785,13 +4785,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4800,13 +4800,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4815,13 +4815,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4830,13 +4830,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4845,13 +4845,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4860,13 +4860,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4875,13 +4875,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4890,13 +4890,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4905,13 +4905,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4920,13 +4920,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4935,13 +4935,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4950,13 +4950,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4965,13 +4965,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4980,13 +4980,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -4995,13 +4995,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5010,13 +5010,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5025,13 +5025,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5040,13 +5040,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5055,13 +5055,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5070,13 +5070,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5085,13 +5085,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5100,13 +5100,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5115,13 +5115,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5130,13 +5130,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5145,13 +5145,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5160,13 +5160,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5175,13 +5175,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5190,13 +5190,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5205,13 +5205,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5220,13 +5220,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5235,13 +5235,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5250,13 +5250,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5265,13 +5265,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5280,13 +5280,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5295,13 +5295,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5310,13 +5310,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5325,13 +5325,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5340,13 +5340,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5355,13 +5355,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5370,13 +5370,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5385,13 +5385,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5400,13 +5400,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5415,13 +5415,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5430,13 +5430,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5445,13 +5445,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5460,13 +5460,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5475,13 +5475,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5490,13 +5490,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5505,13 +5505,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5520,13 +5520,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5535,13 +5535,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5550,13 +5550,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5565,13 +5565,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5580,13 +5580,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5595,13 +5595,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5610,13 +5610,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5625,13 +5625,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5640,13 +5640,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5655,13 +5655,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5670,13 +5670,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5685,13 +5685,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5700,13 +5700,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5715,13 +5715,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5730,13 +5730,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5745,13 +5745,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5760,13 +5760,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5775,13 +5775,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5790,13 +5790,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5805,13 +5805,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5820,13 +5820,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5835,13 +5835,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5850,13 +5850,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5865,13 +5865,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5880,13 +5880,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5895,13 +5895,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5910,13 +5910,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5925,13 +5925,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5940,13 +5940,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5955,13 +5955,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5970,13 +5970,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -5985,13 +5985,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6000,13 +6000,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6015,13 +6015,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6030,13 +6030,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6045,13 +6045,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6060,13 +6060,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6075,13 +6075,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6090,13 +6090,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6105,13 +6105,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6120,13 +6120,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6135,13 +6135,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6150,13 +6150,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6165,13 +6165,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6180,13 +6180,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6195,13 +6195,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6210,13 +6210,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6225,13 +6225,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6240,13 +6240,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6255,13 +6255,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6270,13 +6270,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6285,13 +6285,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6300,13 +6300,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6315,13 +6315,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6330,13 +6330,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6345,13 +6345,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6360,13 +6360,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6375,13 +6375,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6390,13 +6390,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6405,13 +6405,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6420,13 +6420,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6435,13 +6435,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6450,13 +6450,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6465,13 +6465,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6480,13 +6480,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6495,13 +6495,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6510,13 +6510,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6525,13 +6525,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6540,13 +6540,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6555,13 +6555,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6570,13 +6570,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6585,13 +6585,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6600,13 +6600,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6615,13 +6615,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6630,13 +6630,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6645,13 +6645,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6660,13 +6660,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6675,13 +6675,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6690,13 +6690,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6705,13 +6705,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6720,13 +6720,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6735,13 +6735,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6750,13 +6750,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6765,13 +6765,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6780,13 +6780,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6795,13 +6795,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6810,13 +6810,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6825,13 +6825,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6840,13 +6840,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6855,13 +6855,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6870,13 +6870,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6885,13 +6885,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6900,13 +6900,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6915,13 +6915,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6930,13 +6930,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6945,13 +6945,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6960,13 +6960,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6975,13 +6975,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -6990,13 +6990,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7005,13 +7005,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7020,13 +7020,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7035,13 +7035,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7050,13 +7050,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7065,13 +7065,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7080,13 +7080,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7095,13 +7095,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7110,13 +7110,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7125,13 +7125,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7140,13 +7140,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7155,13 +7155,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7170,13 +7170,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7185,13 +7185,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7200,13 +7200,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7215,13 +7215,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7230,13 +7230,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     },
     {
@@ -7245,13 +7245,13 @@
       "organization_id": "Q2398781",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q19254253",
       "role": {
-        "lang:es_LA": "senador de Colombia",
-        "lang:en_US": "member of the Senate of Colombia"
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
       }
     }
   ]

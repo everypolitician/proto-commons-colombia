@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Oscar David Galan Escalante",
-        "lang:en_US": "Oscar David Galan Escalante"
+        "lang:es": "Oscar David Galan Escalante",
+        "lang:en": "Oscar David Galan Escalante"
       },
       "id": "Q51710264",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Freddy Baron Orozco",
-        "lang:en_US": "Freddy Baron Orozco"
+        "lang:es": "Freddy Baron Orozco",
+        "lang:en": "Freddy Baron Orozco"
       },
       "id": "Q51710265",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Ernesto Aguilar Medina",
-        "lang:en_US": "Ernesto Aguilar Medina"
+        "lang:es": "Ernesto Aguilar Medina",
+        "lang:en": "Ernesto Aguilar Medina"
       },
       "id": "Q51710267",
       "identifiers": [
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "María Henríquez Quintero",
-        "lang:en_US": "María Henríquez Quintero"
+        "lang:es": "María Henríquez Quintero",
+        "lang:en": "María Henríquez Quintero"
       },
       "id": "Q51710270",
       "identifiers": [
@@ -66,8 +66,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Zapata Donado",
-        "lang:en_US": "Luis Zapata Donado"
+        "lang:es": "Luis Zapata Donado",
+        "lang:en": "Luis Zapata Donado"
       },
       "id": "Q51710274",
       "identifiers": [
@@ -84,8 +84,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "concejo de Barranquilla",
-        "lang:en_US": "city council of Barranquilla"
+        "lang:es": "concejo de Barranquilla",
+        "lang:en": "city council of Barranquilla"
       },
       "id": "Q51094137",
       "classification": "branch",
@@ -102,8 +102,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Cambio Radical",
-        "lang:en_US": "Radical Change"
+        "lang:es": "Partido Cambio Radical",
+        "lang:en": "Radical Change"
       },
       "id": "Q429642",
       "classification": "party",
@@ -116,8 +116,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -130,8 +130,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Social de Unidad Nacional",
-        "lang:en_US": "Social Party of National Unity"
+        "lang:es": "Partido Social de Unidad Nacional",
+        "lang:en": "Social Party of National Unity"
       },
       "id": "Q973542",
       "classification": "party",
@@ -161,8 +161,8 @@
         "Q51093312"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Atlántico"
@@ -186,8 +186,8 @@
         "Q5663913"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Barranquilla"
@@ -210,8 +210,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -228,13 +228,13 @@
       "organization_id": "Q51094137",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096868",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Barranquilla"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Barranquilla"
       }
     },
     {
@@ -244,13 +244,13 @@
       "organization_id": "Q51094137",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096868",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Barranquilla"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Barranquilla"
       }
     },
     {
@@ -260,13 +260,13 @@
       "organization_id": "Q51094137",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096868",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Barranquilla"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Barranquilla"
       }
     },
     {
@@ -276,13 +276,13 @@
       "organization_id": "Q51094137",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096868",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Barranquilla"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Barranquilla"
       }
     },
     {
@@ -292,13 +292,13 @@
       "organization_id": "Q51094137",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096868",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Barranquilla"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Barranquilla"
       }
     }
   ]

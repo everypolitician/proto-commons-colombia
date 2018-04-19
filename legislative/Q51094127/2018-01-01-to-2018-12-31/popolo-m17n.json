@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Bernardo Alejandro Guerra",
-        "lang:en_US": "Bernardo Alejandro Guerra"
+        "lang:es": "Bernardo Alejandro Guerra",
+        "lang:en": "Bernardo Alejandro Guerra"
       },
       "id": "Q19721997",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Aura Marleny Arcila",
-        "lang:en_US": "Aura Marleny Arcila"
+        "lang:es": "Aura Marleny Arcila",
+        "lang:en": "Aura Marleny Arcila"
       },
       "id": "Q19721998",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Jaime Roberto Cuartas Ochoa",
-        "lang:en_US": "Jaime Roberto Cuartas Ochoa"
+        "lang:es": "Jaime Roberto Cuartas Ochoa",
+        "lang:en": "Jaime Roberto Cuartas Ochoa"
       },
       "id": "Q51710257",
       "identifiers": [
@@ -53,8 +53,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Carlos Alberto Zuluaga Díaz",
-        "lang:en_US": "Carlos Alberto Zuluaga Díaz"
+        "lang:es": "Carlos Alberto Zuluaga Díaz",
+        "lang:en": "Carlos Alberto Zuluaga Díaz"
       },
       "id": "Q51710259",
       "identifiers": [
@@ -69,8 +69,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Daniela Maturana Agudelo",
-        "lang:en_US": "Daniela Maturana Agudelo"
+        "lang:es": "Daniela Maturana Agudelo",
+        "lang:en": "Daniela Maturana Agudelo"
       },
       "id": "Q51710263",
       "identifiers": [
@@ -87,8 +87,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "concejo de Medellín",
-        "lang:en_US": "city council of Medellín"
+        "lang:es": "concejo de Medellín",
+        "lang:en": "city council of Medellín"
       },
       "id": "Q51094127",
       "classification": "branch",
@@ -105,8 +105,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Verde",
-        "lang:en_US": "Green Party"
+        "lang:es": "Partido Verde",
+        "lang:en": "Green Party"
       },
       "id": "Q1452567",
       "classification": "party",
@@ -119,8 +119,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Movimiento Creemos",
-        "lang:en_US": "Movement We Believe"
+        "lang:es": "Movimiento Creemos",
+        "lang:en": "Movement We Believe"
       },
       "id": "Q51719536",
       "classification": "party",
@@ -133,8 +133,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Conservador Colombiano",
-        "lang:en_US": "Colombian Conservative Party"
+        "lang:es": "Partido Conservador Colombiano",
+        "lang:en": "Colombian Conservative Party"
       },
       "id": "Q747333",
       "classification": "party",
@@ -147,8 +147,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Colombiano",
-        "lang:en_US": "Colombian Liberal Party"
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
       },
       "id": "Q939021",
       "classification": "party",
@@ -178,8 +178,8 @@
         "Q47525522"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Antioquia"
@@ -203,8 +203,8 @@
         "Q51094750"
       ],
       "type": {
-        "lang:es_LA": "municipio de Colombia",
-        "lang:en_US": "municipality of Colombia"
+        "lang:es": "municipio de Colombia",
+        "lang:en": "municipality of Colombia"
       },
       "name": {
         "lang:es_LA": "Medellín"
@@ -227,8 +227,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -245,13 +245,13 @@
       "organization_id": "Q51094127",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096859",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Medellín"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Medellín"
       }
     },
     {
@@ -261,13 +261,13 @@
       "organization_id": "Q51094127",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096859",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Medellín"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Medellín"
       }
     },
     {
@@ -277,13 +277,13 @@
       "organization_id": "Q51094127",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096859",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Medellín"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Medellín"
       }
     },
     {
@@ -293,13 +293,13 @@
       "organization_id": "Q51094127",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096859",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Medellín"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Medellín"
       }
     },
     {
@@ -309,13 +309,13 @@
       "organization_id": "Q51094127",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51096859",
       "role": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor of Medellín"
+        "lang:es": "concejal",
+        "lang:en": "councillor of Medellín"
       }
     }
   ]

@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Marcela Amaya García"
+        "lang:es": "Marcela Amaya García"
       },
       "id": "Q20017165",
       "identifiers": [
@@ -22,8 +22,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "despacho del gobernador de Meta",
-        "lang:en_US": "office of the governor of Meta"
+        "lang:es": "despacho del gobernador de Meta",
+        "lang:en": "office of the governor of Meta"
       },
       "id": "Q51716441",
       "classification": "branch",
@@ -54,8 +54,8 @@
         "Q51093340"
       ],
       "type": {
-        "lang:es_LA": "departamento de Colombia",
-        "lang:en_US": "department of Colombia"
+        "lang:es": "departamento de Colombia",
+        "lang:en": "department of Colombia"
       },
       "name": {
         "lang:es_LA": "Meta"
@@ -78,8 +78,8 @@
         "Q853475"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Colombia",
@@ -96,13 +96,13 @@
       "area_id": "Q238629",
       "role_superclass_code": "Q47524581",
       "role_superclass": {
-        "lang:es_LA": "Gobernador de Meta",
-        "lang:en_US": "Governor of Meta Department"
+        "lang:es": "Gobernador de Meta",
+        "lang:en": "Governor of Meta Department"
       },
       "role_code": "Q47524581",
       "role": {
-        "lang:es_LA": "Gobernador de Meta",
-        "lang:en_US": "Governor of Meta Department"
+        "lang:es": "Gobernador de Meta",
+        "lang:en": "Governor of Meta Department"
       }
     }
   ]
