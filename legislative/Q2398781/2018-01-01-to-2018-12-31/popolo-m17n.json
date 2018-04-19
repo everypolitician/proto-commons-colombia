@@ -3779,8 +3779,8 @@
         "lang:en": "Constituency of the Colombian Senate"
       },
       "name": {
-        "lang:es_LA": "circunscripción nacional",
-        "lang:en_US": "national constituency"
+        "lang:es": "circunscripción nacional",
+        "lang:en": "national constituency"
       },
       "parent_id": "Q739"
     },
@@ -3803,8 +3803,8 @@
         "lang:en": "Constituency of the Colombian Senate"
       },
       "name": {
-        "lang:es_LA": "circunscripción especial (indígenas)",
-        "lang:en_US": "special national constituency for indigenous communities"
+        "lang:es": "circunscripción especial (indígenas)",
+        "lang:en": "special national constituency for indigenous communities"
       },
       "parent_id": "Q739"
     },
@@ -3828,8 +3828,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Colombia",
-        "lang:es_LA": "Colombia"
+        "lang:en": "Colombia",
+        "lang:es": "Colombia"
       },
       "parent_id": null
     }

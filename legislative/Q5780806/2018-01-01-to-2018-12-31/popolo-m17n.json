@@ -76,7 +76,7 @@
         "lang:en": "capital district or territory"
       },
       "name": {
-        "lang:es_LA": "Bogotá Distrito Capital"
+        "lang:es": "Bogotá Distrito Capital"
       },
       "parent_id": "Q739"
     },
@@ -100,8 +100,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Colombia",
-        "lang:es_LA": "Colombia"
+        "lang:en": "Colombia",
+        "lang:es": "Colombia"
       },
       "parent_id": null
     }

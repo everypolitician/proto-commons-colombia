@@ -165,7 +165,7 @@
         "lang:en": "department of Colombia"
       },
       "name": {
-        "lang:es_LA": "Atlántico"
+        "lang:es": "Atlántico"
       },
       "parent_id": "Q739"
     },
@@ -190,7 +190,7 @@
         "lang:en": "municipality of Colombia"
       },
       "name": {
-        "lang:es_LA": "Barranquilla"
+        "lang:es": "Barranquilla"
       },
       "parent_id": "Q230882"
     },
@@ -214,8 +214,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Colombia",
-        "lang:es_LA": "Colombia"
+        "lang:en": "Colombia",
+        "lang:es": "Colombia"
       },
       "parent_id": null
     }
