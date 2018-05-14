@@ -90,8 +90,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Colombia",
-        "lang:es_LA": "Colombia"
+        "lang:en": "Colombia",
+        "lang:es": "Colombia"
       },
       "parent_id": null
     }

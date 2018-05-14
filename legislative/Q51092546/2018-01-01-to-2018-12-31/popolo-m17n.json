@@ -27,7 +27,7 @@
         "lang:en": "department of Colombia"
       },
       "name": {
-        "lang:es_LA": "Boyacá"
+        "lang:es": "Boyacá"
       },
       "parent_id": "Q739"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Colombia",
-        "lang:es_LA": "Colombia"
+        "lang:en": "Colombia",
+        "lang:es": "Colombia"
       },
       "parent_id": null
     }
