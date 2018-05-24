@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Álvaro Pacheco Álvarez",
+        "lang:en": "Álvaro Pacheco Álvarez"
+      },
+      "id": "Q54086200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086200"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/alvaropachecoal"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Caquetá",
+        "lang:en": "office of the governor of Caquetá department"
+      },
+      "id": "Q51716357",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716357"
+        }
+      ],
+      "area_id": "Q13985"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086200-BF7D167F-6377-4AB1-9576-59F7778D6FAD",
+      "person_id": "Q54086200",
+      "organization_id": "Q51716357",
+      "area_id": "Q13985",
+      "role_superclass_code": "Q47524522",
+      "role_superclass": {
+        "lang:es": "Gobernador de Caquetá",
+        "lang:en": "Governor of Caquetá Department"
+      },
+      "role_code": "Q47524522",
+      "role": {
+        "lang:es": "Gobernador de Caquetá",
+        "lang:en": "Governor of Caquetá Department"
+      }
+    }
   ]
 }

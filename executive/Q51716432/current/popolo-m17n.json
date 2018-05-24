@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Didier Tavera",
+        "lang:en": "Didier Tavera"
+      },
+      "id": "Q22063655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22063655"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/DidierTaveraA"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Santander",
+        "lang:en": "office of the governor of Santander department"
+      },
+      "id": "Q51716432",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716432"
+        }
+      ],
+      "area_id": "Q235166"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22063655-0CA7F13F-280A-491C-95B1-90869E7391D7",
+      "person_id": "Q22063655",
+      "organization_id": "Q51716432",
+      "area_id": "Q235166",
+      "role_superclass_code": "Q47524661",
+      "role_superclass": {
+        "lang:es": "Gobernador de Santander",
+        "lang:en": "Governor of Santander Department"
+      },
+      "role_code": "Q47524661",
+      "role": {
+        "lang:es": "Gobernador de Santander",
+        "lang:en": "Governor of Santander Department"
+      }
+    }
   ]
 }

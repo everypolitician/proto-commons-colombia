@@ -1,9 +1,54 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Óscar Rodrigo Campo Hurtado",
+        "lang:en": "Óscar Rodrigo Campo Hurtado"
+      },
+      "id": "Q54086206",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086206"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Antonio Pinto",
+        "lang:en": "José Antonio Pinto"
+      },
+      "id": "Q5938033",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5938033"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Cauca",
+        "lang:en": "office of the governor of Cauca department"
+      },
+      "id": "Q51716383",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716383"
+        }
+      ],
+      "area_id": "Q230602"
+    }
   ],
   "areas": [
     {
@@ -58,6 +103,37 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086206-EC0F2949-D0F5-48D5-8B76-14F537969467",
+      "person_id": "Q54086206",
+      "organization_id": "Q51716383",
+      "area_id": "Q230602",
+      "role_superclass_code": "Q47524527",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cauca",
+        "lang:en": "Governor of Cauca Department"
+      },
+      "role_code": "Q47524527",
+      "role": {
+        "lang:es": "Gobernador de Cauca",
+        "lang:en": "Governor of Cauca Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5938033-c4de789b-4a5a-8617-b3f6-840af24352a9",
+      "person_id": "Q5938033",
+      "organization_id": "Q51716383",
+      "area_id": "Q230602",
+      "role_superclass_code": "Q47524527",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cauca",
+        "lang:en": "Governor of Cauca Department"
+      },
+      "role_code": "Q47524527",
+      "role": {
+        "lang:es": "Gobernador de Cauca",
+        "lang:en": "Governor of Cauca Department"
+      }
+    }
   ]
 }

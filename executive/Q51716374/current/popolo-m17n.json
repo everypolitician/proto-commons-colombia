@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Jhoany Carlos Alberto Palacios Mosquera",
+        "lang:en": "Jhoany Carlos Alberto Palacios Mosquera"
+      },
+      "id": "Q54086205",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086205"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jhoanycarlosalberto.palaciosmosquera.9"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Chocó",
+        "lang:en": "office of the governor of Chocó department"
+      },
+      "id": "Q51716374",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716374"
+        }
+      ],
+      "area_id": "Q230584"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086205-F81A46A2-A7D7-4961-83D3-D08861A7392E",
+      "person_id": "Q54086205",
+      "organization_id": "Q51716374",
+      "area_id": "Q230584",
+      "role_superclass_code": "Q47520040",
+      "role_superclass": {
+        "lang:es": "Gobernador de Chocó",
+        "lang:en": "Governor of Chocó Department"
+      },
+      "role_code": "Q47520040",
+      "role": {
+        "lang:es": "Gobernador de Chocó",
+        "lang:en": "Governor of Chocó Department"
+      }
+    }
   ]
 }

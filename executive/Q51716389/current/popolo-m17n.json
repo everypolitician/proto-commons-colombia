@@ -2,6 +2,25 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Eduardo Verano de la Rosa",
+        "lang:en": "Eduardo Verano de la Rosa"
+      },
+      "id": "Q5340794",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5340794"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/veranodelarosa"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Fuad Char",
         "lang:en": "Fuad Char"
       },
@@ -44,6 +63,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q429642"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
         }
       ]
     }
@@ -101,6 +134,23 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5340794-0A190C71-D66D-479C-97F9-F1A1749EBEDF",
+      "person_id": "Q5340794",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716389",
+      "area_id": "Q230882",
+      "role_superclass_code": "Q5589627",
+      "role_superclass": {
+        "lang:es": "Gobernador de Atlántico",
+        "lang:en": "Governor of Atlántico"
+      },
+      "role_code": "Q5589627",
+      "role": {
+        "lang:es": "Gobernador de Atlántico",
+        "lang:en": "Governor of Atlántico"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5506888-eb971df2-426e-0d10-34e2-1943d13f7a8b",
       "person_id": "Q5506888",

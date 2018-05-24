@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Guido Echeverri Piedrahíta",
+        "lang:en": "Guido Echeverri Piedrahíta"
+      },
+      "id": "Q54086207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086207"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/guidogobernador"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Caldas",
+        "lang:en": "office of the governor of Caldas department"
+      },
+      "id": "Q51716386",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716386"
+        }
+      ],
+      "area_id": "Q230607"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086207-C1A870F8-4EF7-4E05-9314-586DD2755D6B",
+      "person_id": "Q54086207",
+      "organization_id": "Q51716386",
+      "area_id": "Q230607",
+      "role_superclass_code": "Q47524507",
+      "role_superclass": {
+        "lang:es": "Gobernador de Caldas",
+        "lang:en": "Governor of Caldas Department"
+      },
+      "role_code": "Q47524507",
+      "role": {
+        "lang:es": "Gobernador de Caldas",
+        "lang:en": "Governor of Caldas Department"
+      }
+    }
   ]
 }

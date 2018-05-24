@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Franco Ovalle",
+        "lang:en": "Franco Ovalle"
+      },
+      "id": "Q23906954",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23906954"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/francoovallea"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador del Cesar",
+        "lang:en": "office of the governor of Cesar department"
+      },
+      "id": "Q51716421",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716421"
+        }
+      ],
+      "area_id": "Q234916"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23906954-7743099A-BE42-43F5-A58E-C657D254D27C",
+      "person_id": "Q23906954",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    }
   ]
 }

@@ -1,9 +1,39 @@
 {
   "persons": [
-
+    {
+      "name": {
+      },
+      "id": "Q28366324",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28366324"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ricardoalvaradobestene.arauca"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Arauca",
+        "lang:en": "office of the governor of Arauca department"
+      },
+      "id": "Q51716371",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716371"
+        }
+      ],
+      "area_id": "Q230223"
+    }
   ],
   "areas": [
     {
@@ -58,6 +88,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28366324-6918B420-A85A-4B0F-B584-926D477F99AC",
+      "person_id": "Q28366324",
+      "organization_id": "Q51716371",
+      "area_id": "Q230223",
+      "role_superclass_code": "Q47524444",
+      "role_superclass": {
+        "lang:es": "Gobernador de Arauca",
+        "lang:en": "Governor of Arauca Department"
+      },
+      "role_code": "Q47524444",
+      "role": {
+        "lang:es": "Gobernador de Arauca",
+        "lang:en": "Governor of Arauca Department"
+      }
+    }
   ]
 }
