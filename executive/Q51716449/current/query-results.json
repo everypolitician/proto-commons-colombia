@@ -3,6 +3,89 @@
     "vars" : [ "statement", "item", "name_es", "name_en", "party", "party_name_es", "party_name_en", "district", "district_name_es", "district_name_en", "role", "role_es", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_es", "role_superclass_en", "org", "org_es", "org_en", "org_jurisdiction" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26855"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Archipelago of Saint Andréws, Providence and Saint Catalina"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Archipiélago de San Andrés, Providencia y Santa Catalina"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47524713"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47524713"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the Archipelago of Saint Andréws, Providence and Saint Catalina"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador de San Andrés y Providencia"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the Archipelago of Saint Andréws, Providence and Saint Catalina"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador de San Andrés y Providencia"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54086214"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ronald Housni Jaller"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ronald Housni Jaller"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51716449"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "office of the governor of the archipelago of Saint Andréws, Providence and Saint Catalina"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "despacho del gobernador de Archipiélago de San Andrés, Providencia y Santa Catalina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54086214-CBDAD26D-2750-411B-95CD-2ACBAA934E29"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26855"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ronaldhousnij"
+      }
+    } ]
   }
 }
