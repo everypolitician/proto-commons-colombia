@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Carlos Andrés Amaya",
+        "lang:en": "Carlos Andrés Amaya"
+      },
+      "id": "Q5749673",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5749673"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/porboyacacarlosandresamayagobernador"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Boyacá",
+        "lang:en": "office of the governor of Boyacá department"
+      },
+      "id": "Q51716353",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716353"
+        }
+      ],
+      "area_id": "Q121233"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Verde",
+        "lang:en": "Green Party"
+      },
+      "id": "Q1452567",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452567"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5749673-92A5BD4B-AD4D-4BC7-A565-C136E46D2CF4",
+      "person_id": "Q5749673",
+      "on_behalf_of_id": "Q1452567",
+      "organization_id": "Q51716353",
+      "area_id": "Q121233",
+      "role_superclass_code": "Q47524496",
+      "role_superclass": {
+        "lang:es": "Gobernador de Boyacá",
+        "lang:en": "Governor of Boyacá Department"
+      },
+      "role_code": "Q47524496",
+      "role": {
+        "lang:es": "Gobernador de Boyacá",
+        "lang:en": "Governor of Boyacá Department"
+      }
+    }
   ]
 }

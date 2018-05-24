@@ -2,22 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Jorge Eliécer Gaitán",
-        "lang:en": "Jorge Eliécer Gaitán Mahecha"
-      },
-      "id": "Q132479",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q132479"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:es": "Enrique Peñalosa",
         "lang:en": "Enrique Peñalosa"
       },
@@ -51,20 +35,6 @@
         }
       ],
       "area_id": "Q2841"
-    },
-    {
-      "name": {
-        "lang:es": "Partido Liberal Colombiano",
-        "lang:en": "Colombian Liberal Party"
-      },
-      "id": "Q939021",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q939021"
-        }
-      ]
     }
   ],
   "areas": [
@@ -120,23 +90,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q132479-A28B2B6B-0928-434D-AD02-CF23356D1178",
-      "person_id": "Q132479",
-      "on_behalf_of_id": "Q939021",
-      "organization_id": "Q51716465",
-      "area_id": "Q2841",
-      "role_superclass_code": "Q21994938",
-      "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
-      },
-      "role_code": "Q21994938",
-      "role": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
-      }
-    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q989831-eb8a0264-49fc-854e-c778-aa3cc4a89f05",
       "person_id": "Q989831",

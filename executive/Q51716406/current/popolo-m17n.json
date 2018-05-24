@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Óscar Barreto Quiroga",
+        "lang:en": "Óscar Barreto Quiroga"
+      },
+      "id": "Q21808726",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21808726"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/OscarBarretoTol"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Tolima",
+        "lang:en": "office of the governor of Tolima department"
+      },
+      "id": "Q51716406",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716406"
+        }
+      ],
+      "area_id": "Q234501"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21808726-85783445-D779-4B62-899D-A711E837B295",
+      "person_id": "Q21808726",
+      "organization_id": "Q51716406",
+      "area_id": "Q234501",
+      "role_superclass_code": "Q47524678",
+      "role_superclass": {
+        "lang:es": "Gobernador de Tolima",
+        "lang:en": "Governor of Tolima Department"
+      },
+      "role_code": "Q47524678",
+      "role": {
+        "lang:es": "Gobernador de Tolima",
+        "lang:en": "Governor of Tolima Department"
+      }
+    }
   ]
 }

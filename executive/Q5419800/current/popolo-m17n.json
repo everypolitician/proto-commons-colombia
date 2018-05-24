@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Santos Gutiérrez",
+        "lang:en": "Santos Gutiérrez"
+      },
+      "id": "Q3138701",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3138701"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Juan Manuel Santos",
         "lang:en": "Juan Manuel Santos"
       },
@@ -97,6 +113,23 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3138701-7ae06e4d-423a-d13a-2e79-44186c888027",
+      "person_id": "Q3138701",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q5419800",
+      "area_id": "Q739",
+      "role_superclass_code": "Q853475",
+      "role_superclass": {
+        "lang:es": "Presidente de Colombia",
+        "lang:en": "President of Colombia"
+      },
+      "role_code": "Q853475",
+      "role": {
+        "lang:es": "Presidente de Colombia",
+        "lang:en": "President of Colombia"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09",
       "person_id": "Q57311",

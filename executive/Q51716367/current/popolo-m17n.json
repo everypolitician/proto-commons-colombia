@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Rosa Cotes De Zuñiga",
+        "lang:en": "Rosa Cotes De Zuñiga"
+      },
+      "id": "Q54086204",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086204"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Magdalena",
+        "lang:en": "office of the governor of Magdalena department"
+      },
+      "id": "Q51716367",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716367"
+        }
+      ],
+      "area_id": "Q199910"
+    }
   ],
   "areas": [
     {
@@ -58,6 +87,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086204-3540A9D4-E7E5-46A3-9DF9-CE8D56D5BD5A",
+      "person_id": "Q54086204",
+      "organization_id": "Q51716367",
+      "area_id": "Q199910",
+      "role_superclass_code": "Q47524578",
+      "role_superclass": {
+        "lang:es": "Gobernador de Magdalena",
+        "lang:en": "Governor of Magdalena Department"
+      },
+      "role_code": "Q47524578",
+      "role": {
+        "lang:es": "Gobernador de Magdalena",
+        "lang:en": "Governor of Magdalena Department"
+      }
+    }
   ]
 }

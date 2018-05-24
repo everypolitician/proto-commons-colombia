@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Oneida Pinto",
+        "lang:en": "Oneida Pinto"
+      },
+      "id": "Q20994952",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20994952"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Oneida-Pinto-1069663236401939"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de La Guajira",
+        "lang:en": "office of the governor of La Guajira department"
+      },
+      "id": "Q51716456",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716456"
+        }
+      ],
+      "area_id": "Q272747"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20994952-D3651BCB-40E2-41F3-9143-E9F3EA326B3D",
+      "person_id": "Q20994952",
+      "organization_id": "Q51716456",
+      "area_id": "Q272747",
+      "role_superclass_code": "Q47524576",
+      "role_superclass": {
+        "lang:es": "Gobernador de La Guajira",
+        "lang:en": "Governor of La Guajira Department"
+      },
+      "role_code": "Q47524576",
+      "role": {
+        "lang:es": "Gobernador de La Guajira",
+        "lang:en": "Governor of La Guajira Department"
+      }
+    }
   ]
 }

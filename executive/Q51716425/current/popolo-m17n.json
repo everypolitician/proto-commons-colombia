@@ -1,9 +1,55 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Carlos Julio González",
+        "lang:en": "Carlos Julio González"
+      },
+      "id": "Q5750672",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5750672"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carlosjuliogonzalezv"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Huila",
+        "lang:en": "office of the governor of Huila department"
+      },
+      "id": "Q51716425",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716425"
+        }
+      ],
+      "area_id": "Q234920"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +104,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5750672-2B4E0938-FD64-406D-BE4A-5D98326B052C",
+      "person_id": "Q5750672",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716425",
+      "area_id": "Q234920",
+      "role_superclass_code": "Q47524573",
+      "role_superclass": {
+        "lang:es": "Gobernador de Huila",
+        "lang:en": "Governor of Huila Department"
+      },
+      "role_code": "Q47524573",
+      "role": {
+        "lang:es": "Gobernador de Huila",
+        "lang:en": "Governor of Huila Department"
+      }
+    }
   ]
 }

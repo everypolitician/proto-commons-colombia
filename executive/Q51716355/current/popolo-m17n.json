@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Josue Alirio Barrera Rodríguez",
+        "lang:en": "Josue Alirio Barrera Rodríguez"
+      },
+      "id": "Q54086199",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086199"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/aliriobarreragobernador"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Casanare",
+        "lang:en": "office of the governor of Casanare department"
+      },
+      "id": "Q51716355",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716355"
+        }
+      ],
+      "area_id": "Q13984"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086199-9D28A6AF-9AC2-4F07-BE4E-EE75BF73BA07",
+      "person_id": "Q54086199",
+      "organization_id": "Q51716355",
+      "area_id": "Q13984",
+      "role_superclass_code": "Q47524524",
+      "role_superclass": {
+        "lang:es": "Gobernador de Casanare",
+        "lang:en": "Governor of Casanare Department"
+      },
+      "role_code": "Q47524524",
+      "role": {
+        "lang:es": "Gobernador de Casanare",
+        "lang:en": "Governor of Casanare Department"
+      }
+    }
   ]
 }

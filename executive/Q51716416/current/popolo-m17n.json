@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Edwin José Besaile Fayad",
+        "lang:en": "Edwin José Besaile Fayad"
+      },
+      "id": "Q54086211",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086211"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/edwinjoe.besailefayd"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Córdoba",
+        "lang:en": "office of the governor of Córdoba department"
+      },
+      "id": "Q51716416",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716416"
+        }
+      ],
+      "area_id": "Q234912"
+    }
   ],
   "areas": [
     {
@@ -58,6 +90,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086211-0C6A8783-7A47-4D46-8414-B2FA196F2662",
+      "person_id": "Q54086211",
+      "organization_id": "Q51716416",
+      "area_id": "Q234912",
+      "role_superclass_code": "Q47524553",
+      "role_superclass": {
+        "lang:es": "Gobernador de Córdoba",
+        "lang:en": "Governor of Córdoba Department"
+      },
+      "role_code": "Q47524553",
+      "role": {
+        "lang:es": "Gobernador de Córdoba",
+        "lang:en": "Governor of Córdoba Department"
+      }
+    }
   ]
 }

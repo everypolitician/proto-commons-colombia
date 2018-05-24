@@ -1,0 +1,352 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Álvaro Uribe",
+        "lang:en": "Álvaro Uribe"
+      },
+      "id": "Q187413",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q187413"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AlvaroUribeVel"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Alfredo Gnecco",
+        "lang:en": "José Alfredo Gnecco"
+      },
+      "id": "Q20016263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20016263"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JoseAlfredognecco"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Horacio Serpa",
+        "lang:en": "Horacio Serpa"
+      },
+      "id": "Q326405",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q326405"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/HoracioSerpaUribe"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Antonio Navarro Wolff",
+        "lang:en": "Antonio Navarro Wolff"
+      },
+      "id": "Q4776830",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4776830"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/navarrowolffantonio"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Iván Cepeda Castro",
+        "lang:en": "Iván Cepeda Castro"
+      },
+      "id": "Q524949",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q524949"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/IvanCepedaCamara"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Senado de Colombia",
+        "lang:en": "Senate of Colombia"
+      },
+      "id": "Q2398781",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2398781"
+        }
+      ],
+      "area_id": "Q739",
+      "seat_counts": {
+        "Q19254253": "102"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Verde",
+        "lang:en": "Green Party"
+      },
+      "id": "Q1452567",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452567"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Centro Democrático",
+        "lang:en": "Democratic Center"
+      },
+      "id": "Q15909095",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15909095"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Polo Democrático Alternativo",
+        "lang:en": "Alternative Democratic Pole"
+      },
+      "id": "Q2251452",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2251452"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Social de Unidad Nacional",
+        "lang:en": "Social Party of National Unity"
+      },
+      "id": "Q973542",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q973542"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q51674385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/legislator-at-large:senate-national"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51674385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19254253"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Colombian Senate"
+      },
+      "name": {
+        "lang:es": "circunscripción nacional",
+        "lang:en": "national constituency"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q51674447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co/legislator-at-large:senate-national-indigenous"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51674447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19254253"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Colombian Senate"
+      },
+      "name": {
+        "lang:es": "circunscripción especial (indígenas)",
+        "lang:en": "special national constituency for indigenous communities"
+      },
+      "parent_id": "Q739"
+    },
+    {
+      "id": "Q739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q853475"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Colombia",
+        "lang:es": "Colombia"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q187413-1B549E7E-5A4A-4177-B54D-ED34E62A616F",
+      "person_id": "Q187413",
+      "on_behalf_of_id": "Q15909095",
+      "organization_id": "Q2398781",
+      "area_id": "Q51674385",
+      "start_date": "2014-07-20",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19254253",
+      "role": {
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20016263-A9BC52F8-CFB3-4936-B2B4-196A7A27965E",
+      "person_id": "Q20016263",
+      "on_behalf_of_id": "Q973542",
+      "organization_id": "Q2398781",
+      "area_id": "Q51674385",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19254253",
+      "role": {
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q326405-E78D616B-1CD5-4788-A893-17829B62D87D",
+      "person_id": "Q326405",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q2398781",
+      "area_id": "Q51674385",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19254253",
+      "role": {
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4776830-2DFC5CD2-F095-46B6-91B8-86D3CC5001FC",
+      "person_id": "Q4776830",
+      "on_behalf_of_id": "Q1452567",
+      "organization_id": "Q2398781",
+      "area_id": "Q51674385",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19254253",
+      "role": {
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q524949-14751E9F-73B3-45C5-9B83-2B73562D1FB7",
+      "person_id": "Q524949",
+      "on_behalf_of_id": "Q2251452",
+      "organization_id": "Q2398781",
+      "area_id": "Q51674385",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q19254253",
+      "role": {
+        "lang:es": "senador de Colombia",
+        "lang:en": "member of the Senate of Colombia"
+      }
+    }
+  ]
+}

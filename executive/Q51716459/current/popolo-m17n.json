@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Nebio De Jesús Echeverry Cadavid",
+        "lang:en": "Nebio De Jesús Echeverry Cadavid"
+      },
+      "id": "Q54086216",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54086216"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "despacho del gobernador de Guaviare",
+        "lang:en": "office of the governor of Guaviare department"
+      },
+      "id": "Q51716459",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51716459"
+        }
+      ],
+      "area_id": "Q272885"
+    }
   ],
   "areas": [
     {
@@ -58,6 +87,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54086216-4F16A4E9-3EBF-499A-A77E-06AB10C327DA",
+      "person_id": "Q54086216",
+      "organization_id": "Q51716459",
+      "area_id": "Q272885",
+      "role_superclass_code": "Q47524571",
+      "role_superclass": {
+        "lang:es": "Gobernador de Guaviare",
+        "lang:en": "Governor of Guaviare Department"
+      },
+      "role_code": "Q47524571",
+      "role": {
+        "lang:es": "Gobernador de Guaviare",
+        "lang:en": "Governor of Guaviare Department"
+      }
+    }
   ]
 }
