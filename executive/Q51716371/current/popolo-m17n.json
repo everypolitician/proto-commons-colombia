@@ -2,6 +2,8 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Ricardo Alvarado Bestene",
+        "lang:en": "Ricardo Alvarado Bestene"
       },
       "id": "Q28366324",
       "identifiers": [
