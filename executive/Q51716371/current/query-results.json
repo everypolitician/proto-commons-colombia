@@ -46,6 +46,20 @@
         "type" : "literal",
         "value" : "Gobernador de Arauca"
       },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28366324"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ricardo Alvarado Bestene"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ricardo Alvarado Bestene"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q51716371"
@@ -63,10 +77,6 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q28366324-6918B420-A85A-4B0F-B584-926D477F99AC"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28366324"
       },
       "org_jurisdiction" : {
         "type" : "uri",
