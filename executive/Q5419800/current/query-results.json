@@ -6,21 +6,21 @@
     "bindings" : [ {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q939021"
+        "value" : "http://www.wikidata.org/entity/Q15909095"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Colombian Liberal Party"
+        "value" : "Democratic Center"
       },
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Partido Liberal Colombiano"
+        "value" : "Centro Democrático"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3138701"
+        "value" : "http://www.wikidata.org/entity/Q17478000"
       },
       "district" : {
         "type" : "uri",
@@ -67,12 +67,12 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Santos Gutiérrez"
+        "value" : "Iván Duque"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Santos Gutiérrez"
+        "value" : "Iván Duque"
       },
       "org" : {
         "type" : "uri",
@@ -90,100 +90,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3138701-7ae06e4d-423a-d13a-2e79-44186c888027"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q739"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q939021"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Colombian Liberal Party"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Liberal Colombiano"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57311"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q739"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Colombia"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Colombia"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q853475"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q853475"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Colombia"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Presidente de Colombia"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Colombia"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Presidente de Colombia"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juan Manuel Santos"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Juan Manuel Santos"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5419800"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Branch of Colombia"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Poder Ejecutivo en Colombia"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09"
+        "value" : "http://www.wikidata.org/entity/statement/Q17478000-44bb97e2-4cd8-6dbb-a564-f3075b13a59f"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -192,11 +99,11 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2010-08-07T00:00:00Z"
+        "value" : "2018-08-07T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "JMSantos.Presidente"
+        "value" : "ivanduquemarquez"
       }
     }, {
       "party" : {
@@ -299,6 +206,11 @@
       "facebook" : {
         "type" : "literal",
         "value" : "JMSantos.Presidente"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-08-07T00:00:00Z"
       }
     } ]
   }
