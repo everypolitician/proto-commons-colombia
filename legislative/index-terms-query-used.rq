@@ -1,5 +1,51 @@
-SELECT DISTINCT ?house ?houseLabel ?legislature ?legislatureLabel ?term ?termLabel ?termStart ?termEnd WHERE {
-  VALUES ?house { wd:Q1571756 wd:Q2398781 wd:Q18170765 wd:Q21564847 wd:Q51092546 wd:Q51092547 wd:Q51092549 wd:Q51092550 wd:Q51092551 wd:Q51092552 wd:Q51092555 wd:Q51092556 wd:Q51092558 wd:Q51092559 wd:Q51092561 wd:Q51092564 wd:Q51092565 wd:Q51092568 wd:Q51092569 wd:Q51092570 wd:Q51092572 wd:Q51092573 wd:Q51092574 wd:Q51092577 wd:Q51092579 wd:Q51092582 wd:Q51092583 wd:Q51092587 wd:Q51092590 wd:Q51092593 wd:Q51092595 wd:Q51092596 wd:Q5260098 wd:Q5707807 wd:Q5780806 wd:Q16491339 wd:Q51093881 wd:Q51094127 wd:Q51094137 }
+SELECT DISTINCT
+  ?house ?houseLabel
+  ?legislature ?legislatureLabel
+  ?term ?termLabel
+  ?termStart ?termEnd
+  ?termSpecificPosition
+WHERE {
+  VALUES (?house ?position) {
+    (wd:Q1571756 wd:Q18960607)
+    (wd:Q2398781 wd:Q19254253)
+    (wd:Q18170765 wd:Q47525522)
+    (wd:Q21564847 wd:Q47528278)
+    (wd:Q51092546 wd:Q51093287)
+    (wd:Q51092547 wd:Q51093290)
+    (wd:Q51092549 wd:Q51093291)
+    (wd:Q51092550 wd:Q51093294)
+    (wd:Q51092551 wd:Q51093296)
+    (wd:Q51092552 wd:Q51093300)
+    (wd:Q51092555 wd:Q51093302)
+    (wd:Q51092556 wd:Q51093303)
+    (wd:Q51092558 wd:Q51093305)
+    (wd:Q51092559 wd:Q51093306)
+    (wd:Q51092561 wd:Q51093308)
+    (wd:Q51092564 wd:Q51093310)
+    (wd:Q51092565 wd:Q51093312)
+    (wd:Q51092568 wd:Q51093316)
+    (wd:Q51092569 wd:Q51093319)
+    (wd:Q51092570 wd:Q51093322)
+    (wd:Q51092572 wd:Q51093323)
+    (wd:Q51092573 wd:Q51093325)
+    (wd:Q51092574 wd:Q51093327)
+    (wd:Q51092577 wd:Q51093330)
+    (wd:Q51092579 wd:Q51093333)
+    (wd:Q51092582 wd:Q51093335)
+    (wd:Q51092583 wd:Q51093340)
+    (wd:Q51092587 wd:Q51093341)
+    (wd:Q51092590 wd:Q51093343)
+    (wd:Q51092593 wd:Q51093346)
+    (wd:Q51092595 wd:Q51093350)
+    (wd:Q51092596 wd:Q51093353)
+    (wd:Q5260098 wd:Q47525024)
+    (wd:Q5707807 wd:Q51093348)
+    (wd:Q5780806 wd:Q51096842)
+    (wd:Q16491339 wd:Q51096876)
+    (wd:Q51093881 wd:Q51096851)
+    (wd:Q51094127 wd:Q51096859)
+    (wd:Q51094137 wd:Q51096868)
+  }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
       OPTIONAL { ?subTerm wdt:P31 ?baseTerm }
@@ -10,6 +56,11 @@ SELECT DISTINCT ?house ?houseLabel ?legislature ?legislatureLabel ?term ?termLab
   OPTIONAL { ?term (wdt:P582|wdt:P576) ?termEnd. }
   OPTIONAL { ?term (wdt:P155|wdt:P1365) ?termReplaces }
   OPTIONAL { ?term (wdt:P156|wdt:P1366) ?termReplacedBy }
+  OPTIONAL {
+    ?termSpecificPosition wdt:P31/wdt:P279* wd:Q4164871 ;
+                          p:P279 [ ps:P279 ?position ;
+                                   pq:P2937 ?term ] .
+  }
 
   FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
   FILTER (!BOUND(?termReplacedBy))
