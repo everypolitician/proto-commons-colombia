@@ -2,18 +2,21 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Santos Gutiérrez",
-        "lang:en": "Santos Gutiérrez"
+        "lang:es": "Iván Duque",
+        "lang:en": "Iván Duque"
       },
-      "id": "Q3138701",
+      "id": "Q17478000",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q3138701"
+          "identifier": "Q17478000"
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ivanduquemarquez"
+        }
       ]
     },
     {
@@ -29,10 +32,6 @@
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/JMSantos.Presidente"
-        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/JMSantos.Presidente"
@@ -58,15 +57,15 @@
     },
     {
       "name": {
-        "lang:es": "Partido Liberal Colombiano",
-        "lang:en": "Colombian Liberal Party"
+        "lang:es": "Centro Democrático",
+        "lang:en": "Democratic Center"
       },
-      "id": "Q939021",
+      "id": "Q15909095",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q939021"
+          "identifier": "Q15909095"
         }
       ]
     },
@@ -114,29 +113,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3138701-7ae06e4d-423a-d13a-2e79-44186c888027",
-      "person_id": "Q3138701",
-      "on_behalf_of_id": "Q939021",
+      "id": "http://www.wikidata.org/entity/statement/Q17478000-44bb97e2-4cd8-6dbb-a564-f3075b13a59f",
+      "person_id": "Q17478000",
+      "on_behalf_of_id": "Q15909095",
       "organization_id": "Q5419800",
       "area_id": "Q739",
-      "role_superclass_code": "Q853475",
-      "role_superclass": {
-        "lang:es": "Presidente de Colombia",
-        "lang:en": "President of Colombia"
-      },
-      "role_code": "Q853475",
-      "role": {
-        "lang:es": "Presidente de Colombia",
-        "lang:en": "President of Colombia"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09",
-      "person_id": "Q57311",
-      "on_behalf_of_id": "Q939021",
-      "organization_id": "Q5419800",
-      "area_id": "Q739",
-      "start_date": "2010-08-07",
+      "start_date": "2018-08-07",
       "role_superclass_code": "Q853475",
       "role_superclass": {
         "lang:es": "Presidente de Colombia",
@@ -155,6 +137,7 @@
       "organization_id": "Q5419800",
       "area_id": "Q739",
       "start_date": "2010-08-07",
+      "end_date": "2018-08-07",
       "role_superclass_code": "Q853475",
       "role_superclass": {
         "lang:es": "Presidente de Colombia",
