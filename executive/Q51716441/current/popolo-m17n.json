@@ -2,7 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Marcela Amaya García"
+        "lang:es": "Marcela Amaya García",
+        "lang:en": "Marcela Amaya García"
       },
       "id": "Q20017165",
       "identifiers": [

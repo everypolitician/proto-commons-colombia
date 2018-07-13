@@ -50,6 +50,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20017165"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcela Amaya García"
+      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -127,6 +132,11 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20017165"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marcela Amaya García"
       },
       "name_es" : {
         "xml:lang" : "es",
