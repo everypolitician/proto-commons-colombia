@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/edwinjoe.besailefayd"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Edwin Besaile"
+      },
+      "id": "Q56480112",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56480112"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -93,6 +108,22 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q54086211-0C6A8783-7A47-4D46-8414-B2FA196F2662",
       "person_id": "Q54086211",
+      "organization_id": "Q51716416",
+      "area_id": "Q234912",
+      "role_superclass_code": "Q47524553",
+      "role_superclass": {
+        "lang:es": "Gobernador de Córdoba",
+        "lang:en": "Governor of Córdoba Department"
+      },
+      "role_code": "Q47524553",
+      "role": {
+        "lang:es": "Gobernador de Córdoba",
+        "lang:en": "Governor of Córdoba Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56480112-10FCED18-5ABE-402D-B555-D60480185B45",
+      "person_id": "Q56480112",
       "organization_id": "Q51716416",
       "area_id": "Q234912",
       "role_superclass_code": "Q47524553",

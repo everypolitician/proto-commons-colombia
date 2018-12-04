@@ -35,6 +35,20 @@
         }
       ],
       "area_id": "Q51103"
+    },
+    {
+      "name": {
+        "lang:es": "candidato independiente",
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
     }
   ],
   "areas": [
@@ -118,6 +132,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28062389-E3EDBE87-4A1A-4337-9A5D-B18C762D6F1A",
       "person_id": "Q28062389",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "Q51716468",
       "area_id": "Q51103",
       "role_superclass_code": "Q51094653",

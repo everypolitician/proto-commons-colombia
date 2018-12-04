@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/SorrelArocaGobernadora"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Sorrel Aroca"
+      },
+      "id": "Q56480141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56480141"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -93,6 +108,22 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q54086208-8CB4FB6F-9586-49E9-B1EF-6983963BCD87",
       "person_id": "Q54086208",
+      "organization_id": "Q51716395",
+      "area_id": "Q232953",
+      "role_superclass_code": "Q47524604",
+      "role_superclass": {
+        "lang:es": "Gobernador de Putumayo",
+        "lang:en": "Governor of Putumayo Department"
+      },
+      "role_code": "Q47524604",
+      "role": {
+        "lang:es": "Gobernador de Putumayo",
+        "lang:en": "Governor of Putumayo Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56480141-275E466D-0E5E-4B56-9548-F51B34103C6E",
+      "person_id": "Q56480141",
       "organization_id": "Q51716395",
       "area_id": "Q232953",
       "role_superclass_code": "Q47524604",

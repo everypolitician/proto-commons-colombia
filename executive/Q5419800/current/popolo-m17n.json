@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Iván Duque",
-        "lang:en": "Iván Duque"
+        "lang:es": "Iván Duque Márquez",
+        "lang:en": "Iván Duque Márquez"
       },
       "id": "Q17478000",
       "identifiers": [
@@ -16,25 +16,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/ivanduquemarquez"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Juan Manuel Santos",
-        "lang:en": "Juan Manuel Santos"
-      },
-      "id": "Q57311",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q57311"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/JMSantos.Presidente"
         }
       ]
     }
@@ -66,20 +47,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q15909095"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Partido Social de Unidad Nacional",
-        "lang:en": "Social Party of National Unity"
-      },
-      "id": "Q973542",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q973542"
         }
       ]
     }
@@ -121,32 +88,13 @@
       "start_date": "2018-08-07",
       "role_superclass_code": "Q853475",
       "role_superclass": {
-        "lang:es": "Presidente de Colombia",
-        "lang:en": "President of Colombia"
+        "lang:es": "presidente de Colombia",
+        "lang:en": "president of Colombia"
       },
       "role_code": "Q853475",
       "role": {
-        "lang:es": "Presidente de Colombia",
-        "lang:en": "President of Colombia"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09",
-      "person_id": "Q57311",
-      "on_behalf_of_id": "Q973542",
-      "organization_id": "Q5419800",
-      "area_id": "Q739",
-      "start_date": "2010-08-07",
-      "end_date": "2018-08-07",
-      "role_superclass_code": "Q853475",
-      "role_superclass": {
-        "lang:es": "Presidente de Colombia",
-        "lang:en": "President of Colombia"
-      },
-      "role_code": "Q853475",
-      "role": {
-        "lang:es": "Presidente de Colombia",
-        "lang:en": "President of Colombia"
+        "lang:es": "presidente de Colombia",
+        "lang:en": "president of Colombia"
       }
     }
   ]

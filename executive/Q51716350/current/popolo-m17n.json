@@ -35,6 +35,20 @@
         }
       ],
       "area_id": "Q123304"
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
     }
   ],
   "areas": [
@@ -93,6 +107,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q12351914-C5F3F4B0-5B71-4021-8879-C9C4CE018038",
       "person_id": "Q12351914",
+      "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716350",
       "area_id": "Q123304",
       "role_superclass_code": "Q47524391",

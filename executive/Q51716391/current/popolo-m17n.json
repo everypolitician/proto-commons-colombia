@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/JorgeReyCundinamarca"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Emilio Rey Angel"
+      },
+      "id": "Q56480173",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56480173"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -93,6 +108,22 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q21941974-D0F84AB9-974D-4DD9-B083-C40F4B59D6F8",
       "person_id": "Q21941974",
+      "organization_id": "Q51716391",
+      "area_id": "Q232564",
+      "role_superclass_code": "Q47524564",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cundinamarca",
+        "lang:en": "Governor of Cundinamarca Department"
+      },
+      "role_code": "Q47524564",
+      "role": {
+        "lang:es": "Gobernador de Cundinamarca",
+        "lang:en": "Governor of Cundinamarca Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56480173-931F0EAF-0F56-4129-9A34-ED22797B1BEA",
+      "person_id": "Q56480173",
       "organization_id": "Q51716391",
       "area_id": "Q232564",
       "role_superclass_code": "Q47524564",

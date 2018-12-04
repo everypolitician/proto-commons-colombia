@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/ricardoalvaradobestene.arauca"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Ricardo Alvarado Bastene"
+      },
+      "id": "Q56480123",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56480123"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -93,6 +108,22 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q28366324-6918B420-A85A-4B0F-B584-926D477F99AC",
       "person_id": "Q28366324",
+      "organization_id": "Q51716371",
+      "area_id": "Q230223",
+      "role_superclass_code": "Q47524444",
+      "role_superclass": {
+        "lang:es": "Gobernador de Arauca",
+        "lang:en": "Governor of Arauca Department"
+      },
+      "role_code": "Q47524444",
+      "role": {
+        "lang:es": "Gobernador de Arauca",
+        "lang:en": "Governor of Arauca Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56480123-391677D5-D342-47FD-99B3-37D44143F5BC",
+      "person_id": "Q56480123",
       "organization_id": "Q51716371",
       "area_id": "Q230223",
       "role_superclass_code": "Q47524444",

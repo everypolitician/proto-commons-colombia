@@ -2,6 +2,70 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Paul Bromberg",
+        "lang:en": "Paul Bromberg"
+      },
+      "id": "Q5473516",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5473516"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Martín Caicedo",
+        "lang:en": "Juan Martín Caicedo"
+      },
+      "id": "Q5951281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5951281"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jaime Castro Castro",
+        "lang:en": "Jaime Castro Castro"
+      },
+      "id": "Q6123707",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6123707"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Samuel Moreno",
+        "lang:en": "Samuel Moreno Rojas"
+      },
+      "id": "Q981871",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q981871"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Enrique Peñalosa",
         "lang:en": "Enrique Peñalosa"
       },
@@ -13,6 +77,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/enriquepenalosaoficial"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/enriquepenalosaoficial"
@@ -35,6 +103,48 @@
         }
       ],
       "area_id": "Q2841"
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Verde",
+        "lang:en": "Green Party"
+      },
+      "id": "Q1452567",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452567"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Nacional Social,.",
+        "lang:en": "National Popular Alliance"
+      },
+      "id": "Q2836424",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2836424"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
     }
   ],
   "areas": [
@@ -91,8 +201,94 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5473516-d57ff0d7-480b-3cca-743d-e2fa77cc1f56",
+      "person_id": "Q5473516",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5951281-115706c1-4d88-04b3-9b9d-ca29e3d637bf",
+      "person_id": "Q5951281",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6123707-7996f5c3-42d2-bc16-1757-35058c3273c0",
+      "person_id": "Q6123707",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q981871-5302f5b3-4932-f5f5-1ed0-190e113154ff",
+      "person_id": "Q981871",
+      "on_behalf_of_id": "Q2836424",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q989831-eb8a0264-49fc-854e-c778-aa3cc4a89f05",
       "person_id": "Q989831",
+      "on_behalf_of_id": "Q1452567",
+      "organization_id": "Q51716465",
+      "area_id": "Q2841",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q21994938",
+      "role_superclass": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      },
+      "role_code": "Q21994938",
+      "role": {
+        "lang:es": "alcalde de Bogotá",
+        "lang:en": "superior mayor of Bogota"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q989831-eb8a0264-49fc-854e-c778-aa3cc4a89f05",
+      "person_id": "Q989831",
+      "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716465",
       "area_id": "Q2841",
       "start_date": "2016-01-01",

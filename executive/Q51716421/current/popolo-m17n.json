@@ -2,6 +2,21 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Manuel Germán Cuello"
+      },
+      "id": "Q16728296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16728296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Franco Ovalle",
         "lang:en": "Franco Ovalle"
       },
@@ -17,6 +32,86 @@
           "note": "facebook",
           "url": "https://www.facebook.com/francoovallea"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alfonso Araújo Cotes",
+        "lang:en": "Alfonso Araújo Cotes"
+      },
+      "id": "Q4721995",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4721995"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cristian Moreno Panezo",
+        "lang:en": "Cristian Moreno Panezo"
+      },
+      "id": "Q5186231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5186231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Hernando Molina Araújo",
+        "lang:en": "Hernando Molina Araújo"
+      },
+      "id": "Q5742249",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5742249"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Antonio Murgas",
+        "lang:en": "José Antonio Murgas"
+      },
+      "id": "Q6291470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6291470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Roberto García",
+        "lang:en": "Luis Roberto García"
+      },
+      "id": "Q6701056",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6701056"
+        }
+      ],
+      "links": [
+
       ]
     }
   ],
@@ -35,6 +130,48 @@
         }
       ],
       "area_id": "Q234916"
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Verde",
+        "lang:en": "Green Party"
+      },
+      "id": "Q1452567",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452567"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Conservador Colombiano",
+        "lang:en": "Colombian Conservative Party"
+      },
+      "id": "Q747333",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q747333"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Liberal Colombiano",
+        "lang:en": "Colombian Liberal Party"
+      },
+      "id": "Q939021",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q939021"
+        }
+      ]
     }
   ],
   "areas": [
@@ -91,8 +228,109 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16728296-2d4c2dd4-8d86-400f-998e-da584b3d8518",
+      "person_id": "Q16728296",
+      "on_behalf_of_id": "Q747333",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q23906954-7743099A-BE42-43F5-A58E-C657D254D27C",
       "person_id": "Q23906954",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4721995-834aac96-0e30-4d3e-a2e4-13cb22e0c6b9",
+      "person_id": "Q4721995",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5186231-47235d35-34f9-4b41-a1e0-05635b33a910",
+      "person_id": "Q5186231",
+      "on_behalf_of_id": "Q1452567",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5742249-c9444679-d877-4f6f-a0a4-0cb348dc5839",
+      "person_id": "Q5742249",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6291470-54a27101-971b-423c-8a3c-cfe5f5406372",
+      "person_id": "Q6291470",
+      "on_behalf_of_id": "Q939021",
+      "organization_id": "Q51716421",
+      "area_id": "Q234916",
+      "role_superclass_code": "Q47524530",
+      "role_superclass": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      },
+      "role_code": "Q47524530",
+      "role": {
+        "lang:es": "Gobernador de Cesar",
+        "lang:en": "Governor of Cesar Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6701056-1824ad2f-854a-434c-8476-e53c6785c788",
+      "person_id": "Q6701056",
+      "on_behalf_of_id": "Q747333",
       "organization_id": "Q51716421",
       "area_id": "Q234916",
       "role_superclass_code": "Q47524530",

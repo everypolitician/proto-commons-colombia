@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/alvaropachecoal"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Alvaro Pacheco Alvares"
+      },
+      "id": "Q56480152",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56480152"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -93,6 +108,22 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q54086200-BF7D167F-6377-4AB1-9576-59F7778D6FAD",
       "person_id": "Q54086200",
+      "organization_id": "Q51716357",
+      "area_id": "Q13985",
+      "role_superclass_code": "Q47524522",
+      "role_superclass": {
+        "lang:es": "Gobernador de Caquetá",
+        "lang:en": "Governor of Caquetá Department"
+      },
+      "role_code": "Q47524522",
+      "role": {
+        "lang:es": "Gobernador de Caquetá",
+        "lang:en": "Governor of Caquetá Department"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56480152-6F7238F8-460B-4152-A492-6289590F05AF",
+      "person_id": "Q56480152",
       "organization_id": "Q51716357",
       "area_id": "Q13985",
       "role_superclass_code": "Q47524522",
