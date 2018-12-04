@@ -5,8 +5,8 @@
     "position_item_id": "Q18960607",
     "terms": [
       {
-        "comment": "2014-2018 parliament",
-        "term_item_id": "Q51685953"
+        "comment": "2018-2022 parliament",
+        "term_item_id": "Q57166414"
       }
     ]
   },
@@ -16,8 +16,8 @@
     "position_item_id": "Q19254253",
     "terms": [
       {
-        "comment": "2014-2018 senate",
-        "term_item_id": "Q51685949"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
