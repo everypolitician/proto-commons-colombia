@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Amazonas",
+        "lang:en": "departmental assembly of Amazonas"
+      },
+      "id": "Q51092596",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092596"
+        }
+      ],
+      "area_id": "Q44724",
+      "seat_counts": {
+        "Q51093353": "11"
+      }
+    }
   ],
   "areas": [
     {

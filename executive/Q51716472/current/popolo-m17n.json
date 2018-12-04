@@ -120,10 +120,10 @@
       "person_id": "Q19722000",
       "organization_id": "Q51716472",
       "area_id": "Q48278",
-      "role_superclass_code": "Q51094750",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Medellín",
-        "lang:en": "mayor of Medellín"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q51094750",
       "role": {

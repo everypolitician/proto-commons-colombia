@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Santander",
+        "lang:en": "departmental assembly of Santander"
+      },
+      "id": "Q51092579",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092579"
+        }
+      ],
+      "area_id": "Q235166",
+      "seat_counts": {
+        "Q51093333": "16"
+      }
+    }
   ],
   "areas": [
     {

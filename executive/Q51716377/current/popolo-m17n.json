@@ -110,11 +110,6 @@
       "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716377",
       "area_id": "Q230597",
-      "role_superclass_code": "Q47524459",
-      "role_superclass": {
-        "lang:es": "Gobernador de Bolívar",
-        "lang:en": "Governor of Bolívar Department"
-      },
       "role_code": "Q47524459",
       "role": {
         "lang:es": "Gobernador de Bolívar",

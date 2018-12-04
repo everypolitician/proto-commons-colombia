@@ -118,10 +118,10 @@
       "organization_id": "Q51716481",
       "area_id": "Q657461",
       "start_date": "2017-10-13",
-      "role_superclass_code": "Q51094842",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Cartagena de Indias",
-        "lang:en": "mayor of Cartagena de Indias"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q51094842",
       "role": {

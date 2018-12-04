@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Guainía",
+        "lang:en": "departmental assembly of Guainía"
+      },
+      "id": "Q51092587",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092587"
+        }
+      ],
+      "area_id": "Q238645",
+      "seat_counts": {
+        "Q51093341": "11"
+      }
+    }
   ],
   "areas": [
     {

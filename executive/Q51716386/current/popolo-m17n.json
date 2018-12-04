@@ -95,11 +95,6 @@
       "person_id": "Q54086207",
       "organization_id": "Q51716386",
       "area_id": "Q230607",
-      "role_superclass_code": "Q47524507",
-      "role_superclass": {
-        "lang:es": "Gobernador de Caldas",
-        "lang:en": "Governor of Caldas Department"
-      },
       "role_code": "Q47524507",
       "role": {
         "lang:es": "Gobernador de Caldas",

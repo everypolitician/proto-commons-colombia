@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de La Guajira",
+        "lang:en": "departmental assembly of La Guajira"
+      },
+      "id": "Q5707807",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5707807"
+        }
+      ],
+      "area_id": "Q272747",
+      "seat_counts": {
+        "Q51093348": "11"
+      }
+    }
   ],
   "areas": [
     {

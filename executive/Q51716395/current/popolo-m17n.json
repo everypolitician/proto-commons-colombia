@@ -110,11 +110,6 @@
       "person_id": "Q54086208",
       "organization_id": "Q51716395",
       "area_id": "Q232953",
-      "role_superclass_code": "Q47524604",
-      "role_superclass": {
-        "lang:es": "Gobernador de Putumayo",
-        "lang:en": "Governor of Putumayo Department"
-      },
       "role_code": "Q47524604",
       "role": {
         "lang:es": "Gobernador de Putumayo",
@@ -126,11 +121,6 @@
       "person_id": "Q56480141",
       "organization_id": "Q51716395",
       "area_id": "Q232953",
-      "role_superclass_code": "Q47524604",
-      "role_superclass": {
-        "lang:es": "Gobernador de Putumayo",
-        "lang:en": "Governor of Putumayo Department"
-      },
       "role_code": "Q47524604",
       "role": {
         "lang:es": "Gobernador de Putumayo",

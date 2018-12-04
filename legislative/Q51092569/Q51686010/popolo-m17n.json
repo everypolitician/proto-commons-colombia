@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Putumayo",
+        "lang:en": "departmental assembly of Putumayo"
+      },
+      "id": "Q51092569",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092569"
+        }
+      ],
+      "area_id": "Q232953",
+      "seat_counts": {
+        "Q51093319": "11"
+      }
+    }
   ],
   "areas": [
     {

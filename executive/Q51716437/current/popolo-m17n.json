@@ -92,11 +92,6 @@
       "person_id": "Q54086212",
       "organization_id": "Q51716437",
       "area_id": "Q235188",
-      "role_superclass_code": "Q47524673",
-      "role_superclass": {
-        "lang:es": "Gobernador de Sucre",
-        "lang:en": "Governor of Sucre Department"
-      },
       "role_code": "Q47524673",
       "role": {
         "lang:es": "Gobernador de Sucre",

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental del Atlántico",
+        "lang:en": "departmental assembly of Atlántico"
+      },
+      "id": "Q51092565",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092565"
+        }
+      ],
+      "area_id": "Q230882",
+      "seat_counts": {
+        "Q51093312": "14"
+      }
+    }
   ],
   "areas": [
     {

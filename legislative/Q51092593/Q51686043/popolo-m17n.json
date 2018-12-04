@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Vichada",
+        "lang:en": "departmental assembly of Vichada"
+      },
+      "id": "Q51092593",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092593"
+        }
+      ],
+      "area_id": "Q268729",
+      "seat_counts": {
+        "Q51093346": "11"
+      }
+    }
   ],
   "areas": [
     {

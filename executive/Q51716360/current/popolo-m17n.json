@@ -110,11 +110,6 @@
       "on_behalf_of_id": "Q973542",
       "organization_id": "Q51716360",
       "area_id": "Q13990",
-      "role_superclass_code": "Q5589730",
-      "role_superclass": {
-        "lang:es": "Gobernador de Valle del Cauca",
-        "lang:en": "Governor of Valle del Cauca Department"
-      },
       "role_code": "Q5589730",
       "role": {
         "lang:es": "Gobernador de Valle del Cauca",

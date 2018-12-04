@@ -95,11 +95,6 @@
       "person_id": "Q54086210",
       "organization_id": "Q51716410",
       "area_id": "Q234505",
-      "role_superclass_code": "Q47524691",
-      "role_superclass": {
-        "lang:es": "Gobernador de Vaupés",
-        "lang:en": "Governor of Vaupés Department"
-      },
       "role_code": "Q47524691",
       "role": {
         "lang:es": "Gobernador de Vaupés",

@@ -135,10 +135,10 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q51716468",
       "area_id": "Q51103",
-      "role_superclass_code": "Q51094653",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Cali",
-        "lang:en": "mayor of Cali"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q51094653",
       "role": {

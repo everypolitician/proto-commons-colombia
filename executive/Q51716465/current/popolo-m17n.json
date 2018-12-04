@@ -80,10 +80,6 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/enriquepenalosaoficial"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/enriquepenalosaoficial"
         }
       ]
     }
@@ -205,10 +201,10 @@
       "person_id": "Q5473516",
       "organization_id": "Q51716465",
       "area_id": "Q2841",
-      "role_superclass_code": "Q21994938",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q21994938",
       "role": {
@@ -222,10 +218,10 @@
       "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716465",
       "area_id": "Q2841",
-      "role_superclass_code": "Q21994938",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q21994938",
       "role": {
@@ -239,10 +235,10 @@
       "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716465",
       "area_id": "Q2841",
-      "role_superclass_code": "Q21994938",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q21994938",
       "role": {
@@ -256,10 +252,10 @@
       "on_behalf_of_id": "Q2836424",
       "organization_id": "Q51716465",
       "area_id": "Q2841",
-      "role_superclass_code": "Q21994938",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q21994938",
       "role": {
@@ -274,10 +270,10 @@
       "organization_id": "Q51716465",
       "area_id": "Q2841",
       "start_date": "2016-01-01",
-      "role_superclass_code": "Q21994938",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q21994938",
       "role": {
@@ -292,10 +288,10 @@
       "organization_id": "Q51716465",
       "area_id": "Q2841",
       "start_date": "2016-01-01",
-      "role_superclass_code": "Q21994938",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "alcalde de Bogotá",
-        "lang:en": "superior mayor of Bogota"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q21994938",
       "role": {

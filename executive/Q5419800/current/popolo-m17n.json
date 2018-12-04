@@ -86,10 +86,28 @@
       "organization_id": "Q5419800",
       "area_id": "Q739",
       "start_date": "2018-08-07",
-      "role_superclass_code": "Q853475",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
+        "lang:es": "jefe de Gobierno",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q853475",
+      "role": {
         "lang:es": "presidente de Colombia",
         "lang:en": "president of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17478000-44bb97e2-4cd8-6dbb-a564-f3075b13a59f",
+      "person_id": "Q17478000",
+      "on_behalf_of_id": "Q15909095",
+      "organization_id": "Q5419800",
+      "area_id": "Q739",
+      "start_date": "2018-08-07",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:es": "presidente",
+        "lang:en": "president"
       },
       "role_code": "Q853475",
       "role": {

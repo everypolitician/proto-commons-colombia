@@ -99,11 +99,6 @@
       "person_id": "Q20017165",
       "organization_id": "Q51716441",
       "area_id": "Q238629",
-      "role_superclass_code": "Q47524581",
-      "role_superclass": {
-        "lang:es": "Gobernador de Meta",
-        "lang:en": "Governor of Meta Department"
-      },
       "role_code": "Q47524581",
       "role": {
         "lang:es": "Gobernador de Meta",

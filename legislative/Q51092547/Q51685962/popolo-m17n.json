@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Casanare",
+        "lang:en": "departmental assembly of Casanare"
+      },
+      "id": "Q51092547",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092547"
+        }
+      ],
+      "area_id": "Q13984",
+      "seat_counts": {
+        "Q51093290": "11"
+      }
+    }
   ],
   "areas": [
     {

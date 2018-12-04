@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Caquetá",
+        "lang:en": "departmental assembly of Caquetá"
+      },
+      "id": "Q51092549",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092549"
+        }
+      ],
+      "area_id": "Q13985",
+      "seat_counts": {
+        "Q51093291": "11"
+      }
+    }
   ],
   "areas": [
     {

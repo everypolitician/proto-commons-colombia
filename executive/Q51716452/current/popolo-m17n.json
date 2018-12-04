@@ -95,11 +95,6 @@
       "person_id": "Q54086215",
       "organization_id": "Q51716452",
       "area_id": "Q268729",
-      "role_superclass_code": "Q47524702",
-      "role_superclass": {
-        "lang:es": "Gobernador de Vichada",
-        "lang:en": "Governor of Vichada Department"
-      },
       "role_code": "Q47524702",
       "role": {
         "lang:es": "Gobernador de Vichada",

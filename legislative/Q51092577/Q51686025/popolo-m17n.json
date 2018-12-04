@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Huila",
+        "lang:en": "departmental assembly of Huila"
+      },
+      "id": "Q51092577",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092577"
+        }
+      ],
+      "area_id": "Q234920",
+      "seat_counts": {
+        "Q51093330": "12"
+      }
+    }
   ],
   "areas": [
     {

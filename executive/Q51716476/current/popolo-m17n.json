@@ -133,10 +133,10 @@
       "organization_id": "Q51716476",
       "area_id": "Q62823",
       "start_date": "2015-10-25",
-      "role_superclass_code": "Q5663913",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:es": "Alcalde de Barranquilla",
-        "lang:en": "mayor of Barranquilla"
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q5663913",
       "role": {

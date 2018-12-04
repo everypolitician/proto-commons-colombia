@@ -108,11 +108,6 @@
       "person_id": "Q54086206",
       "organization_id": "Q51716383",
       "area_id": "Q230602",
-      "role_superclass_code": "Q47524527",
-      "role_superclass": {
-        "lang:es": "Gobernador de Cauca",
-        "lang:en": "Governor of Cauca Department"
-      },
       "role_code": "Q47524527",
       "role": {
         "lang:es": "Gobernador de Cauca",
@@ -124,11 +119,6 @@
       "person_id": "Q5938033",
       "organization_id": "Q51716383",
       "area_id": "Q230602",
-      "role_superclass_code": "Q47524527",
-      "role_superclass": {
-        "lang:es": "Gobernador de Cauca",
-        "lang:en": "Governor of Cauca Department"
-      },
       "role_code": "Q47524527",
       "role": {
         "lang:es": "Gobernador de Cauca",

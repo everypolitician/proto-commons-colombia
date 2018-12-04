@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Meta",
+        "lang:en": "departmental assembly of Meta"
+      },
+      "id": "Q51092583",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092583"
+        }
+      ],
+      "area_id": "Q238629",
+      "seat_counts": {
+        "Q51093340": "11"
+      }
+    }
   ],
   "areas": [
     {

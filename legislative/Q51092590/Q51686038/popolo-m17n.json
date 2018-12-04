@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental del Archipiélago de San Andrés, Providencia y Santa Catalina",
+        "lang:en": "departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina"
+      },
+      "id": "Q51092590",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092590"
+        }
+      ],
+      "area_id": "Q26855",
+      "seat_counts": {
+        "Q51093343": "11"
+      }
+    }
   ],
   "areas": [
     {

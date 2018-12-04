@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Norte de Santander",
+        "lang:en": "departmental assembly of Norte de Santander"
+      },
+      "id": "Q51092570",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092570"
+        }
+      ],
+      "area_id": "Q233058",
+      "seat_counts": {
+        "Q51093322": "13"
+      }
+    }
   ],
   "areas": [
     {

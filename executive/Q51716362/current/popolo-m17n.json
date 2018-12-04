@@ -95,11 +95,6 @@
       "person_id": "Q54086201",
       "organization_id": "Q51716362",
       "area_id": "Q13993",
-      "role_superclass_code": "Q47524628",
-      "role_superclass": {
-        "lang:es": "Gobernador de Risaralda",
-        "lang:en": "Governor of Risaralda Department"
-      },
       "role_code": "Q47524628",
       "role": {
         "lang:es": "Gobernador de Risaralda",

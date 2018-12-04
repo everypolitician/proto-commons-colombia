@@ -1,0 +1,857 @@
+[
+  {
+    "role_id": "Q18960607",
+    "role_name": {
+      "lang:es": "miembro de la Cámara de Representantes de Colombia",
+      "lang:en": "member of the Chamber of Representatives of Colombia"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1571756",
+    "organization_name": {
+      "lang:es": "Cámara de Representantes de Colombia",
+      "lang:en": "Chamber of Representatives of Colombia"
+    }
+  },
+  {
+    "role_id": "Q19254253",
+    "role_name": {
+      "lang:es": "senador de Colombia",
+      "lang:en": "member of the Senate of Colombia"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:es": "senador",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2398781",
+    "organization_name": {
+      "lang:es": "Senado de Colombia",
+      "lang:en": "Senate of Colombia"
+    }
+  },
+  {
+    "role_id": "Q21994938",
+    "role_name": {
+      "lang:es": "alcalde de Bogotá",
+      "lang:en": "superior mayor of Bogota"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048 Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q51716465",
+    "organization_name": {
+      "lang:es": "alcaldía de Bogotá",
+      "lang:en": "office of the mayor of Bogotá"
+    }
+  },
+  {
+    "role_id": "Q47525024",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Valle del Cauca"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5260098",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Valle del Cauca",
+      "lang:en": "departmental assembly of Valle del Cauca"
+    }
+  },
+  {
+    "role_id": "Q47525522",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Antioquia"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q18170765",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Antioquia",
+      "lang:en": "departmental assembly of Antioquia"
+    }
+  },
+  {
+    "role_id": "Q47528278",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Cesar"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q21564847",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Cesar",
+      "lang:en": "departmental assembly of Cesar"
+    }
+  },
+  {
+    "role_id": "Q51093287",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Boyacá"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092546",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Boyacá",
+      "lang:en": "departmental assembly of Boyacá"
+    }
+  },
+  {
+    "role_id": "Q51093290",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Casanare"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092547",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Casanare",
+      "lang:en": "departmental assembly of Casanare"
+    }
+  },
+  {
+    "role_id": "Q51093291",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Caquetá"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092549",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Caquetá",
+      "lang:en": "departmental assembly of Caquetá"
+    }
+  },
+  {
+    "role_id": "Q51093294",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Risaralda"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092550",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Risaralda",
+      "lang:en": "departmental assembly of Risaralda"
+    }
+  },
+  {
+    "role_id": "Q51093296",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Quindío"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092551",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Quindío",
+      "lang:en": "departmental assembly of Quindío"
+    }
+  },
+  {
+    "role_id": "Q51093300",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Magdalena"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092552",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Magdalena",
+      "lang:en": "departmental assembly of Magdalena"
+    }
+  },
+  {
+    "role_id": "Q51093302",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Nariño"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092555",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Nariño",
+      "lang:en": "departmental assembly of Nariño"
+    }
+  },
+  {
+    "role_id": "Q51093303",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Arauca"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092556",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Arauca",
+      "lang:en": "departmental assembly of Arauca"
+    }
+  },
+  {
+    "role_id": "Q51093305",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Chocó"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092558",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Chocó",
+      "lang:en": "departmental assembly of Chocó"
+    }
+  },
+  {
+    "role_id": "Q51093306",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Bolívar"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092559",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Bolívar",
+      "lang:en": "departmental assembly of Bolívar"
+    }
+  },
+  {
+    "role_id": "Q51093308",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Cauca"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092561",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Cauca",
+      "lang:en": "departmental assembly of Cauca"
+    }
+  },
+  {
+    "role_id": "Q51093310",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Caldas"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092564",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Caldas",
+      "lang:en": "departmental assembly of Caldas"
+    }
+  },
+  {
+    "role_id": "Q51093312",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Atlántico"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092565",
+    "organization_name": {
+      "lang:es": "asamblea departamental del Atlántico",
+      "lang:en": "departmental assembly of Atlántico"
+    }
+  },
+  {
+    "role_id": "Q51093316",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Cundinamarca"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092568",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Cundinamarca",
+      "lang:en": "departmental assembly of Cundinamarca"
+    }
+  },
+  {
+    "role_id": "Q51093319",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Putumayo"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092569",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Putumayo",
+      "lang:en": "departmental assembly of Putumayo"
+    }
+  },
+  {
+    "role_id": "Q51093322",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Norte de Santander"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092570",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Norte de Santander",
+      "lang:en": "departmental assembly of Norte de Santander"
+    }
+  },
+  {
+    "role_id": "Q51093323",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Tolima"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092572",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Tolima",
+      "lang:en": "departmental assembly of Tolima"
+    }
+  },
+  {
+    "role_id": "Q51093325",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Vaupés"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092573",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Vaupés",
+      "lang:en": "departmental assembly of Vaupés"
+    }
+  },
+  {
+    "role_id": "Q51093327",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Córdoba"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092574",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Córdoba",
+      "lang:en": "departmental assembly of Córdoba"
+    }
+  },
+  {
+    "role_id": "Q51093330",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Huila"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092577",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Huila",
+      "lang:en": "departmental assembly of Huila"
+    }
+  },
+  {
+    "role_id": "Q51093333",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Santander"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092579",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Santander",
+      "lang:en": "departmental assembly of Santander"
+    }
+  },
+  {
+    "role_id": "Q51093335",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Sucre"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092582",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Sucre",
+      "lang:en": "departmental assembly of Sucre"
+    }
+  },
+  {
+    "role_id": "Q51093340",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Meta"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092583",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Meta",
+      "lang:en": "departmental assembly of Meta"
+    }
+  },
+  {
+    "role_id": "Q51093341",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Guainía"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092587",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Guainía",
+      "lang:en": "departmental assembly of Guainía"
+    }
+  },
+  {
+    "role_id": "Q51093343",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of the departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092590",
+    "organization_name": {
+      "lang:es": "asamblea departamental del Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "lang:en": "departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina"
+    }
+  },
+  {
+    "role_id": "Q51093346",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Vichada"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092593",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Vichada",
+      "lang:en": "departmental assembly of Vichada"
+    }
+  },
+  {
+    "role_id": "Q51093348",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of La Guajira"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048 Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q5707807",
+    "organization_name": {
+      "lang:es": "asamblea departamental de La Guajira",
+      "lang:en": "departmental assembly of La Guajira"
+    }
+  },
+  {
+    "role_id": "Q51093350",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Guaviare"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092595",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Guaviare",
+      "lang:en": "departmental assembly of Guaviare"
+    }
+  },
+  {
+    "role_id": "Q51093353",
+    "role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy in the departmental assembly of Amazonas"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51092596",
+    "organization_name": {
+      "lang:es": "asamblea departamental de Amazonas",
+      "lang:en": "departmental assembly of Amazonas"
+    }
+  },
+  {
+    "role_id": "Q51094653",
+    "role_name": {
+      "lang:es": "alcalde de Cali",
+      "lang:en": "mayor of Cali"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q51716468",
+    "organization_name": {
+      "lang:es": "alcaldía de Santiago de Cali",
+      "lang:en": "office of the mayor of Cali"
+    }
+  },
+  {
+    "role_id": "Q51094750",
+    "role_name": {
+      "lang:es": "alcalde de Medellín",
+      "lang:en": "mayor of Medellín"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q51716472",
+    "organization_name": {
+      "lang:es": "alcaldía de Medellín",
+      "lang:en": "office of the mayor of Medellín"
+    }
+  },
+  {
+    "role_id": "Q51094842",
+    "role_name": {
+      "lang:es": "alcalde de Cartagena de Indias",
+      "lang:en": "mayor of Cartagena de Indias"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q51716481",
+    "organization_name": {
+      "lang:es": "alcaldía de Cartagena de Indias",
+      "lang:en": "office of the mayor of Cartagena"
+    }
+  },
+  {
+    "role_id": "Q51096842",
+    "role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor of Bogotá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q5780806",
+    "organization_name": {
+      "lang:es": "concejo de Bogotá",
+      "lang:en": "Bogotá city council"
+    }
+  },
+  {
+    "role_id": "Q51096851",
+    "role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor of Cali"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q51093881",
+    "organization_name": {
+      "lang:es": "concejo de Cali",
+      "lang:en": "city council of Cali"
+    }
+  },
+  {
+    "role_id": "Q51096859",
+    "role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor of Medellín"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q51094127",
+    "organization_name": {
+      "lang:es": "concejo de Medellín",
+      "lang:en": "city council of Medellín"
+    }
+  },
+  {
+    "role_id": "Q51096868",
+    "role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor of Barranquilla"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q51094137",
+    "organization_name": {
+      "lang:es": "concejo de Barranquilla",
+      "lang:en": "city council of Barranquilla"
+    }
+  },
+  {
+    "role_id": "Q51096876",
+    "role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor of Cartagena de Indias"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16491339",
+    "organization_name": {
+      "lang:es": "concejo distrital de Cartagena de Indias",
+      "lang:en": "district council of Cartagena de Indias"
+    }
+  },
+  {
+    "role_id": "Q5663913",
+    "role_name": {
+      "lang:es": "Alcalde de Barranquilla",
+      "lang:en": "mayor of Barranquilla"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q51716476",
+    "organization_name": {
+      "lang:es": "alcaldía de Barranquilla",
+      "lang:en": "office of the mayor of Barranquilla"
+    }
+  },
+  {
+    "role_id": "Q853475",
+    "role_name": {
+      "lang:es": "presidente de Colombia",
+      "lang:en": "president of Colombia"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:es": "jefe de Gobierno",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q5419800",
+    "organization_name": {
+      "lang:es": "Poder Ejecutivo en Colombia",
+      "lang:en": "Executive Branch of Colombia"
+    }
+  }
+]

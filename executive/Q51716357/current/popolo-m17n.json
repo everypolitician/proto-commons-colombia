@@ -110,11 +110,6 @@
       "person_id": "Q54086200",
       "organization_id": "Q51716357",
       "area_id": "Q13985",
-      "role_superclass_code": "Q47524522",
-      "role_superclass": {
-        "lang:es": "Gobernador de Caquetá",
-        "lang:en": "Governor of Caquetá Department"
-      },
       "role_code": "Q47524522",
       "role": {
         "lang:es": "Gobernador de Caquetá",
@@ -126,11 +121,6 @@
       "person_id": "Q56480152",
       "organization_id": "Q51716357",
       "area_id": "Q13985",
-      "role_superclass_code": "Q47524522",
-      "role_superclass": {
-        "lang:es": "Gobernador de Caquetá",
-        "lang:en": "Governor of Caquetá Department"
-      },
       "role_code": "Q47524522",
       "role": {
         "lang:es": "Gobernador de Caquetá",

@@ -110,11 +110,6 @@
       "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716350",
       "area_id": "Q123304",
-      "role_superclass_code": "Q47524391",
-      "role_superclass": {
-        "lang:es": "Gobernador de Antioquia",
-        "lang:en": "Governor of Antioquia"
-      },
       "role_code": "Q47524391",
       "role": {
         "lang:es": "Gobernador de Antioquia",

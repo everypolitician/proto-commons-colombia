@@ -1,9 +1,57 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "León Darío Ramírez",
+        "lang:en": "León Darío Ramírez"
+      },
+      "id": "Q20017105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20017105"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Ángel Pinto",
+        "lang:en": "Miguel Ángel Pinto"
+      },
+      "id": "Q28501273",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28501273"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Cámara de Representantes de Colombia",
+        "lang:en": "Chamber of Representatives of Colombia"
+      },
+      "id": "Q1571756",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1571756"
+        }
+      ],
+      "area_id": "Q739",
+      "seat_counts": {
+        "Q18960607": "166"
+      }
+    }
   ],
   "areas": [
     {
@@ -864,6 +912,37 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20017105-facf7b9f-4919-641c-eb62-a6333a2bd9f2",
+      "person_id": "Q20017105",
+      "organization_id": "Q1571756",
+      "start_date": "2010-07-20",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28501273-b8256c87-483e-b847-7c5d-410f519b2927",
+      "person_id": "Q28501273",
+      "organization_id": "Q1571756",
+      "start_date": "2014-07-20",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18960607",
+      "role": {
+        "lang:es": "miembro de la Cámara de Representantes de Colombia",
+        "lang:en": "member of the Chamber of Representatives of Colombia"
+      }
+    }
   ]
 }

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Chocó",
+        "lang:en": "departmental assembly of Chocó"
+      },
+      "id": "Q51092558",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092558"
+        }
+      ],
+      "area_id": "Q230584",
+      "seat_counts": {
+        "Q51093305": "11"
+      }
+    }
   ],
   "areas": [
     {

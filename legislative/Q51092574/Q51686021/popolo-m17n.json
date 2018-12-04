@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Córdoba",
+        "lang:en": "departmental assembly of Córdoba"
+      },
+      "id": "Q51092574",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092574"
+        }
+      ],
+      "area_id": "Q234912"
+    }
   ],
   "areas": [
     {

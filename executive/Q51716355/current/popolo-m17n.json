@@ -95,11 +95,6 @@
       "person_id": "Q54086199",
       "organization_id": "Q51716355",
       "area_id": "Q13984",
-      "role_superclass_code": "Q47524524",
-      "role_superclass": {
-        "lang:es": "Gobernador de Casanare",
-        "lang:en": "Governor of Casanare Department"
-      },
       "role_code": "Q47524524",
       "role": {
         "lang:es": "Gobernador de Casanare",

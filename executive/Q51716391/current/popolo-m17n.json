@@ -110,11 +110,6 @@
       "person_id": "Q21941974",
       "organization_id": "Q51716391",
       "area_id": "Q232564",
-      "role_superclass_code": "Q47524564",
-      "role_superclass": {
-        "lang:es": "Gobernador de Cundinamarca",
-        "lang:en": "Governor of Cundinamarca Department"
-      },
       "role_code": "Q47524564",
       "role": {
         "lang:es": "Gobernador de Cundinamarca",
@@ -126,11 +121,6 @@
       "person_id": "Q56480173",
       "organization_id": "Q51716391",
       "area_id": "Q232564",
-      "role_superclass_code": "Q47524564",
-      "role_superclass": {
-        "lang:es": "Gobernador de Cundinamarca",
-        "lang:en": "Governor of Cundinamarca Department"
-      },
       "role_code": "Q47524564",
       "role": {
         "lang:es": "Gobernador de Cundinamarca",

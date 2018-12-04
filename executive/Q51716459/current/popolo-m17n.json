@@ -92,11 +92,6 @@
       "person_id": "Q54086216",
       "organization_id": "Q51716459",
       "area_id": "Q272885",
-      "role_superclass_code": "Q47524571",
-      "role_superclass": {
-        "lang:es": "Gobernador de Guaviare",
-        "lang:en": "Governor of Guaviare Department"
-      },
       "role_code": "Q47524571",
       "role": {
         "lang:es": "Gobernador de Guaviare",

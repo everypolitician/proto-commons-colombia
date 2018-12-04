@@ -92,11 +92,6 @@
       "person_id": "Q54086213",
       "organization_id": "Q51716447",
       "area_id": "Q238645",
-      "role_superclass_code": "Q47524568",
-      "role_superclass": {
-        "lang:es": "Gobernador de Guainía",
-        "lang:en": "Governor of Guainía"
-      },
       "role_code": "Q47524568",
       "role": {
         "lang:es": "Gobernador de Guainía",

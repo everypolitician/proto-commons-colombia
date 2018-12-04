@@ -110,11 +110,6 @@
       "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716425",
       "area_id": "Q234920",
-      "role_superclass_code": "Q47524573",
-      "role_superclass": {
-        "lang:es": "Gobernador de Huila",
-        "lang:en": "Governor of Huila Department"
-      },
       "role_code": "Q47524573",
       "role": {
         "lang:es": "Gobernador de Huila",

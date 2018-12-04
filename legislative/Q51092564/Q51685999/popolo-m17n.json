@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Caldas",
+        "lang:en": "departmental assembly of Caldas"
+      },
+      "id": "Q51092564",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092564"
+        }
+      ],
+      "area_id": "Q230607",
+      "seat_counts": {
+        "Q51093310": "16"
+      }
+    }
   ],
   "areas": [
     {

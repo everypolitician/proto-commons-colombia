@@ -110,11 +110,6 @@
       "person_id": "Q54086211",
       "organization_id": "Q51716416",
       "area_id": "Q234912",
-      "role_superclass_code": "Q47524553",
-      "role_superclass": {
-        "lang:es": "Gobernador de Córdoba",
-        "lang:en": "Governor of Córdoba Department"
-      },
       "role_code": "Q47524553",
       "role": {
         "lang:es": "Gobernador de Córdoba",
@@ -126,11 +121,6 @@
       "person_id": "Q56480112",
       "organization_id": "Q51716416",
       "area_id": "Q234912",
-      "role_superclass_code": "Q47524553",
-      "role_superclass": {
-        "lang:es": "Gobernador de Córdoba",
-        "lang:en": "Governor of Córdoba Department"
-      },
       "role_code": "Q47524553",
       "role": {
         "lang:es": "Gobernador de Córdoba",

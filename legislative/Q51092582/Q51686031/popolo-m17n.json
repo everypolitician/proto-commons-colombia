@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Sucre",
+        "lang:en": "departmental assembly of Sucre"
+      },
+      "id": "Q51092582",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092582"
+        }
+      ],
+      "area_id": "Q235188",
+      "seat_counts": {
+        "Q51093335": "11"
+      }
+    }
   ],
   "areas": [
     {

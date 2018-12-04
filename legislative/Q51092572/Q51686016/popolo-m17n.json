@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "asamblea departamental de Tolima",
+        "lang:en": "departmental assembly of Tolima"
+      },
+      "id": "Q51092572",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51092572"
+        }
+      ],
+      "area_id": "Q234501",
+      "seat_counts": {
+        "Q51093323": "15"
+      }
+    }
   ],
   "areas": [
     {

@@ -140,11 +140,6 @@
       "on_behalf_of_id": "Q939021",
       "organization_id": "Q51716389",
       "area_id": "Q230882",
-      "role_superclass_code": "Q5589627",
-      "role_superclass": {
-        "lang:es": "Gobernador de Atlántico",
-        "lang:en": "Governor of Atlántico"
-      },
       "role_code": "Q5589627",
       "role": {
         "lang:es": "Gobernador de Atlántico",
@@ -157,11 +152,6 @@
       "on_behalf_of_id": "Q429642",
       "organization_id": "Q51716389",
       "area_id": "Q230882",
-      "role_superclass_code": "Q5589627",
-      "role_superclass": {
-        "lang:es": "Gobernador de Atlántico",
-        "lang:en": "Governor of Atlántico"
-      },
       "role_code": "Q5589627",
       "role": {
         "lang:es": "Gobernador de Atlántico",
