@@ -2,17 +2,67 @@
   {
     "comment": "Chamber of Representatives of Colombia",
     "house_item_id": "Q1571756",
+    "seat_count": "166",
+    "area_id": "Q739",
     "position_item_id": "Q18960607",
     "terms": [
       {
         "comment": "2018-2022 parliament",
-        "term_item_id": "Q57166414"
+        "term_item_id": "Q57166414",
+        "start_date": "2018-07-20"
+      }
+    ]
+  },
+  {
+    "comment": "district council of Cartagena de Indias",
+    "house_item_id": "Q16491339",
+    "seat_count": "19",
+    "area_id": "Q657461",
+    "position_item_id": "Q51096876",
+    "terms": [
+      {
+        "comment": "2016-2019 council",
+        "term_item_id": "Q51686064",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Antioquia",
+    "house_item_id": "Q18170765",
+    "seat_count": "26",
+    "area_id": "Q123304",
+    "position_item_id": "Q47525522",
+    "terms": [
+      {
+        "comment": "2016-2019 assembly",
+        "term_item_id": "Q51685956",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Cesar",
+    "house_item_id": "Q21564847",
+    "seat_count": "11",
+    "area_id": "Q234916",
+    "position_item_id": "Q47528278",
+    "terms": [
+      {
+        "comment": "2016-2019 assembly",
+        "term_item_id": "Q51686023",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "Senate of Colombia",
     "house_item_id": "Q2398781",
+    "seat_count": "102",
+    "area_id": "Q739",
     "position_item_id": "Q19254253",
     "terms": [
       {
@@ -22,409 +72,512 @@
     ]
   },
   {
-    "comment": "departmental assembly of Antioquia",
-    "house_item_id": "Q18170765",
-    "position_item_id": "Q47525522",
-    "terms": [
-      {
-        "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685956"
-      }
-    ]
-  },
-  {
-    "comment": "departmental assembly of Cesar",
-    "house_item_id": "Q21564847",
-    "position_item_id": "Q47528278",
-    "terms": [
-      {
-        "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686023"
-      }
-    ]
-  },
-  {
     "comment": "departmental assembly of Boyacá",
     "house_item_id": "Q51092546",
+    "seat_count": "16",
+    "area_id": "Q121233",
     "position_item_id": "Q51093287",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685960"
+        "term_item_id": "Q51685960",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Casanare",
     "house_item_id": "Q51092547",
+    "seat_count": "11",
+    "area_id": "Q13984",
     "position_item_id": "Q51093290",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685962"
+        "term_item_id": "Q51685962",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Caquetá",
     "house_item_id": "Q51092549",
+    "seat_count": "11",
+    "area_id": "Q13985",
     "position_item_id": "Q51093291",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685966"
+        "term_item_id": "Q51685966",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Risaralda",
     "house_item_id": "Q51092550",
+    "seat_count": "12",
+    "area_id": "Q13993",
     "position_item_id": "Q51093294",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685971"
+        "term_item_id": "Q51685971",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Quindío",
     "house_item_id": "Q51092551",
+    "seat_count": "11",
+    "area_id": "Q13995",
     "position_item_id": "Q51093296",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685974"
+        "term_item_id": "Q51685974",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Magdalena",
     "house_item_id": "Q51092552",
+    "seat_count": "13",
+    "area_id": "Q199910",
     "position_item_id": "Q51093300",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685979"
+        "term_item_id": "Q51685979",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Nariño",
     "house_item_id": "Q51092555",
+    "seat_count": "13",
+    "area_id": "Q230217",
     "position_item_id": "Q51093302",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685982"
+        "term_item_id": "Q51685982",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Arauca",
     "house_item_id": "Q51092556",
+    "seat_count": "11",
+    "area_id": "Q230223",
     "position_item_id": "Q51093303",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685985"
+        "term_item_id": "Q51685985",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Chocó",
     "house_item_id": "Q51092558",
+    "seat_count": "11",
+    "area_id": "Q230584",
     "position_item_id": "Q51093305",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685988"
+        "term_item_id": "Q51685988",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Bolívar",
     "house_item_id": "Q51092559",
+    "seat_count": "14",
+    "area_id": "Q230597",
     "position_item_id": "Q51093306",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685991"
+        "term_item_id": "Q51685991",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Cauca",
     "house_item_id": "Q51092561",
+    "seat_count": "13",
+    "area_id": "Q230602",
     "position_item_id": "Q51093308",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685995"
+        "term_item_id": "Q51685995",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Caldas",
     "house_item_id": "Q51092564",
+    "seat_count": "16",
+    "area_id": "Q230607",
     "position_item_id": "Q51093310",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685999"
+        "term_item_id": "Q51685999",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Atlántico",
     "house_item_id": "Q51092565",
+    "seat_count": "14",
+    "area_id": "Q230882",
     "position_item_id": "Q51093312",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686002"
+        "term_item_id": "Q51686002",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Cundinamarca",
     "house_item_id": "Q51092568",
+    "seat_count": "16",
+    "area_id": "Q232564",
     "position_item_id": "Q51093316",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686005"
+        "term_item_id": "Q51686005",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Putumayo",
     "house_item_id": "Q51092569",
+    "seat_count": "11",
+    "area_id": "Q232953",
     "position_item_id": "Q51093319",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686010"
+        "term_item_id": "Q51686010",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Norte de Santander",
     "house_item_id": "Q51092570",
+    "seat_count": "13",
+    "area_id": "Q233058",
     "position_item_id": "Q51093322",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686012"
+        "term_item_id": "Q51686012",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Tolima",
     "house_item_id": "Q51092572",
+    "seat_count": "15",
+    "area_id": "Q234501",
     "position_item_id": "Q51093323",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686016"
+        "term_item_id": "Q51686016",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Vaupés",
     "house_item_id": "Q51092573",
+    "seat_count": "11",
+    "area_id": "Q234505",
     "position_item_id": "Q51093325",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686018"
+        "term_item_id": "Q51686018",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Córdoba",
     "house_item_id": "Q51092574",
+    "seat_count": null,
+    "area_id": "Q234912",
     "position_item_id": "Q51093327",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686021"
+        "term_item_id": "Q51686021",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Huila",
     "house_item_id": "Q51092577",
+    "seat_count": "12",
+    "area_id": "Q234920",
     "position_item_id": "Q51093330",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686025"
+        "term_item_id": "Q51686025",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Santander",
     "house_item_id": "Q51092579",
+    "seat_count": "16",
+    "area_id": "Q235166",
     "position_item_id": "Q51093333",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686028"
+        "term_item_id": "Q51686028",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Sucre",
     "house_item_id": "Q51092582",
+    "seat_count": "11",
+    "area_id": "Q235188",
     "position_item_id": "Q51093335",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686031"
+        "term_item_id": "Q51686031",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Meta",
     "house_item_id": "Q51092583",
+    "seat_count": "11",
+    "area_id": "Q238629",
     "position_item_id": "Q51093340",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686034"
+        "term_item_id": "Q51686034",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Guainía",
     "house_item_id": "Q51092587",
+    "seat_count": "11",
+    "area_id": "Q238645",
     "position_item_id": "Q51093341",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686037"
+        "term_item_id": "Q51686037",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina",
     "house_item_id": "Q51092590",
+    "seat_count": "11",
+    "area_id": "Q26855",
     "position_item_id": "Q51093343",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686038"
+        "term_item_id": "Q51686038",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Vichada",
     "house_item_id": "Q51092593",
+    "seat_count": "11",
+    "area_id": "Q268729",
     "position_item_id": "Q51093346",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686043"
+        "term_item_id": "Q51686043",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Guaviare",
     "house_item_id": "Q51092595",
+    "seat_count": "11",
+    "area_id": "Q272885",
     "position_item_id": "Q51093350",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686050"
+        "term_item_id": "Q51686050",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "departmental assembly of Amazonas",
     "house_item_id": "Q51092596",
+    "seat_count": "11",
+    "area_id": "Q44724",
     "position_item_id": "Q51093353",
     "terms": [
       {
         "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686051"
-      }
-    ]
-  },
-  {
-    "comment": "departmental assembly of Valle del Cauca",
-    "house_item_id": "Q5260098",
-    "position_item_id": "Q47525024",
-    "terms": [
-      {
-        "comment": "2016-2019 assembly",
-        "term_item_id": "Q51685969"
-      }
-    ]
-  },
-  {
-    "comment": "departmental assembly of La Guajira",
-    "house_item_id": "Q5707807",
-    "position_item_id": "Q51093348",
-    "terms": [
-      {
-        "comment": "2016-2019 assembly",
-        "term_item_id": "Q51686045"
-      }
-    ]
-  },
-  {
-    "comment": "Bogotá city council",
-    "house_item_id": "Q5780806",
-    "position_item_id": "Q51096842",
-    "terms": [
-      {
-        "comment": "2016-2019 council",
-        "term_item_id": "Q51686055"
-      }
-    ]
-  },
-  {
-    "comment": "district council of Cartagena de Indias",
-    "house_item_id": "Q16491339",
-    "position_item_id": "Q51096876",
-    "terms": [
-      {
-        "comment": "2016-2019 council",
-        "term_item_id": "Q51686064"
+        "term_item_id": "Q51686051",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "city council of Cali",
     "house_item_id": "Q51093881",
+    "seat_count": "21",
+    "area_id": "Q51103",
     "position_item_id": "Q51096851",
     "terms": [
       {
         "comment": "2016-2019 council",
-        "term_item_id": "Q51686057"
+        "term_item_id": "Q51686057",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "city council of Medellín",
     "house_item_id": "Q51094127",
+    "seat_count": "20",
+    "area_id": "Q48278",
     "position_item_id": "Q51096859",
     "terms": [
       {
         "comment": "2016-2019 council",
-        "term_item_id": "Q51686060"
+        "term_item_id": "Q51686060",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   },
   {
     "comment": "city council of Barranquilla",
     "house_item_id": "Q51094137",
+    "seat_count": "21",
+    "area_id": "Q62823",
     "position_item_id": "Q51096868",
     "terms": [
       {
         "comment": "2016-2019 council",
-        "term_item_id": "Q51686062"
+        "term_item_id": "Q51686062",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of Valle del Cauca",
+    "house_item_id": "Q5260098",
+    "seat_count": "21",
+    "area_id": "Q13990",
+    "position_item_id": "Q47525024",
+    "terms": [
+      {
+        "comment": "2016-2019 assembly",
+        "term_item_id": "Q51685969",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "departmental assembly of La Guajira",
+    "house_item_id": "Q5707807",
+    "seat_count": "11",
+    "area_id": "Q272747",
+    "position_item_id": "Q51093348",
+    "terms": [
+      {
+        "comment": "2016-2019 assembly",
+        "term_item_id": "Q51686045",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Bogotá city council",
+    "house_item_id": "Q5780806",
+    "seat_count": "45",
+    "area_id": "Q2841",
+    "position_item_id": "Q51096842",
+    "terms": [
+      {
+        "comment": "2016-2019 council",
+        "term_item_id": "Q51686055",
+        "start_date": "2016-01-01",
+        "end_date": "2019-12-31"
       }
     ]
   }
