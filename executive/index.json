@@ -1,16 +1,7 @@
 [
   {
-    "comment": "Executive Branch of Colombia",
-    "executive_item_id": "Q5419800",
-    "positions": [
-      {
-        "comment": "president of Colombia",
-        "position_item_id": "Q853475"
-      }
-    ]
-  },
-  {
     "comment": "office of the governor of Antioquia department",
+    "area_id": "Q123304",
     "executive_item_id": "Q51716350",
     "positions": [
       {
@@ -21,6 +12,7 @@
   },
   {
     "comment": "office of the governor of Boyacá department",
+    "area_id": "Q121233",
     "executive_item_id": "Q51716353",
     "positions": [
       {
@@ -31,6 +23,7 @@
   },
   {
     "comment": "office of the governor of Casanare department",
+    "area_id": "Q13984",
     "executive_item_id": "Q51716355",
     "positions": [
       {
@@ -41,6 +34,7 @@
   },
   {
     "comment": "office of the governor of Caquetá department",
+    "area_id": "Q13985",
     "executive_item_id": "Q51716357",
     "positions": [
       {
@@ -51,6 +45,7 @@
   },
   {
     "comment": "office of the governor of Valle del Cauca department",
+    "area_id": "Q13990",
     "executive_item_id": "Q51716360",
     "positions": [
       {
@@ -61,6 +56,7 @@
   },
   {
     "comment": "office of the governor of Risaralda department",
+    "area_id": "Q13993",
     "executive_item_id": "Q51716362",
     "positions": [
       {
@@ -71,6 +67,7 @@
   },
   {
     "comment": "office of the governor of Quindío department",
+    "area_id": "Q13995",
     "executive_item_id": "Q51716363",
     "positions": [
       {
@@ -81,6 +78,7 @@
   },
   {
     "comment": "office of the governor of Magdalena department",
+    "area_id": "Q199910",
     "executive_item_id": "Q51716367",
     "positions": [
       {
@@ -91,6 +89,7 @@
   },
   {
     "comment": "office of the governor of Nariño department",
+    "area_id": "Q230217",
     "executive_item_id": "Q51716368",
     "positions": [
       {
@@ -101,6 +100,7 @@
   },
   {
     "comment": "office of the governor of Arauca department",
+    "area_id": "Q230223",
     "executive_item_id": "Q51716371",
     "positions": [
       {
@@ -111,6 +111,7 @@
   },
   {
     "comment": "office of the governor of Chocó department",
+    "area_id": "Q230584",
     "executive_item_id": "Q51716374",
     "positions": [
       {
@@ -121,6 +122,7 @@
   },
   {
     "comment": "office of the governor of Bolívar department",
+    "area_id": "Q230597",
     "executive_item_id": "Q51716377",
     "positions": [
       {
@@ -131,6 +133,7 @@
   },
   {
     "comment": "office of the governor of Cauca department",
+    "area_id": "Q230602",
     "executive_item_id": "Q51716383",
     "positions": [
       {
@@ -141,6 +144,7 @@
   },
   {
     "comment": "office of the governor of Caldas department",
+    "area_id": "Q230607",
     "executive_item_id": "Q51716386",
     "positions": [
       {
@@ -151,6 +155,7 @@
   },
   {
     "comment": "office of the governor of Atlántico department",
+    "area_id": "Q230882",
     "executive_item_id": "Q51716389",
     "positions": [
       {
@@ -161,6 +166,7 @@
   },
   {
     "comment": "office of the governor of Cundinamarca department",
+    "area_id": "Q232564",
     "executive_item_id": "Q51716391",
     "positions": [
       {
@@ -171,6 +177,7 @@
   },
   {
     "comment": "office of the governor of Putumayo department",
+    "area_id": "Q232953",
     "executive_item_id": "Q51716395",
     "positions": [
       {
@@ -181,6 +188,7 @@
   },
   {
     "comment": "office of the governor of Norte de Santander department",
+    "area_id": "Q233058",
     "executive_item_id": "Q51716403",
     "positions": [
       {
@@ -191,6 +199,7 @@
   },
   {
     "comment": "office of the governor of Tolima department",
+    "area_id": "Q234501",
     "executive_item_id": "Q51716406",
     "positions": [
       {
@@ -201,6 +210,7 @@
   },
   {
     "comment": "office of the governor of Vaupés department",
+    "area_id": "Q234505",
     "executive_item_id": "Q51716410",
     "positions": [
       {
@@ -211,6 +221,7 @@
   },
   {
     "comment": "office of the governor of Córdoba department",
+    "area_id": "Q234912",
     "executive_item_id": "Q51716416",
     "positions": [
       {
@@ -221,6 +232,7 @@
   },
   {
     "comment": "office of the governor of Cesar department",
+    "area_id": "Q234916",
     "executive_item_id": "Q51716421",
     "positions": [
       {
@@ -231,6 +243,7 @@
   },
   {
     "comment": "office of the governor of Huila department",
+    "area_id": "Q234920",
     "executive_item_id": "Q51716425",
     "positions": [
       {
@@ -241,6 +254,7 @@
   },
   {
     "comment": "office of the governor of Santander department",
+    "area_id": "Q235166",
     "executive_item_id": "Q51716432",
     "positions": [
       {
@@ -251,6 +265,7 @@
   },
   {
     "comment": "office of the governor of Sucre department",
+    "area_id": "Q235188",
     "executive_item_id": "Q51716437",
     "positions": [
       {
@@ -261,6 +276,7 @@
   },
   {
     "comment": "office of the governor of Meta",
+    "area_id": "Q238629",
     "executive_item_id": "Q51716441",
     "positions": [
       {
@@ -271,6 +287,7 @@
   },
   {
     "comment": "office of the governor of Guainía department",
+    "area_id": "Q238645",
     "executive_item_id": "Q51716447",
     "positions": [
       {
@@ -281,6 +298,7 @@
   },
   {
     "comment": "office of the governor of the archipelago of Saint Andréws, Providence and Saint Catalina",
+    "area_id": "Q26855",
     "executive_item_id": "Q51716449",
     "positions": [
       {
@@ -291,6 +309,7 @@
   },
   {
     "comment": "office of the governor of Vichada department",
+    "area_id": "Q268729",
     "executive_item_id": "Q51716452",
     "positions": [
       {
@@ -301,6 +320,7 @@
   },
   {
     "comment": "office of the governor of La Guajira department",
+    "area_id": "Q272747",
     "executive_item_id": "Q51716456",
     "positions": [
       {
@@ -311,6 +331,7 @@
   },
   {
     "comment": "office of the governor of Guaviare department",
+    "area_id": "Q272885",
     "executive_item_id": "Q51716459",
     "positions": [
       {
@@ -321,6 +342,7 @@
   },
   {
     "comment": "office of the governor of Amazonas department",
+    "area_id": "Q44724",
     "executive_item_id": "Q51716462",
     "positions": [
       {
@@ -331,6 +353,7 @@
   },
   {
     "comment": "office of the mayor of Bogotá",
+    "area_id": "Q2841",
     "executive_item_id": "Q51716465",
     "positions": [
       {
@@ -341,6 +364,7 @@
   },
   {
     "comment": "office of the mayor of Cali",
+    "area_id": "Q51103",
     "executive_item_id": "Q51716468",
     "positions": [
       {
@@ -351,6 +375,7 @@
   },
   {
     "comment": "office of the mayor of Medellín",
+    "area_id": "Q48278",
     "executive_item_id": "Q51716472",
     "positions": [
       {
@@ -361,6 +386,7 @@
   },
   {
     "comment": "office of the mayor of Barranquilla",
+    "area_id": "Q62823",
     "executive_item_id": "Q51716476",
     "positions": [
       {
@@ -371,11 +397,23 @@
   },
   {
     "comment": "office of the mayor of Cartagena",
+    "area_id": "Q657461",
     "executive_item_id": "Q51716481",
     "positions": [
       {
         "comment": "mayor of Cartagena de Indias",
         "position_item_id": "Q51094842"
+      }
+    ]
+  },
+  {
+    "comment": "Executive Branch of Colombia",
+    "area_id": "Q739",
+    "executive_item_id": "Q5419800",
+    "positions": [
+      {
+        "comment": "president of Colombia",
+        "position_item_id": "Q853475"
       }
     ]
   }
