@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q939021"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colombian Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal Colombiano"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21562076"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q230597"
@@ -16,7 +34,7 @@
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Bolívar"
+        "value" : "Bolívar (Colombia)"
       },
       "role" : {
         "type" : "uri",
@@ -45,10 +63,6 @@
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernador de Bolívar"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21562076"
       },
       "name_en" : {
         "xml:lang" : "en",

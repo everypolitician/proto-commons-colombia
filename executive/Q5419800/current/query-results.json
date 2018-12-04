@@ -47,32 +47,32 @@
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of Colombia"
+        "value" : "president of Colombia"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Presidente de Colombia"
+        "value" : "presidente de Colombia"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of Colombia"
+        "value" : "president of Colombia"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Presidente de Colombia"
+        "value" : "presidente de Colombia"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Iván Duque"
+        "value" : "Iván Duque Márquez"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Iván Duque"
+        "value" : "Iván Duque Márquez"
       },
       "org" : {
         "type" : "uri",
@@ -104,113 +104,6 @@
       "facebook" : {
         "type" : "literal",
         "value" : "ivanduquemarquez"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q973542"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Social Party of National Unity"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Partido Social de Unidad Nacional"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57311"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q739"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Colombia"
-      },
-      "district_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Colombia"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q853475"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q853475"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Colombia"
-      },
-      "role_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Presidente de Colombia"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Colombia"
-      },
-      "role_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Presidente de Colombia"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juan Manuel Santos"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Juan Manuel Santos"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5419800"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Branch of Colombia"
-      },
-      "org_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Poder Ejecutivo en Colombia"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57311-C035D110-AE99-4DF4-98D8-F4F1333F3E09"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q739"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2010-08-07T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "JMSantos.Presidente"
-      },
-      "end" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-08-07T00:00:00Z"
       }
     } ]
   }

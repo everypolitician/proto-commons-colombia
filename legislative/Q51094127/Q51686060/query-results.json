@@ -188,7 +188,7 @@
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Partido Verde"
+        "value" : "Alianza Verde"
       },
       "statement" : {
         "type" : "uri",

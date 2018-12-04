@@ -16,7 +16,7 @@
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Sucre"
+        "value" : "Sucre (Colombia)"
       },
       "role" : {
         "type" : "uri",
