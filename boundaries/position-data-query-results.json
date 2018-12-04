@@ -1,0 +1,3230 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_es",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_es",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_es",
+      "position_superclass_en",
+      "body",
+      "body_es",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18960607"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "miembro de la Cámara de Representantes de Colombia"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Chamber of Representatives of Colombia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q739"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1571756"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cámara de Representantes de Colombia"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chamber of Representatives of Colombia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19254253"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "senador de Colombia"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Senate of Colombia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q739"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "senador"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2398781"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Senado de Colombia"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Colombia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21994938"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde de Bogotá"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "superior mayor of Bogota"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2841"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Bogotá"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bogotá"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51716465"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcaldía de Bogotá"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "office of the mayor of Bogotá"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47525024"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Valle del Cauca"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13990"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Valle del Cauca"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Valle del Cauca Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5260098"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Valle del Cauca"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Valle del Cauca"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47525024"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Valle del Cauca"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13990"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Valle del Cauca"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Valle del Cauca Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "legislador"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legislator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5260098"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Valle del Cauca"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Valle del Cauca"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47525522"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Antioquia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123304"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Antioquia"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antioquia Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18170765"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Antioquia"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Antioquia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47525522"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Antioquia"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q123304"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Antioquia"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Antioquia Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "legislador"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legislator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18170765"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Antioquia"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Antioquia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47528278"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Cesar"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234916"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cesar"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cesar Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21564847"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Cesar"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Cesar"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47528278"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Cesar"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234916"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cesar"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cesar Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "legislador"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legislator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21564847"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Cesar"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Cesar"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093287"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Boyacá"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q121233"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Boyacá"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boyacá Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092546"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Boyacá"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Boyacá"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093290"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Casanare"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13984"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Casanare"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Casanare Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092547"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Casanare"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Casanare"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093291"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Caquetá"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13985"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Caquetá"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Caquetá Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092549"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Caquetá"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Caquetá"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093294"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Risaralda"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13993"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Risaralda"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Risaralda Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092550"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Risaralda"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Risaralda"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093296"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Quindío"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13995"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Quindío"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quindío Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092551"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Quindío"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Quindío"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093300"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Magdalena"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q199910"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Magdalena"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Magdalena Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092552"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Magdalena"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Magdalena"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093302"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Nariño"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230217"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Nariño"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nariño Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092555"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Nariño"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Nariño"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093303"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Arauca"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230223"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Arauca"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arauca Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092556"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Arauca"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Arauca"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093305"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Chocó"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230584"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Chocó"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chocó Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092558"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Chocó"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Chocó"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093306"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Bolívar"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230597"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Bolívar (Colombia)"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bolívar Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092559"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Bolívar"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Bolívar"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093308"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Cauca"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230602"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cauca"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cauca Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092561"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Cauca"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Cauca"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093310"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Caldas"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230607"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Caldas"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Caldas Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092564"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Caldas"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Caldas"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093312"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Atlántico"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q230882"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Atlántico"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Atlántico Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092565"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental del Atlántico"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Atlántico"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093316"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Cundinamarca"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q232564"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cundinamarca"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cundinamarca Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092568"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Cundinamarca"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Cundinamarca"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093319"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Putumayo"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q232953"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Putumayo"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Putumayo Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092569"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Putumayo"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Putumayo"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093322"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Norte de Santander"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233058"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Norte de Santander"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Norte de Santander Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092570"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Norte de Santander"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Norte de Santander"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093323"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Tolima"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234501"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Tolima"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tolima Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092572"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Tolima"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Tolima"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093325"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Vaupés"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234505"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Vaupés"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vaupés Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092573"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Vaupés"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Vaupés"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093327"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Córdoba"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234912"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Córdoba"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Córdoba Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092574"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Córdoba"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Córdoba"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093330"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Huila"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q234920"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Huila"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Huila Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092577"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Huila"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Huila"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093333"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Santander"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q235166"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Santander"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Santander Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092579"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Santander"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Santander"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093335"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Sucre"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q235188"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Sucre (Colombia)"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sucre Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092582"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Sucre"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Sucre"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093340"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Meta"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q238629"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Meta"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meta"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092583"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Meta"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Meta"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093341"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Guainía"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q238645"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Guainía"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Guainía Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092587"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Guainía"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Guainía"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093343"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of the departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26855"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Archipelago of Saint Andréws, Providence and Saint Catalina"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092590"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental del Archipiélago de San Andrés, Providencia y Santa Catalina"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of the archipelago of Saint Andréws, Providence and Saint Catalina"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093346"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Vichada"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q268729"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Vichada"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vichada Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092593"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Vichada"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Vichada"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093348"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of La Guajira"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q272747"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "La Guajira"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "La Guajira Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5707807"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de La Guajira"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of La Guajira"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093350"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Guaviare"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q272885"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Guaviare"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Guaviare Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092595"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Guaviare"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Guaviare"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093353"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy in the departmental assembly of Amazonas"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44724"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Amazonas"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amazonas Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51092596"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "asamblea departamental de Amazonas"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental assembly of Amazonas"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51094653"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde de Cali"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Cali"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51103"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cali"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cali"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51716468"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcaldía de Santiago de Cali"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "office of the mayor of Cali"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51094750"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde de Medellín"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Medellín"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48278"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Medellín"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Medellín"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51716472"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcaldía de Medellín"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "office of the mayor of Medellín"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51094842"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde de Cartagena de Indias"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Cartagena de Indias"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q657461"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cartagena de Indias"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cartagena"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51716481"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcaldía de Cartagena de Indias"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "office of the mayor of Cartagena"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51096842"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor of Bogotá"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2841"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Bogotá"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bogotá"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5780806"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejo de Bogotá"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bogotá city council"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51096851"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor of Cali"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51103"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cali"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cali"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51093881"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejo de Cali"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "city council of Cali"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51096859"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor of Medellín"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48278"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Medellín"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Medellín"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51094127"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejo de Medellín"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "city council of Medellín"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51096868"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor of Barranquilla"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62823"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Barranquilla"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Barranquilla"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51094137"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejo de Barranquilla"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "city council of Barranquilla"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51096876"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor of Cartagena de Indias"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q657461"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cartagena de Indias"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cartagena"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16491339"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejo distrital de Cartagena de Indias"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "district council of Cartagena de Indias"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5663913"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Alcalde de Barranquilla"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor of Barranquilla"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q15284 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q62823"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Barranquilla"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Barranquilla"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51716476"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcaldía de Barranquilla"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "office of the mayor of Barranquilla"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853475"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "presidente de Colombia"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "president of Colombia"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q739"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30461"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "presidente"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "president"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5419800"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Poder Ejecutivo en Colombia"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Branch of Colombia"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q853475"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "presidente de Colombia"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "president of Colombia"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q739"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Colombia"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2285706"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "jefe de Gobierno"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "head of government"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5419800"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Poder Ejecutivo en Colombia"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Branch of Colombia"
+        }
+      }
+    ]
+  }
+}
